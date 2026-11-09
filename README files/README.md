@@ -29,11 +29,11 @@ All figures cover **civil accidents, 1946-2022**, unless stated.
 
 | Page | Question | Preview |
 |---|---|---|
-| 1. Executive summary | Is civil aviation getting safer? | ![Executive summary](Preview%20Images/Executivesummary.png)  |
-| 2. Where it happens | Which operators and countries have the most fatalities? | ![Where it happens](Preview%20Images/Whereithappens.png) |
-| 3. Airline risk | Who is riskier per unit of flying? | ![Airline risk](Preview%20Images/Airlinerisk.png) |
+| 1. Executive summary | Is civil aviation getting safer? | ![Executive summary](Preview%20Images/Executive%20summary.png) |
+| 2. Where it happens | Which operators and countries have the most fatalities? | ![Where it happens](Preview%20Images/Where%20it%20happens.png) |
+| 3. Airline risk | Who is riskier per unit of flying? | ![Airline risk](Preview%20Images/Airline%20risk.png) |
 | 4. Causes | What causes civil accidents? | ![Causes](Preview%20Images/Causes.png)|
-| 5. Data limits | How far can we trust the data? | ![Data limits](Preview%20Images/Datalimits.png) |
+| 5. Data limits | How far can we trust the data? | ![Data limits](Preview%20Images/Data%20limits.png) |
 
 ## Data sources
 
