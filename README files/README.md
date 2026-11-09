@@ -4,7 +4,7 @@ An end-to-end analytics project on real, web scraped aviation accident data from
 
 > **Role played:** safety and risk analyst advising an insurer or regulator. Where does aviation risk concentrate, has it changed over time, and how far can the data be trusted?
 
-![Executive summary](Preview%20Images/Executivesummary.png)
+![Executive summary](Preview%20Images/Executive%20summary.png)
 
 ## Key findings
 
