@@ -1,0 +1,1001 @@
+﻿accident_id,event_date,event_year,aircraft_type,registration_key,operator,location,country,cat_code,fat_occupants,fat_ground
+1,NULL,1923,Aeromarine 75,NULL,Aeromarine Airways,Havana harbour,Cuba,O1,0,NULL
+2,NULL,1930,Junkers JuG-1W (G.24),NULL,Soviet AF,NULL,Russia,A1,NULL,NULL
+3,NULL,1934,Ford 4-AT-B Tri-Motor,NC9609,Private,"Boca Chica, Tama...",Mexico,O1,0,NULL
+4,NULL,1936,Curtiss AT-32C Condor II,NR11732,CÃ³ndor Peruana de AviaciÃ³n,Pias,Peru,A1,NULL,NULL
+5,NULL,1940,Dewoitine D.338,FAQBH,Air France,Indochina,NULL,A1,NULL,NULL
+6,NULL,1941,Junkers Ju-52/3m,NULL,German AF,NULL,Germany,A1,NULL,NULL
+7,NULL,1941,Junkers Ju-52/3m,NULL,German AF,Creta,Greece,A1,NULL,NULL
+8,NULL,1941,Junkers Ju-52/3m,DAEAO,German AF,NULL,NULL,A1,NULL,NULL
+9,NULL,1941,Junkers Ju-52/3m,DAFCD,German AF,NULL,NULL,A1,NULL,NULL
+10,NULL,1941,Junkers Ju-52/3m,DAHMS,German AF,NULL,NULL,A1,NULL,NULL
+11,NULL,1941,Junkers Ju-52/3m,DARIW,German AF,NULL,NULL,A1,NULL,NULL
+12,NULL,1941,Junkers Ju-52/3mfe,NULL,German AF,Creta,Greece,A1,NULL,NULL
+13,NULL,1941,Junkers Ju-52/3mfe,DAHUT,Reichsluftfahrtministerium,NULL,Germany,A1,NULL,NULL
+14,NULL,1941,Junkers Ju-52/3mge,NULL,German AF,Creta,Greece,A1,NULL,NULL
+15,NULL,1941,Junkers Ju-52/3mte,DANXG,German AF,NULL,NULL,A1,NULL,NULL
+16,NULL,1942,Consolidated 28-2 Catalina,NULL,Soviet Navy,NULL,Russia,A1,NULL,NULL
+17,NULL,1942,Douglas DC-2-115E,NA+LD,German AF,near Dno,Russia,C1,NULL,NULL
+18,NULL,1942,Douglas R4D-1 (DC-3),4696,USMC,unknown,NULL,A1,NULL,NULL
+19,NULL,1942,Junkers Ju-52/3m,NULL,German AF,NULL,Russia,A1,NULL,NULL
+20,NULL,1942,Junkers Ju-52/3m,DAGBI,German AF,NULL,NULL,A1,NULL,NULL
+21,NULL,1942,Junkers Ju-52/3m,DAHFN,German AF,NULL,NULL,A1,NULL,NULL
+22,NULL,1942,Junkers Ju-52/3mfe,NULL,German AF,NULL,Russia,A1,NULL,NULL
+23,NULL,1942,Junkers Ju-52/3mg4e,DASLG,German AF,NULL,NULL,A1,NULL,NULL
+24,NULL,1942,Junkers Ju-52/3mg4e,DAXFH,German AF,NULL,NULL,A1,NULL,NULL
+25,NULL,1942,Junkers Ju-52/3mge,NULL,German AF,NULL,Russia,A1,NULL,NULL
+26,NULL,1942,Junkers Ju-52/3mge,DABVF,German AF,NULL,NULL,A1,NULL,NULL
+27,NULL,1942,Junkers Ju-52/3mge4,DAGEP,German AF,NULL,NULL,A1,NULL,NULL
+28,NULL,1942,Junkers Ju-52/3mte,DARDS,German AF,NULL,NULL,A1,NULL,NULL
+29,NULL,1943,Douglas DC-3-220A,DAAIF,Deutsche Lufthansa,NULL,Germany,C1,0,NULL
+30,NULL,1943,Junkers Ju-52/3m,NULL,German AF,NULL,Russia,A1,NULL,NULL
+31,NULL,1943,Junkers Ju-52/3m,7U+AH,German AF,"Vagdalen, Sorrei...",Norway,A1,NULL,NULL
+32,NULL,1943,Junkers Ju-52/3m,DACBE,German AF,NULL,NULL,A1,NULL,NULL
+33,NULL,1943,Junkers Ju-52/3m,DADHF,German AF,NULL,NULL,A1,NULL,NULL
+34,NULL,1943,Junkers Ju-52/3mfe,DAGUK,Deutsche Lufthansa,NULL,Germany,A1,NULL,NULL
+35,NULL,1943,Junkers Ju-52/3mg4e,DABEW,German AF,NULL,NULL,A1,NULL,NULL
+36,NULL,1943,Junkers Ju-52/3mge,NULL,German AF,NULL,Germany,A1,NULL,NULL
+37,NULL,1943,Junkers Ju-52/3mge,210,Portuguese AF,Rabo de Peixe,Portugal,A1,0,NULL
+38,NULL,1943,Junkers Ju-52/3mte,DAPXD,German AF,NULL,NULL,A1,NULL,NULL
+39,NULL,1944,Douglas C-47A (DC-3),4223645,USAAF,Unknown,NULL,U1,NULL,NULL
+40,NULL,1944,Douglas DC-3 (Showa L2D),NULL,Japan Air Force,Yap Island,Micronesia,A1,NULL,NULL
+41,NULL,1944,Junkers Ju-52/3m,NULL,German AF,Kautokeino Airstrip,Norway,A1,NULL,NULL
+42,NULL,1944,Junkers Ju-52/3m,KI+AL,German AF,Lapland,Finland,A1,NULL,NULL
+43,NULL,1944,Junkers Ju-52/3m ge,DAHAL,"German AF, lsf Deutsche Lufthansa",NULL,Germany,U1,NULL,NULL
+44,NULL,1944,LiorÃ©-et-Olivier H.246,FAREK,French Navy,Lyon-Bron (LYN),France,C1,0,NULL
+45,NULL,1944,Potez 62,YRNQM,LARES,NULL,Romania,A1,NULL,NULL
+46,NULL,1945,Douglas C-47 (DC-3),NULL,USAAF,near Ostia,Italy,A1,9,NULL
+47,NULL,1945,Douglas C-47A (DC-3),4292029,USAAF,unknown,NULL,A1,NULL,NULL
+48,NULL,1945,Douglas C-47A (DC-3),4293369,USAAF,Chungking,China,U1,NULL,NULL
+49,NULL,1945,Douglas C-54A (DC-4),42107453,USAAF,NULL,NULL,U1,NULL,NULL
+50,NULL,1945,Douglas Dakota III (DC-3),KG678,RAF,unknown,NULL,A1,NULL,NULL
+51,NULL,1946,Ford 5-AT Tri-Motor,NULL,TACA de Nicaragua,near Puerto Cabezas,Nicaragua,A1,0,NULL
+52,NULL,1946,Junkers Ju-52/3m,CCCPL26/28,"Aeroflot, West Siberia",near Taldi-Kurgan,Kazakhstan,A1,4,NULL
+53,NULL,1946,Lockheed C-69 Constellation,4310314,USAAF,near France,Mediterranean Sea,A1,NULL,NULL
+54,NULL,1947,Douglas C-47A (DC-3),NC46567,Reeve Aleutian Airways,Anchorage-Merril...,USA,A1,NULL,NULL
+55,NULL,1947,Douglas R4D-1 (DC-3),12400,USMC,unknown,NULL,U1,NULL,NULL
+56,NULL,1948,Curtiss C-46A,C66,L.A. Transatlantica Colombia,NULL,NULL,U1,NULL,NULL
+57,NULL,1948,Douglas C-54A (DC-4),NC54083,Trans Caribbean Airways,NULL,NULL,U1,NULL,NULL
+58,NULL,1948,Ford 4-AT Tri-Motor,HCSBQ,Shell Ecuador,NULL,Ecuador,U1,NULL,NULL
+59,NULL,1948,Ford 4-AT-F Tri-Motor,ECBAB,Iberia,NULL,Spain,A1,NULL,NULL
+60,NULL,1948,Junkers Ju-52/3mg7e,NULL,Soviet AF,near Chita,Russia,A1,NULL,NULL
+61,NULL,1949,Lisunov Li-2P,HALIE,Maszovlet,MÃ¼nchen-Riem Ai...,Germany,H2,0,NULL
+62,NULL,1953,Douglas C-47A (DC-3),VTCHG,Jupiter Airways,NULL,India,A1,NULL,NULL
+63,NULL,1953,PBV-1A Canso A (PBY-5A),CFDIK,Hollinger Ungava Transport,"Ashuanipi Lake, NL",Canada,A1,0,NULL
+64,NULL,1954,Douglas C-47A (DC-3),C68,LANSA,NULL,NULL,U1,NULL,NULL
+65,NULL,1954,Douglas R4D-5 (DC-3),CCCPH417,Polyarnaya Aviatsiya,Polar Station SP-3,Arctic Ocean,A1,0,NULL
+66,NULL,1956,Douglas C-54A (DC-4),0283/CTA4,Argentine Navy,Comodoro Rivadav...,Argentina,U1,NULL,NULL
+67,NULL,1956,Junkers Ju-52/3mge,6308,Portuguese AF,Tancos Air Base,Portugal,U1,0,NULL
+68,NULL,1958,Curtiss C-46F,FAP652,Peruvian AF,NULL,NULL,U1,NULL,NULL
+69,NULL,1958,Grumman G-73 Mallard,N10400,Unknown,NULL,NULL,U1,NULL,NULL
+70,NULL,1958,Vickers 663 Viscount,VX217,UK Ministry of Supply,Seighford,U.K.,O1,0,NULL
+71,NULL,1960,Douglas C-47A (DC-3),348014,Vietnam Air Force - VNAF,unknown,NULL,U1,NULL,NULL
+72,NULL,1961,Bristol 170 Freighter 31M,S4415,Pakistan AF,NULL,NULL,A1,NULL,NULL
+73,NULL,1962,Douglas C-54B (DC-4),XVNUA,Air Vietnam,NULL,NULL,U1,NULL,NULL
+74,NULL,1963,Douglas C-47 (DC-3),YAAAA,Ariana Afghan Airlines,Logarh Valley,Afghanistan,A1,NULL,NULL
+75,NULL,1963,Grumman SA-16A Albatross,11019,Republic of China AF,NULL,NULL,U1,NULL,NULL
+76,NULL,1963,Lisunov Li-2P,2210,Czechoslovak AF,NULL,NULL,U1,NULL,NULL
+77,NULL,1964,Douglas Dakota III (DC-3),KJ981,RAF,Bentwaters RAF S...,U.K.,U1,NULL,NULL
+78,NULL,1964,Douglas DC-3A-269B,T25,TAM Paraguay,EncarnaciÃ³n-Ten...,Paraguay,U1,NULL,NULL
+79,NULL,1964,Lisunov Li-2P,SPLKC,LOT,NULL,Poland,U1,NULL,NULL
+80,NULL,1964,Lockheed P-2H Neptune,145913,US Navy,"Kodiak NAS, AK (...",USA,A1,0,NULL
+81,NULL,1964,Nord 2501D Noratlas,4XFAB/042,Israeli AF,NULL,Israel,U1,NULL,NULL
+82,NULL,1964,Vickers 626 Viking C Mk. 2,XBFIP,private,NULL,Mexico,A1,NULL,NULL
+83,NULL,1965,CV-2B Caribou (DHC-4),624148,US Army,Shau Valley,Vietnam,A1,NULL,NULL
+84,NULL,1965,DH-114 Heron 2D,CR802,Ceylon AF,NULL,NULL,U1,NULL,NULL
+85,NULL,1965,Ilyushin Il-14T,NULL,Egyptian AF,NULL,NULL,C1,NULL,NULL
+86,NULL,1966,Antonov An-12,NULL,Soviet AF,Tyumen Airport (...,Russia,A1,0,NULL
+87,NULL,1966,Antonov An-2R,YUBBJ,JAT Agricultural Aviation,NULL,Serbia,A1,NULL,NULL
+88,NULL,1967,Bristol 170 Freighter 31M,369,Iraqi AF,NULL,NULL,A1,NULL,NULL
+89,NULL,1967,Chase YC-122C Avitruc,N122S,W.S. Cheek Mining Co.,Essequibo River,Guyana,A1,0,NULL
+90,NULL,1967,Douglas C-47A (DC-3),9TPKD,Congolese AF,unknown,D.R. Congo,A1,0,NULL
+91,NULL,1968,Antonov An-2M,636,Polish AF,NULL,NULL,A1,NULL,NULL
+92,NULL,1968,Curtiss C-46D,HK682,Aeropesca Colombia,near San AndrÃ©s Isla...,Colombia,A1,NULL,NULL
+93,NULL,1968,Curtiss TC-46A,PPNME,VASP,Rio de Janeiro-S...,Brazil,U1,NULL,NULL
+94,NULL,1969,Antonov An-2R,SPCNA,APRL,NULL,Poland,A1,NULL,NULL
+95,NULL,1969,Douglas C-47A (DC-3),CFUZA,Keir Air Transport,NULL,Canada,U1,NULL,NULL
+96,NULL,1969,Douglas C-47B (DC-3),HZAAR,Saudi Arabian,unknown,NULL,A1,NULL,NULL
+97,NULL,1969,Douglas C-54D (DC-4),HCANP,Ecuatoriana,Lago Agrio Airpo...,Ecuador,A1,0,NULL
+98,NULL,1969,Douglas R4D-1 (DC-3),102,Salvadorian AF,Salvador,El Salvador,U1,NULL,NULL
+99,NULL,1969,Ilyushin Il-14,618,CAAC,Namchang,China,A1,NULL,NULL
+100,NULL,1970,Antonov An-24B,CCCP46241,"Aeroflot, Privolzhsk",Saratov Airport ...,Russia,O1,0,NULL
+101,NULL,1970,Consolidated PBY-5A Catalina,CFIEE,Austin Airways,"Sugluk, QC",Canada,O1,0,NULL
+102,NULL,1970,Douglas DC-3C,9JRDR,Zambia Airways,Lusaka,Zambia,A1,NULL,NULL
+103,NULL,1970,Douglas DC-4,N91069,Mideastern Airways,NULL,NULL,U1,NULL,NULL
+104,NULL,1971,Curtiss C-46D,LVGXB,AerovÃ­as HalcÃ³n,Buenos Aires/Eze...,Argentina,O1,NULL,NULL
+105,NULL,1971,Lockheed L-1049H Super Constellation,N45515,Unum,"Kingman Airport,...",USA,O1,0,NULL
+106,NULL,1972,Antonov An-12,NULL,Soviet AF,NULL,Egypt,A1,NULL,NULL
+107,NULL,1972,Douglas DC-3A,9TPKR,Congolese AF,near Watsa,D.R. Congo,A1,NULL,NULL
+108,NULL,1972,Grumman HU-16B Albatross,0533,Argentine Navy,NULL,NULL,A1,0,NULL
+109,NULL,1972,Scottish Aviation Twin Pioneer 3,PKGTA,Merpati Nusantara,NULL,NULL,U1,NULL,NULL
+110,NULL,1973,Antonov An-24T,NULL,Soviet AF,Balashov,Russia,A1,NULL,NULL
+111,NULL,1973,Douglas C-47A (DC-3),YVCAFO,LAV,NULL,Venezuela,A1,NULL,NULL
+112,NULL,1973,Douglas C-47B (DC-3),N481F,Ray Geophysical,near Tombouctou,Mali,A1,0,NULL
+113,NULL,1973,Yakovlev Yak-40,CCCP87746,"Aeroflot, Uzbekistan",unknown,NULL,A1,0,NULL
+114,NULL,1974,Convair CV-340-49,N18837,Tri-9 Corp.,Phnom Penh-Poche...,Cambodia,U1,NULL,NULL
+115,NULL,1975,Antonov An-2R,,PZL-Mielec,Mielec,Poland,O1,0,NULL
+116,NULL,1975,Antonov An-2R,CCCP09233,"Aeroflot, Uralsk",NULL,NULL,A1,NULL,NULL
+117,NULL,1975,Antonov An-2R,SPANW,WSK Mielec,NULL,Poland,O1,NULL,NULL
+118,NULL,1975,BN-2A-6 Islander,XUBAE,Khmer Airlines,Phnom Penh-Poche...,Cambodia,C1,NULL,NULL
+119,NULL,1975,DHC-4A Caribou,66250,US Army,Meck Island,Marshall Isl.,A1,NULL,NULL
+120,NULL,1975,Dornier Do 28D-1 Skyservant,HCAVT,Unknown,Quito,Ecuador,U1,NULL,NULL
+121,NULL,1975,Let L-410A,OKDKD,Let,NULL,NULL,O1,NULL,NULL
+122,NULL,1975,Lockheed P-2H Neptune,N14448,Black Hills Aviation,"Wenatchee, WA",USA,A1,NULL,NULL
+123,NULL,1975,Nord 2501D Noratlas,6418,Portuguese AF,unknown,Portugal,U1,0,NULL
+124,NULL,1976,Antonov An-12B,CCCP11103,"Aeroflot, Northern",unknown,NULL,U1,NULL,NULL
+125,NULL,1976,Antonov An-2R,SPWCH,WSK Okecie,NULL,NULL,U1,NULL,NULL
+126,NULL,1976,Antonov An-2R,SPWMP,ZUA,NULL,NULL,U1,NULL,NULL
+127,NULL,1976,Convair CV-440-86,CP1008,Servicio AÃ©reo San Francisco,NULL,NULL,U1,NULL,NULL
+128,NULL,1976,Tupolev Tu-104A,CCCP42371,"Aeroflot, East Siberia",Kiev-Borispol Ai...,Ukraine,A1,NULL,NULL
+129,NULL,1976,Yakovlev Yak-40,CCCP87563,"Aeroflot, East Siberia",unknown,Russia,A1,0,NULL
+130,NULL,1977,Antonov An-2R,SPWCA,WSK Okecie,NULL,Poland,A1,NULL,NULL
+131,NULL,1977,Antonov An-2R,SPWML,ZUA,NULL,NULL,O1,NULL,NULL
+132,NULL,1977,CASA C-212 Aviocar 100,123,Jordanian AF,NULL,NULL,U1,NULL,NULL
+133,NULL,1977,Douglas DC-7CF,N73675,Consolidated Air,within South Carolina,USA,U1,0,NULL
+134,NULL,1977,Tupolev Tu-124Sh,53 RED,Soviet AF,Lugansk Airport ...,Ukraine,A1,0,NULL
+135,NULL,1978,Antonov An-12BP,CCCP11125,"Aeroflot, Yakutsk",NULL,Russia,O1,0,NULL
+136,NULL,1978,Antonov An-24B,CCCP46350,"Aeroflot, Ukraine","near Budyonnovsk, Ros...",Russia,A1,0,NULL
+137,NULL,1978,BN-2A-21 Islander,5TMAU,Mauritanian AF,NULL,NULL,U1,NULL,NULL
+138,NULL,1978,Nord 2501D Noratlas,52171,Hellenic AF,unknown,NULL,A1,NULL,NULL
+139,NULL,1979,Antonov An-2P,SPFNA,Zakladu Urz. Chem.,NULL,NULL,O1,NULL,NULL
+140,NULL,1979,CASA C-212 Aviocar 100,424,Nicaraguan AF,NULL,NULL,A1,NULL,NULL
+141,NULL,1979,DHC-6 Twin Otter 300,FAP333,Peruvian AF,NULL,NULL,A1,NULL,NULL
+142,NULL,1979,Douglas DC-7CF,N302G,private,NULL,Colombia,A1,NULL,NULL
+143,NULL,1979,Tupolev Tu-154B,CCCP85131,"Aeroflot, Ukraine",NULL,Ukraine,O1,0,NULL
+144,NULL,1980,Convair CV-440-38,N102US,Farm-Kem Inc,NULL,Colombia,A1,NULL,NULL
+145,NULL,1980,DHC-6 Twin Otter 300,FAP313,Peruvian AF,NULL,NULL,A1,NULL,NULL
+146,NULL,1980,Douglas C-47 (DC-3),N....,Unknown,"near El Banco, Magdalena",Colombia,A1,2,NULL
+147,NULL,1980,Douglas DC-7CF,N8219H,Aero Services Corp.,NULL,Colombia,C1,NULL,NULL
+148,NULL,1981,DHC-5D Buffalo,920,Chilean AF,Punta Arenas-Pre...,Chile,A1,NULL,NULL
+149,NULL,1981,Douglas C-118A (DC-6),N2949F,GAF Int. Service,NULL,Bahamas,A1,NULL,NULL
+150,NULL,1981,Douglas C-47B (DC-3),5NARA,Arax Airlines,Lagos/Ikeja Inte...,Nigeria,U1,NULL,NULL
+151,NULL,1981,Douglas DC-4,N122AC,Southern Aero Trades Inc,NULL,Colombia,U1,NULL,NULL
+152,NULL,1982,DHC-6 Twin Otter 300,5ADCW,Libyan Ministry of Agriculture,NULL,Libya,A1,0,NULL
+153,NULL,1982,Douglas C-47B (DC-3),RPC3,Bangko Sentral Ng Pilipinas,Manila,Philippines,U1,NULL,NULL
+154,NULL,1982,Douglas C-54Q (DC-4),N111AV,Florida Aircraft Leasing,Great Abaco,Bahamas,U1,NULL,NULL
+155,NULL,1983,Douglas DC-3-382,N401JB,Swift Delivery Air Freight,"Honolulu, HI",USA,O1,0,NULL
+156,NULL,1983,Ilyushin Il-18Gr,CCCP75887,"Aeroflot, MUTA",unknown,NULL,U1,NULL,NULL
+157,NULL,1984,Antonov An-24B,CCCP47722,"Aeroflot, Krasnoyarsk",Yeniseysk Airpor...,Russia,A1,0,NULL
+158,NULL,1984,Dornier Do 28D-1 Skyservant,FGCGT,HÃ©met Exploration,NULL,Mali,A1,NULL,NULL
+159,NULL,1984,Douglas C-47D (DC-3),2019,Paraguay AF,ConcepciÃ³n Airp...,Paraguay,U1,NULL,NULL
+160,NULL,1984,Douglas C-47D (DC-3),CP1417,Aerolineas La Paz,NULL,NULL,A1,NULL,NULL
+161,NULL,1984,Douglas DC-6A/B,HP1018,Unknown,NULL,Bahamas,U1,NULL,NULL
+162,NULL,1984,Tupolev Tu-134A,CCCP65095,"Aeroflot, Belarus",Minsk-1 Internat...,Belarus,O1,0,NULL
+163,NULL,1985,Antonov An-12B,CCCP12989,"Aeroflot, Privolzhsk",unknown,NULL,U1,NULL,NULL
+164,NULL,1985,Antonov An-24RV,BNMAU10210,MIAT,Khuvsgul Province,Mongolia,A1,NULL,NULL
+165,NULL,1985,Antonov An-2TP,CCCP32352,"Aeroflot, Kazakstan",Sosnovaya Roscha...,Russia,A1,NULL,NULL
+166,NULL,1985,IAI 1124 Westwind I,N1JS,private,unknown location,Mexico,U1,NULL,NULL
+167,NULL,1986,BN-2A Trislander Mk.III,5YAOY,Cooper Skybird Aircharters,NULL,Kenya,U1,NULL,NULL
+168,NULL,1986,Dornier Do 128-2 Skyservant,HCBMR,Servicio AÃ©reo Misional - SAM,NULL,Ecuador,A1,0,NULL
+169,NULL,1987,BN-2A-8 Islander,PTJYC,VOTEC,NULL,Brazil,U1,NULL,NULL
+170,NULL,1987,BN-2B-26 Islander,XAMAO,Aero Taxco,NULL,Mexico,U1,NULL,NULL
+171,NULL,1987,Douglas DC-3C,N62109,Private,Dahra-Warehouse ...,Libya,A1,NULL,NULL
+172,NULL,1988,Lockheed L-749A Constellation,HI422,Aerochago Airlines,Santo Domingo,Dominican Rep.,A1,NULL,NULL
+173,NULL,1988,Vickers 757 Viscount,9QCTS,Filair,Tshikapa Airport...,D.R. Congo,A1,0,NULL
+174,NULL,1989,Antonov An-2R,CCCP70087,"Aeroflot, Central Region",Tver-Zmeevo,Russia,A1,NULL,NULL
+175,NULL,1989,CASA C-212 Aviocar 200,N4999U,U.S. DEA,NULL,Peru,U1,NULL,NULL
+176,NULL,1990,Antonov An-2P,CCCP07308,"Aeroflot, Krasnoyarsk",NULL,Russia,A1,5,NULL
+177,NULL,1990,Antonov An-2T,822,East German AF,Straussberg ?,Germany,U1,0,NULL
+178,NULL,1990,CASA C-212 Aviocar 200,MP112,Mexican Navy,NULL,NULL,U1,NULL,NULL
+179,NULL,1990,Cessna U-27A Caravan I,ARU022,Liberian Army,NULL,Liberia,O1,NULL,NULL
+180,NULL,1990,DHC-6 Twin Otter 300,HBLQX,Zimex Aviation,unknown,Angola,U1,NULL,NULL
+181,NULL,1991,Antonov An-2R,CCCP33449,"Aeroflot, Tyumen",Krasnoselkup Air...,Russia,A1,0,NULL
+182,NULL,1991,Beech 200 Super King Air,VHAAZ,Norfolk Island Airlines,Bundaberg Airpor...,Australia,U1,0,NULL
+183,NULL,1991,Dassault Falcon 20C,N425JA,Franks Petroleum,unknown,NULL,O1,0,NULL
+184,NULL,1991,Douglas C-54A (DC-4),9QCWP,GLM Aviation,Kinshasa-N'Djili...,D.R. Congo,A1,0,NULL
+185,NULL,1991,Yakovlev Yak-40,CCCP87553,"Aeroflot, North Kavkaz",Moskva-Bykovo Ai...,Russia,A1,0,NULL
+186,NULL,1992,DHC-6 Twin Otter 200,T83,LADE,Sierra Grande Ai...,Argentina,A1,0,NULL
+187,NULL,1992,Dornier 228-100,5NAOR,Okada Air,NULL,Nigeria,A1,NULL,NULL
+188,NULL,1993,Antonov An-26,024,Mozambique AF,Cuamba Airport (...,Mozambique,A1,0,1
+189,NULL,1993,Antonov An-26,CUT1240,Aerogaviota,Playa Baracoa Ai...,Cuba,O1,0,NULL
+190,NULL,1993,Beech 99,HRIAO,IsleÃ±a Airlines,NULL,Honduras,U1,0,NULL
+191,NULL,1994,Antonov An-26,038,Mozambique AF,Quelimane Airpor...,Mozambique,A1,NULL,NULL
+192,NULL,1994,GAF Nomad N.24A,121212,Thai Navy,U-Tapao Airport ...,Thailand,A1,NULL,NULL
+193,NULL,1994,Rockwell Sabreliner 60,XCAA26,Unknown,NULL,Mexico,O1,0,NULL
+194,NULL,1996,Antonov An-32B,ER48077,Virunga Air Charter,Kalima-Kakungwa ...,D.R. Congo,A1,0,NULL
+195,NULL,1996,Dornier Do 28D-2 Skyservant,TGJAN,private,unknown,Guatemala,U1,NULL,NULL
+196,NULL,1996,Yakovlev Yak-40,RA87290,Weasua Air Transport,Monrovia-Sprigg ...,Liberia,O1,0,NULL
+197,NULL,1996,Yakovlev Yak-40K,RA87999,Weasua Air Transport,Monrovia-Sprigg ...,Liberia,O1,0,NULL
+198,NULL,1997,Antonov An-26,7711,Sudan AF,Gogrial,South Sudan,C1,0,NULL
+199,NULL,1997,BN-2A-21 Islander,HI551CA,Air Taxi,Haina ?,Dominican Rep.,U1,NULL,NULL
+200,NULL,1997,CASA C-212 Aviocar 200,801,Zimbabwe AF,Harare ?,Zimbabwe,A1,NULL,NULL
+201,NULL,1997,Curtiss C-46F,CP1280,TAVIC,eastern Bolivia,Bolivia,A1,0,NULL
+202,NULL,1997,Fokker F-27 Friendship 200,10210,Philippine AF,Lubang Airport (...,Philippines,A1,NULL,NULL
+203,NULL,1997,Hawker Siddeley HS-125-600A,XANTE,Servicios AÃ©reos del Sol,Monterrey-Genera...,Mexico,O1,0,NULL
+204,NULL,1998,Antonov An-2R,YUBLB,Aeroklub Zrenjanin,Zrenjanin,Serbia,O1,NULL,NULL
+205,NULL,1998,Antonov An-2R,YUBLC,Aeroklub Zrenjanin,Pancevo,Serbia,A1,NULL,NULL
+206,NULL,1998,Antonov An-32B,RA48014,"Trans Charter, op.for Filair",Kinshasa-N'Djili...,D.R. Congo,A1,0,NULL
+207,NULL,1998,Basler Turbo 67 (DC-3T),555,Guatemala AF,Flores-Santa Ele...,Guatemala,U1,NULL,NULL
+208,NULL,1998,IAI Arava 201,NULL,Mexican AF,NULL,Mexico,A1,NULL,NULL
+209,NULL,1998,Ilyushin Il-86,RA86080,Aeroflot,Moskva-Sheremety...,Russia,A1,0,NULL
+210,NULL,1998,Lockheed KC-130F Hercules,149807,USMC,unknown,NULL,A1,0,NULL
+211,NULL,1998,Yakovlev Yak-40K,UR87592,United Energy Systems,Roma-Ciampino Ai...,Italy,A1,0,NULL
+212,NULL,1999,Yakovlev Yak-40,71501,Serbian Air Force,unknown,Serbia,C1,0,NULL
+213,NULL,2000,Yakovlev Yak-40,RA87847,"NovgorodAvia, op.for Ecuato Guineana de Aviacion",Malabo-Santa Isa...,Eq. Guinea,O1,0,NULL
+214,NULL,2001,Cessna 208 Caravan I,EP859,Peruvian Army,NULL,Peru,A2,0,NULL
+215,NULL,2001,Fairchild SA227-AC Metro III,XATKK,Westair de MÃ©xico,Mexico City-Beni...,Mexico,A1,0,NULL
+216,NULL,2002,Antonov An-12A,D2FBV,Unknown,Nzagi Airport (NZA),Angola,A1,NULL,NULL
+217,NULL,2002,Antonov An-32,K2746,Indian AF,Tezpur Air Base ...,India,U1,NULL,NULL
+218,NULL,2002,Embraer EMB-110P1 Bandeirante,9LLBR,Inter Tropic Airlines,Freetown-Hasting...,Sierra Leone,A1,0,NULL
+219,NULL,2004,Fairchild SA227-AC Metro III,ZSOJH,Ryan Blake Air Charter,George Airport (...,South Africa,A1,0,NULL
+220,NULL,2004,Fairchild SA227-BC Metro III (C-26B),FAC1240,Colombian AF,BogotÃ¡-Eldorado...,Colombia,A1,0,NULL
+221,NULL,2006,Antonov An-2R,LZ1102,Bask Air,AgadÃ¨s Airport ...,Niger,O1,0,NULL
+222,NULL,2006,Antonov An-2R,LZ1118,Bask Air,AgadÃ¨s Airport ...,Niger,O1,0,NULL
+223,NULL,2007,Antonov An-12BP,S9DBP,Unknown,Bunia Airport (BUX),D.R. Congo,A1,0,NULL
+224,NULL,2007,Rockwell Sabreliner 60,N211BR,Flight Research,Mojave Air & Spa...,USA,O1,0,NULL
+225,NULL,2008,Antonov An-12B,UPAN208,East Wing,N'Djamena Airpor...,Chad,A1,0,NULL
+226,NULL,2010,Rockwell Sabreliner 75A,XATUD,First Sabre S.A.,Nassau Internati...,Bahamas,A1,0,NULL
+227,NULL,2011,Antonov An-24RV,RA46683,Katekavia,Chita Airport (HTA),Russia,A1,0,NULL
+228,NULL,2012,Let L-410UVP,3DSPL,ETA Air Charter,Caia Airport (CMZ),Mozambique,U1,NULL,NULL
+229,NULL,2013,Raytheon Hawker 800XP,OYJJA,Sun-Air,Thisted Airport ...,Denmark,A1,0,NULL
+230,NULL,2014,Antonov An-2R,UR33587,Ukraerorukh,Lugansk Airport ...,Ukraine,O1,0,NULL
+231,NULL,2014,Learjet 60XR,XAJWM,Unknown,Fort Lauderdale ...,USA,O1,0,NULL
+232,NULL,2016,Cessna 500 Citation I,N628BS,Chippewa Aerospace,unknown,USA,A1,0,NULL
+233,NULL,2018,Rockwell Sabreliner 80,N337KL,private,"Eugene Airport, ...",USA,O1,0,NULL
+234,NULL,1939,Fokker F.VIII,YVAFO,Venezuelan Government,near UruyÃ©n,Venezuela,A1,0,NULL
+235,NULL,1945,Douglas DC-3 (Nakajima L2D),JBOOQ,"Dai Nippon Koku KK (Greater Japan Airways), op.for Japan Navy",Matsuyama,Japan,A1,NULL,NULL
+236,NULL,1945,Junkers Ju-52/3m,GC+BK,German AF,Wustrow/Rerik,Germany,C1,NULL,NULL
+237,NULL,1945,Junkers Ju-52/3m,PB+UA,German AF,NULL,Germany,C1,NULL,NULL
+238,NULL,1959,Antonov An-2,CCCPL5569,"Aeroflot, Yakutsk",NULL,Russia,A1,NULL,NULL
+239,NULL,1975,Douglas DC-3C,N88750,Cambodian Air Service,Phnom Penh-Poche...,Cambodia,U1,NULL,NULL
+240,NULL,1975,Lockheed C-130A Hercules,550006,Vietnam Air Force - VNAF,NULL,Vietnam,U1,NULL,NULL
+241,NULL,1975,Lockheed C-130A Hercules,550045,USAF,NULL,Vietnam,U1,NULL,NULL
+242,NULL,1975,Lockheed C-130A Hercules,560489,Vietnam Air Force - VNAF,NULL,Vietnam,U1,NULL,NULL
+243,NULL,1975,Lockheed C-130A Hercules,560505,Vietnam Air Force - VNAF,NULL,Vietnam,U1,NULL,NULL
+244,NULL,1975,Lockheed C-130A Hercules,560542,Vietnam Air Force - VNAF,NULL,Vietnam,U1,NULL,NULL
+245,NULL,1975,Lockheed C-130A Hercules,570465,Vietnam Air Force - VNAF,NULL,Vietnam,U1,NULL,NULL
+246,NULL,1980,Convair CV-440,N94436,private,NULL,NULL,U1,NULL,NULL
+247,NULL,1980,Swearingen SA226-AT Metro III,N5498M,Fairchild,San Antonio Inte...,USA,A2,0,NULL
+248,NULL,1983,Hawker Siddeley HS-125-1A-522,CFHLL,Gouvernement du QuÃ©bec,Montreal-St. Hub...,Canada,A1,NULL,NULL
+249,NULL,1985,Antonov An-24RV,BNMAU10207,MIAT,within KhÃ¶vsgÃ¶l Province,Mongolia,A1,NULL,NULL
+250,NULL,1987,Antonov An-2R,CCCP56436,"Aeroflot, North Kavkaz",NULL,Russia,A1,NULL,NULL
+251,NULL,1987,BN-2A-26 Islander,B11111,Taiwan Airlines,NULL,Taiwan,U1,NULL,NULL
+252,NULL,1994,Let L-410UVP-E,CCCP67608,Tuva Airlines,Kyzyl Airport (KYZ),Russia,O1,0,NULL
+253,NULL,1943,Douglas DC-3 (Nakajima L2D),JBIOA,Imperial Japanese Airways,near Sulawesi,Indonesia,C1,NULL,NULL
+254,NULL,1944,Douglas DC-2-115F,YRGAD,LARES,Boteni,Romania,C1,0,NULL
+255,NULL,1944,Douglas DC-3 (Nakajima L2D),JBIOF,Imperial Japanese Airways,near Malay Peninsula,Malaysia,A1,NULL,NULL
+256,NULL,1953,Bristol 170 Freighter IA,T41,Argentine AF,NULL,NULL,A1,NULL,NULL
+257,NULL,1963,CV-2A Caribou (DHC-4),605440,US Army,A Loui,Vietnam,A1,NULL,NULL
+258,NULL,1964,Antonov An-12B,NULL,Unknown,unknown,Russia,A1,NULL,NULL
+259,NULL,1966,Lockheed P-2H Neptune,141246,US Navy,unknown,NULL,A1,0,NULL
+260,NULL,1967,Boeing 377 Stratocruiser,N90942,Aero Spacelines,"Mojave, CA",USA,U1,NULL,NULL
+261,NULL,1967,Douglas C-47A (DC-3),9GAAD,Ghana Airways,Port Harcourt Ai...,Nigeria,C1,0,NULL
+262,NULL,1983,Douglas DC-3A,N18143,Reo Leasing,within Mexico,Mexico,A1,NULL,NULL
+263,NULL,1992,Lockheed L-188C Electra,9QCRY,New Air Charter Service,NULL,D.R. Congo,U1,0,NULL
+264,NULL,1999,Curtiss C-46D,CP1655,SAO,La Paz-El Alto A...,Bolivia,A1,0,NULL
+265,NULL,2007,Antonov An-12BK,S9DBQ,Styron Trading,Berbera Airport ...,Somalia,A1,0,NULL
+266,NULL,2009,Antonov An-24RV,UK46658,Uzbekistan Airways,Zarafshan Airpor...,Uzbekistan,A1,0,NULL
+267,NULL,2014,Antonov An-2R,UR33590,Lugansk Airlines,Lugansk Airport ...,Ukraine,C1,0,NULL
+268,NULL,1928,Junkers G.31ce,D1137,Deutsche Lufthansa,NULL,Germany,A1,NULL,NULL
+269,NULL,1940,Fiat G.18,IETRA,Nucleo Comunicazioni Avio Linee,NULL,Italy,A1,0,NULL
+270,NULL,1941,Douglas DC-2-115G,PKAFJ,KNILM,"Darmo, Surabaya",Indonesia,A1,0,NULL
+271,NULL,1942,Junkers Ju-52/3m,NULL,German AF,Pitomnik,Russia,A1,NULL,NULL
+272,NULL,1943,Junkers Ju-52/3m,NULL,German AF,Copenhagen,Denmark,A1,NULL,NULL
+273,NULL,1944,Douglas C-47A (DC-3),42100441,USAAF,"Unknown, possibl...",China,C1,NULL,NULL
+274,NULL,1944,Douglas DC-3 (Nakajima L2D),JBOOJ,Imperial Japanese Airways,NULL,Taiwan,A1,NULL,NULL
+275,NULL,1945,Douglas DC-2-243,C156,TACA de Colombia,Madrid Air Base,Colombia,U1,NULL,NULL
+276,NULL,1968,Lisunov Li-2T,CCCP04214,"Aeroflot, Polar",NULL,Antarctica,A1,0,NULL
+277,NULL,1969,Curtiss C-46D,N10416,Albany Industrial,Gulf of Mexico,Atlantic Ocean,A1,NULL,NULL
+278,NULL,1976,Ilyushin Il-18V,LZBEL,Balkan Bulgarian,Tashkent Airport...,Uzbekistan,O1,NULL,NULL
+279,NULL,1980,Antonov An-2,1201,Cuban AF,near Candelaria,Cuba,A1,5,NULL
+280,NULL,1987,BN-2A-20 Islander,P2COG,Co-Air,NULL,P.N. Guinea,U1,NULL,NULL
+281,NULL,1988,BN-2A-26 Islander,N851JA,Trans Island Airways,NULL,Bahamas,U1,NULL,NULL
+282,NULL,1989,BN-2A Islander,HP658,Turismo AÃ©reo,NULL,Panama,A1,NULL,NULL
+283,NULL,1989,BN-2A-27 Islander,HP1133IT,IstmeÃ±a de AviaciÃ³n,NULL,Panama,A1,NULL,NULL
+284,NULL,1989,BN-2A-6 Islander,HP572OL,Aerolineas Colon,NULL,Panama,A1,NULL,NULL
+285,NULL,1989,BN-2A-6 Islander,HP676,Turismo AÃ©reo,NULL,Panama,A1,NULL,NULL
+286,NULL,1989,BN-2A-7 Islander,HP1002,Aerolineas Nacionales,NULL,Panama,A1,NULL,NULL
+287,NULL,1989,Grumman G-159 Gulfstream I,HK3330X,Helitaxi Colombia,Panama City-Pait...,Panama,O1,0,NULL
+288,NULL,1989,Lockheed C-130H Hercules,460,Saudi AF,Jeddah-Prince Ab...,Saudi Arabia,O1,NULL,NULL
+289,NULL,1992,DHC-4A Caribou,EL.. ??,Liberian AF,NULL,Liberia,O1,NULL,NULL
+290,NULL,1996,BN-2A-9 Islander,PTKAB,Geomag,NULL,NULL,A1,NULL,NULL
+291,NULL,2001,Douglas C-53-DO (DC-3),ZSOJD,Congo Communications,Lubumbashi-Luano...,D.R. Congo,A1,0,NULL
+292,NULL,1929,Junkers G.24,D899,Deutsche Lufthansa,"Epinais, Bretagne",France,A1,NULL,NULL
+293,NULL,1938,Fokker F.XX,EC45E,LAPE,Barcelona-El Pra...,Spain,U1,NULL,NULL
+294,NULL,1942,Douglas DC-2-120,DG478,RAF,Chittagong Airpo...,Bangladesh,A1,0,NULL
+295,NULL,1945,Douglas Dakota IV (DC-3),KJ898,RAF,Monywa,Myanmar,A1,NULL,NULL
+296,NULL,1957,Grumman UF-1 Albatross,131903,US Navy,NULL,NULL,A1,NULL,NULL
+297,NULL,1958,Douglas DC-4,N37474,California Eastern,unknown,NULL,U1,NULL,NULL
+298,NULL,1958,Lisunov Li-2V,CCCPN496,"GUSMP, Directorate of Polar Aviation",Mirny,Antarctica,A1,0,NULL
+299,NULL,1958,Lisunov Li-2V,CCCPN501,Polyarnaya Aviatsiya,near Mirny Ice Station,Antarctica,A1,0,NULL
+300,NULL,1960,Douglas C-47A (DC-3),ANADQ,LANICA,NULL,NULL,U1,NULL,NULL
+301,NULL,1972,Antonov An-10,CCCP11142,"Aeroflot, Ukraine",Rostov Airport (...,Russia,O1,NULL,NULL
+302,NULL,1972,Douglas C-47A (DC-3),T.313,Spanish AF,NULL,NULL,U1,NULL,NULL
+303,NULL,1974,Nord 2501D Noratlas,HCAXG,ATESA,Montalvo,Ecuador,U1,NULL,NULL
+304,NULL,1975,Antonov An-2R,YUBHW,Privredna Avijacija Osijek,Knezevac,Serbia,A1,NULL,NULL
+305,NULL,1977,Curtiss C-46A,CP1009,Frigorifico Reyes,NULL,NULL,U1,NULL,NULL
+306,NULL,1977,Ilyushin Il-18B,B204,CAAC,Shenyang Airport...,China,A1,NULL,NULL
+307,NULL,1985,Lockheed P-3F Orion,58702,Iran AF,within Iran,Iran,A1,NULL,NULL
+308,NULL,1986,Learjet 25D,ICOTO,Spei Leasing,Paris-Le Bourget...,France,U1,NULL,NULL
+309,NULL,1987,BN-2A-26 Islander,B12207,Yung Shing Airlines,NULL,Taiwan,U1,NULL,NULL
+310,NULL,1989,Lockheed L-100-30 Hercules,D2EHD,"Transafrik, opf Endiama",near Luena Airport (LUO),Angola,C2,0,NULL
+311,NULL,1990,BN-2A-27 Islander,P2BAC,Bougair,Kieta-Aropa Airp...,P.N. Guinea,O1,0,NULL
+312,NULL,1991,BAe-125-700B,YIAKH,Iraqi Government,Baghdad-Al Mutha...,Iraq,O1,0,NULL
+313,NULL,1991,Boeing 767-269,9KAIB,Kuwait Airways,Mosul Airport (OSM),Iraq,C1,0,NULL
+314,NULL,1991,Boeing 767-269,9KAIC,Kuwait Airways,Mosul Airport (OSM),Iraq,C1,0,NULL
+315,NULL,1991,Gulfstream Aerospace G-1159A Gulfstream III,YIAKI,Iraqi Government,Baghdad,Iraq,O1,0,NULL
+316,NULL,1991,Gulfstream Aerospace G-1159A Gulfstream III,YIAKJ,Iraqi Government,Baghdad,Iraq,O1,0,NULL
+317,NULL,1991,Tupolev Tu-124V,YIAEL,Iraqi Airways,Baghdad-Saddam I...,Iraq,O1,0,NULL
+318,NULL,1991,Tupolev Tu-124V,YIAEY,Iraqi Airways,Baghdad-Saddam I...,Iraq,C1,0,NULL
+319,NULL,1992,Douglas DC-3C,5YBBN,Air Kenya,Maasai Mara Nati...,Kenya,A1,0,NULL
+320,NULL,1994,Douglas DC-6BF,HK3874X,Aerosol,Villavicencio-La...,Colombia,A1,0,NULL
+321,NULL,1997,IAI 1123 Westwind,N163DL,East Coast Jet Center,Charallave-Ãsca...,Venezuela,U1,0,NULL
+322,NULL,2000,CASA C-212 Aviocar 200,N461CA,Sandair,NULL,NULL,U1,0,NULL
+323,NULL,2005,Hawker Siddeley HS-780 Andover CC.2,9XRAB,African Commuter Services,Old Fangak,South Sudan,A1,NULL,NULL
+324,NULL,1944,Douglas DC-2-211,VG+FJ,German AF,Puck,Poland,A1,NULL,NULL
+325,NULL,1944,Douglas DC-3 (Nakajima L2D),JBKOL,Imperial Japanese Airways,Taiwan,Taiwan,A1,NULL,NULL
+326,NULL,1945,Junkers Ju-52/3m,NULL,German AF,near Lista,Norway,A1,NULL,NULL
+327,NULL,1954,Ford 5-AT-B Tri-Motor,N9645,Private,NULL,USA,A1,0,NULL
+328,NULL,1968,Douglas LC-117D,99853,US Navy,Williams Field,Antarctica,O1,0,NULL
+329,NULL,1968,Lockheed L-1049G-82-151 Super Constellation,5TTAC,Biafran Government,near Port Harcourt Ai...,Nigeria,A1,5,NULL
+330,NULL,1985,Douglas DC-4,N88939,BIF Air Inc,near South Caicos Int...,Turks & Caicos,A1,NULL,NULL
+331,NULL,1986,Douglas DC-6BF,HRAIV,Unknown,NULL,NULL,U1,NULL,NULL
+332,NULL,1995,Ilyushin Il-22M15,UN75915,Kazakhstan Government,Almaty Airport (...,Kazakhstan,A1,0,NULL
+333,NULL,1996,Douglas DC-3D,5YBIL,Branton Air Service,Nairobi-Wilson A...,Kenya,U1,NULL,NULL
+334,NULL,2001,Shorts SC.7 Skyvan 3M-400,VHWGG,Pull Out Skydiving,Ravenna,Italy,O1,0,NULL
+335,NULL,2001,Shorts SC.7 Skyvan 3M-400,VHWGL,Pull Out Skydiving,Ravenna,Italy,O1,0,NULL
+336,NULL,2006,BAe 3102 Jetstream 31,HHDPL,Caribintair,Cap Haitien Airp...,Haiti,A1,0,NULL
+337,NULL,2021,Antonov An-2,NULL,KPAAF,near Taechon Air Base,North Korea,A1,5,NULL
+338,NULL,1940,Ford 4-AT-E Tri-Motor,CFAZB,White Pass Airways,"Whitehorse, BC",Canada,O1,0,NULL
+339,NULL,1941,Douglas DC-2-115F,NULL,Soviet AF,Riga-Spilve Airport,Latvia,C1,0,NULL
+340,NULL,1944,Junkers Ju-52/3m,8A+AK,German AF,"Nonsvatnet, Hoyl...",Norway,A1,0,NULL
+341,NULL,1969,Douglas C-54A (DC-4),FOCNU,Air Fret,Uli Airstrip,Nigeria,O1,NULL,NULL
+342,NULL,1971,Douglas DC-3C,OOSBC,BIAS,Benghazi-Benina ...,Libya,A1,NULL,NULL
+343,NULL,1971,Morane Saulnier MS.760 Paris I,31,French Navy,Lyon-Bron Airpor...,France,A1,0,NULL
+344,NULL,1978,Douglas DC-6BF,N111AQ,Rosenbalm Aviation,Detroit-Willow R...,USA,O1,0,NULL
+345,NULL,1979,Douglas DC-6BF,N19CA,New World Air Charter,Larnaca Airport ...,Cyprus,U1,0,NULL
+346,NULL,1983,Douglas DC-3C,N91378,Confederate Air Force,Missoula Airport...,USA,O1,NULL,NULL
+347,NULL,1984,Boeing 707-458,9QCWR,Wolf Aviation,Isiro-Matari (IRP),D.R. Congo,A1,0,NULL
+348,NULL,1984,Vickers 756D Viscount,ZYNI,Air Zimbabwe,Harare ?,Zimbabwe,O1,0,NULL
+349,NULL,1992,Lockheed KC-130F Hercules,150684,USMC,Biloxi-Keesler A...,USA,A1,0,NULL
+350,NULL,1994,Douglas DC-6A,V5WAC,West Air Aviation,NULL,Namibia,A1,0,NULL
+351,NULL,1994,Lockheed L-188PF Electra,9QCGD,Filair,NULL,Angola,U1,NULL,NULL
+352,NULL,1999,Curtiss C-46A,CP746,SAO,NULL,Bolivia,A1,0,NULL
+353,NULL,2004,Lockheed KC-130F Hercules,149811,USMC,unknown,NULL,U1,NULL,NULL
+354,NULL,1940,DH.86A Express,GAEFH,Railway,Bordeaux,France,A1,0,NULL
+355,NULL,1940,DH.86B Express,GAEWR,Railway,Bordeaux,France,A1,0,NULL
+356,NULL,1940,Lockheed 14-H2 Super Electra,SPBPM,LOT,near Paris,France,A1,NULL,NULL
+357,NULL,1941,Savoia-Marchetti SM-75,E10.,Hungarian AF,BudaÃ¶rs Airport,Hungary,C1,0,NULL
+358,NULL,1943,Junkers Ju-52/3m,NULL,German AF,Gorodetz,Russia,A1,NULL,NULL
+359,NULL,1944,Junkers Ju-52/3m,CCCPI354,NKAP,NULL,Russia,A1,NULL,NULL
+360,NULL,1945,Curtiss C-46A,4347219,USAAF,NULL,NULL,U1,NULL,NULL
+361,NULL,1945,Douglas C-47A (DC-3),4293485,USAAF,Tuguegarao Airpo...,Philippines,A1,NULL,NULL
+362,NULL,1947,Douglas C-47 (DC-3),VTAZC,Mistri Airways,NULL,India,U1,NULL,NULL
+363,NULL,1965,Douglas DC-3,SUAJW,UAA,Cairo,Egypt,U1,NULL,NULL
+364,NULL,1966,Lockheed Lodestar,NULL,Unknown,NULL,El Salvador,A1,NULL,NULL
+365,NULL,1971,Dornier Do 28D-1 Skyservant,TRLOS,Societe Air Service,NULL,Gabon,A1,NULL,NULL
+366,NULL,1972,Douglas C-47B (DC-3),2010,Brazilian AF,"Porto Alegre, RS",Brazil,U1,0,NULL
+367,NULL,1973,BN-2A Islander,TRLOD,Air Gabon,NULL,NULL,U1,NULL,NULL
+368,NULL,1975,BN-2A Islander,CFRDI,Wilderness Airline,"Williams Lake, BC",Canada,U1,NULL,NULL
+369,NULL,1975,Grumman G-73 Mallard,TRLSW,Gabon Government,Atlantic Ocean o...,Gabon,O1,0,NULL
+370,NULL,1981,BN-2A-8 Islander,TNADS,AÃ©ro-Service,NULL,NULL,U1,NULL,NULL
+371,NULL,1984,Antonov An-26,1427,Cuban AF,near Playa Baracoa Ai...,Cuba,A1,NULL,NULL
+372,NULL,1985,BN-2A Islander,TRLXW,Rougier Gabon,NULL,NULL,U1,NULL,NULL
+373,NULL,1988,Grumman G-159 Gulfstream I,YV121CP,Maraven Oil Company,Cabimas-Oro Negr...,Venezuela,A1,0,NULL
+374,NULL,1990,Lockheed C-121J Super Constellation,HI532CT,Aerochago Airlines,Santo Domingo,Dominican Rep.,A1,0,NULL
+375,NULL,1999,Tupolev Tu-154M,RA85795,Unknown,Chengdu Airport ...,China,A2,0,NULL
+376,NULL,2003,Let L-410UVP,FLARF01192,Aeroklub KVS,near Myachkovo Airport,Russia,A1,0,NULL
+377,NULL,2005,Hawker Siddeley HS-780 Andover C.1,9QCVK,Aero Service Corp.,near Kapoeta Airport,South Sudan,A1,NULL,NULL
+378,NULL,2006,Fairchild SA227-DC Metro 23,VHSEY,Sunshine Express Airlines,Brisbane Interna...,Australia,O1,0,NULL
+379,NULL,2022,Antonov An-2R,RA17951,Voskhod LLC,near Oymyakon Airfield,Russia,A1,0,NULL
+380,NULL,1937,Douglas DC-2-115B,ECAAY,LAPE,unknown,NULL,U1,NULL,NULL
+381,NULL,1937,Douglas DC-2-115B,ECAGK,LAPE,Valencia,Spain,A1,NULL,NULL
+382,NULL,1939,Ford 5-AT-B Tri-Motor,LGAAH,TACA Guatemala,Tegucigalpa-Tonc...,Honduras,O1,0,NULL
+383,NULL,1939,Lockheed 14-WG3B Super Electra,JBDOQ,Imperial Japanese Airways,Fukuoka Airport ...,Japan,A1,NULL,NULL
+384,NULL,1942,Douglas DC-3 (Nakajima L2D),JBKOJ,Imperial Japanese Airways,near Taiwan,Taiwan,A1,NULL,NULL
+385,NULL,1943,Junkers Ju-52/3m,C3+OH,German AF,Gabes airfield,Tunisia,A1,0,NULL
+386,NULL,1970,BN-2A Islander,FOGDR,Guyane Air Transport,NULL,Guyana,U1,NULL,NULL
+387,NULL,1970,Curtiss C-46A,HK790,Aeropesca Colombia,near Villavicencio,Colombia,A1,NULL,NULL
+388,NULL,1971,Douglas DC-6,TGABA,Aviateca,NULL,Guatemala,U1,NULL,NULL
+389,NULL,1975,Vickers 806 Viscount,XWTDN,Royal Air Lao,Phnom Penh-Poche...,Cambodia,A1,4,NULL
+390,NULL,1980,Antonov An-8,CCCP27205,MAP Arsenyev,Arsenyev-Varfolo...,Russia,A1,0,NULL
+391,NULL,1982,Douglas C-117D (DC-3),N117RR,Foreman Flying Service,unknown,NULL,U1,NULL,NULL
+392,NULL,2000,Lockheed C-130H Hercules,NAF914,Nigerian AF,Lagos-Murtala Mu...,Nigeria,A1,0,NULL
+393,NULL,2003,Hawker Siddeley HS-780 Andover C.1,3CKKB,748 Air Services,Rumbek,South Sudan,A1,0,NULL
+394,NULL,2006,Antonov An-2T,SPAOY,Aeroklub RP,Leszno-Strzyzewi...,Poland,O1,0,NULL
+395,NULL,2015,Ilyushin Il-76TD,7OADO,Barash Aviation,Sana'a Internati...,Yemen,C1,0,NULL
+396,NULL,1936,Junkers G.31fo,DABIL,Reichsluftfahrtministerium,NULL,Germany,A1,NULL,NULL
+397,NULL,1939,Douglas DC-2-192,NULL,Chinese Government,Chongqing Airpor...,China,C1,0,NULL
+398,NULL,1944,Curtiss C-46A,4112379,USAAF,NULL,NULL,U1,NULL,NULL
+399,NULL,1945,Douglas C-53-DO (DC-3),XTT55,CNAC,unknown,NULL,U1,NULL,NULL
+400,NULL,1945,Douglas R4D-6 (DC-3),50803,US Navy,Okinawa-Yontan F...,Japan,C1,NULL,NULL
+401,NULL,1951,DH.86B Express,GADUH,Gulf Aviation,Bahrain,Bahrain,A1,NULL,NULL
+402,NULL,1958,Antonov An-2,CCCPH542,Aeroflot,NULL,NULL,O1,NULL,NULL
+403,NULL,1960,Grumman SA-16A Albatross,7101,Portuguese AF,Terceira-Lajes A...,Portugal,A1,0,NULL
+404,NULL,1964,Antonov An-12B,NULL,Unknown,unknown,Russia,A1,NULL,NULL
+405,NULL,1971,Convair CV-440-0,YUADO,JAT,Titograd Airport...,Montenegro,A1,0,NULL
+406,NULL,1973,DHC-4A Caribou,802,Oman AF,NULL,Oman,A1,NULL,NULL
+407,NULL,1984,BN-2A Trislander Mk.III-2,XAKOQ,Aero Cozumel,NULL,Mexico,U1,NULL,NULL
+408,NULL,1985,BN-2A-9 Islander,TZACS,Air Mali,NULL,NULL,U1,NULL,NULL
+409,NULL,1987,BAe BAe-748-314 Srs. 2A LFD,JW9008,Tanzanian AF,Lake Manyara (LKY),Tanzania,A1,0,NULL
+410,NULL,1988,Grumman G-159 Gulfstream I,XBCIJ,Celanese Mexicana,within Yucatan,Mexico,A1,0,NULL
+411,NULL,1990,Antonov An-2T,10 YELLOW,"Rigas Aeroklubs, lsf DOSAAF",Yelgava Airport,Latvia,A1,0,NULL
+412,NULL,1990,BN-2A-26 Islander,P2IST,Talair,Morobe Airport (...,P.N. Guinea,A1,NULL,NULL
+413,NULL,1993,Boeing 707-441,9QCMD,Blue Airlines,Goma Airport (GOM),D.R. Congo,A1,0,NULL
+414,NULL,1995,BN-2A-8 Islander,N454CT,Perna Aviation,NULL,Suriname,U1,NULL,NULL
+415,NULL,1997,Lockheed C-130A Hercules,550035,Mexican AF,NULL,Mexico,U1,NULL,NULL
+416,NULL,1999,Antonov An-28,3CKKY,Unknown,NULL,Kenya,A1,1,NULL
+417,NULL,2001,Hawker Siddeley HS-125-600B,5NRNO,Chrome Air,near Lagos-Murtala Mu...,Nigeria,A1,0,NULL
+418,NULL,2010,Antonov An-74-200,EK74027,Ayk Avia,Kabul-Hamid Karz...,Afghanistan,O1,0,NULL
+419,NULL,2013,Lockheed C-130H Hercules,T.1002,Spanish AF,unknown,Spain,U1,0,NULL
+420,NULL,1937,Junkers Ju-52/3mge,DAFYV,DVL,Roggentin,Germany,A1,NULL,NULL
+421,NULL,1941,Junkers Ju-52/3m,NULL,German AF,Arzberg near Ell...,Germany,A1,0,NULL
+422,NULL,1941,Junkers Ju-52/3m,1Z+OK,German AF,near Tendrovskaya (Oc...,Russia,C1,NULL,NULL
+423,NULL,1943,Curtiss C-46,415183,Northwest Airlines,NULL,NULL,U1,NULL,NULL
+424,NULL,1943,Junkers Ju-52/3m,NULL,German AF,Stavanger,Norway,A1,NULL,NULL
+425,NULL,1943,Junkers Ju-52/3mg.e,NULL,German AF,near Leros,Greece,A1,NULL,NULL
+426,NULL,1945,Curtiss C-46D,4477740,USAAF,NULL,NULL,A1,NULL,NULL
+427,NULL,1945,Douglas C-47 (DC-3),NULL,Polyarnaya Aviatsiya,Dudinka,Russia,A1,0,NULL
+428,NULL,1945,Douglas C-47 (DC-3),NULL,Polyarnaya Aviatsiya,Tiksi,Russia,A1,0,NULL
+429,NULL,1949,Savoia-Marchetti SM-95C,ILATI,LATI,"Villa Cisneros, ...",Morocco,A2,0,NULL
+430,NULL,1951,Lisunov Li-2T,SPLBE,LOT,NULL,Poland,U1,NULL,NULL
+431,NULL,1959,Bristol 170 Freighter 21P,G778,Pakistan AF,NULL,NULL,A1,NULL,NULL
+432,NULL,1959,Bristol 170 Freighter 31M,S4419,Pakistan AF,NULL,NULL,A1,NULL,NULL
+433,NULL,1967,DH-114 Heron 1B,VPWAM,Air Trans Africa,Enugu,Nigeria,A1,NULL,NULL
+434,NULL,1982,Douglas DC-3C,PKOBJ,Airfast Indonesia,Pontianak,Indonesia,U1,NULL,NULL
+435,NULL,1986,Douglas DC-6A,HI251,Carga AÃ©rea Dominicana,Congo Town Airport,Bahamas,A1,0,NULL
+436,NULL,1987,Antonov An-2R,YUBOD,Privredna Avijacija Osijek,near Djakovo,Croatia,U1,NULL,NULL
+437,NULL,1989,Convair CV-440-38,XANAU,Correos de MÃ©xico,near Toluca,Mexico,A1,0,NULL
+438,NULL,1996,Fairchild F-27,CXBRS,LADESA,Ciudad del Este-...,Paraguay,A1,0,NULL
+439,NULL,1929,Farman F.63bis Goliath,FFARI,SGTA,NULL,NULL,U1,NULL,NULL
+440,NULL,1942,Douglas DC-3 (Nakajima L2D),JBIOG,Imperial Japanese Airways,Cebu Island,Philippines,A1,NULL,NULL
+441,NULL,1944,Junkers Ju-52/3m,NULL,German AF,near Nautsi,Finland,C1,NULL,NULL
+442,NULL,1945,Douglas DC-2-115D,ECAAB,Iberia,NULL,NULL,A1,NULL,NULL
+443,NULL,1947,PBV-1A Canso (PBY-5A),YVCAQA,T.A. Transandino,NULL,Venezuela,U1,NULL,NULL
+444,NULL,1948,Douglas DC-5-511,1501,Israeli AF,Ramat David Air ...,Israel,A1,0,NULL
+445,NULL,1960,Consolidated PBY-5A Catalina,FOAYD,RÃ©seau AÃ©rien Interinsulaire,"Uturoa Harbour, ...",French Polynesia,A1,0,NULL
+446,NULL,1961,Lockheed C-130B Hercules,580745,USAF,Evreux Airport (...,France,O1,0,NULL
+447,NULL,1961,Lockheed PV-2D Harpoon,N7456C,Bird & Sons,Phou Fa,Laos,A1,NULL,NULL
+448,NULL,1971,BN-2A-7 Islander,HP550,Aviones de Panama,NULL,Panama,A1,0,NULL
+449,NULL,1971,Grumman G-73 Mallard,N2978,private,"Ida, MI",USA,O1,0,NULL
+450,NULL,1974,BN-2 Islander,TRLNF,Air Inter Gabon,Port Gentil Airp...,Gabon,O1,0,NULL
+451,NULL,1980,Curtiss C-46D,CP1267,Transportes AÃ©reos Bolivar,La Paz,Bolivia,A1,0,NULL
+452,NULL,1980,Dornier Do 28D-1 Skyservant,FBTCU,HÃ©met Exploration,"Falea, KÃ©nyÃ©ba...",Mali,A1,0,NULL
+453,NULL,1986,Convair CV-880,N5863,FAA,Mojave Air & Spa...,USA,O1,0,NULL
+454,NULL,1987,BN-2A-26 Islander,TZADN,Live Air,NULL,NULL,U1,NULL,NULL
+455,NULL,1994,T-39A Sabreliner,N7143N,Private,Khartoum-Civil A...,Sudan,A1,0,NULL
+456,NULL,1999,Antonov An-2R,9ADBZ,Geofoto,NULL,Bosnia,O1,0,NULL
+457,NULL,2001,Antonov An-12B,YADAA,Ariana Afghan Airlines,Kabul Airport (KBL),Afghanistan,O1,0,NULL
+458,NULL,2001,Antonov An-12BK,YADAB,Ariana Afghan Airlines,Kabul Airport (KBL),Afghanistan,O1,0,NULL
+459,NULL,2001,Antonov An-24B,YADAH,Ariana Afghan Airlines,Kabul Airport (KBL),Afghanistan,O1,0,NULL
+460,NULL,2001,Antonov An-24RV,YADAJ,Ariana Afghan Airlines,Kabul Airport (KBL),Afghanistan,O1,0,NULL
+461,NULL,2001,Antonov An-24V,YADAG,Ariana Afghan Airlines,Kabul Airport (KBL),Afghanistan,O1,0,NULL
+462,NULL,2001,Boeing 727-113C,YAFAU,Ariana Afghan Airlines,Kabul Airport (KBL),Afghanistan,O1,0,NULL
+463,NULL,2001,Boeing 727-155C,YAFAW,Ariana Afghan Airlines,Kabul Airport (KBL),Afghanistan,O1,0,NULL
+464,NULL,2001,Saab 340A,N96CN,Chautauqua Airlines,Kirksville Munic...,USA,A1,0,NULL
+465,NULL,2006,Hawker Siddeley HS-748,S2ABE,"Best Air, op.for Astral Aviation",Alek Airstrip,South Sudan,A1,0,NULL
+466,NULL,2007,Ilyushin Il-76TD,5ADNQ,Jamahiriya Air Transport,Bamako Airport (...,Mali,A1,0,NULL
+467,NULL,2011,Antonov An-28,9QCSX,Swala Aviation,Shabunda Airport,D.R. Congo,A1,0,NULL
+468,NULL,2013,Embraer EMB-110P Bandeirante,CUT1552,Aerocaribbean,Havana-JosÃ© Mar...,Cuba,A2,0,NULL
+469,NULL,2015,Hawker Siddeley HS-125-600A,N20FM,private,near Las Mercedes del...,Venezuela,C1,0,NULL
+470,NULL,2016,Cessna 500 Citation I,N888JL,Advanced Power Aviation,Wichita-Mid-Cont...,USA,A1,0,NULL
+471,NULL,1940,Lockheed 14-H2 Super Electra,SPBPN,Soviet AF,near Riga,Latvia,A1,NULL,NULL
+472,NULL,1944,Junkers Ju-52/3m,7U+HN,German AF,near Alakurtti Airport,Finland,C1,NULL,NULL
+473,NULL,1945,Curtiss C-46D,4478504,USAAF,NULL,NULL,A1,NULL,NULL
+474,NULL,1956,Curtiss C-46A,HI36,Dominicana,NULL,NULL,A1,NULL,NULL
+475,NULL,1961,Douglas C-47B (DC-3),KAT04,UN,Kolwezi,D.R. Congo,C1,NULL,NULL
+476,NULL,1970,Douglas C-49K (DC-3),N12978,Air Carrier,Opa-locka Airpor...,USA,O1,0,NULL
+477,NULL,1976,Douglas C-53-DO (DC-3),T.357,Spanish AF,Madrid-Cuatro Vi...,Spain,U1,NULL,NULL
+478,NULL,1981,Douglas DC-6,N62242,Unknown,northeast Colombia,Colombia,A1,NULL,NULL
+479,NULL,1985,Grumman G-159 Gulfstream I,N720X,private,within Arizona,USA,A1,0,NULL
+480,NULL,1986,BN-2A Trislander Mk.III-2,VQTAJ,Turks & Caicos National Airline,near Port-de-Paix,Haiti,A1,0,NULL
+481,NULL,1986,BN-2A-21 Islander,N455JH,Gorda Aero Service,NULL,NULL,U1,NULL,NULL
+482,NULL,1986,Yakovlev Yak-42,CCCP42536,"Aeroflot, Central Region",Moskva-Bykovo Ai...,Russia,O1,0,NULL
+483,NULL,1994,BN-2A-27 Islander,8RGGU,Kayman Sankar Aviation,NULL,Guyana,U1,NULL,NULL
+484,NULL,1996,BN-2A-8Â Islander,8RGGR,ASL,Hampton Court,Guyana,A1,0,NULL
+485,NULL,2004,Antonov An-2T,RA01128,Krasnoyarski ASK,Krasnoyarsk region,Russia,U1,NULL,NULL
+486,NULL,2011,DHC-6 Twin Otter 300,5ADBJ,Zueitina Oil,As Sidr Airport,Libya,O2,0,NULL
+487,NULL,2012,Antonov An-2R,RA40220,SHP Dmitrievsky,"Dmitrievskaya, K...",Russia,A1,0,NULL
+488,1931-04-01,1931,Ford 5-AT-C Tri-Motor,NC8418,Panagra,Ovalle Airport (...,Chile,A1,0,NULL
+489,1937-04-01,1937,Ford 5-AT-C Tri-Motor,NC8410,Star Air Service,"Lake Spenard, AK",USA,A1,0,NULL
+490,1943-04-01,1943,Douglas C-47A (DC-3),4223365,USAAF,"near Victorville AAF,...",USA,A1,NULL,NULL
+491,1943-04-01,1943,Lockheed C-60A Lodestar,4255964,USAAF,"Stuttgart AAF, AR",USA,A1,NULL,NULL
+492,1943-04-01,1943,Lockheed R5O-5 (Lodestar),12462,US Navy,"near Flemington, NJ",USA,A1,7,NULL
+493,1944-04-01,1944,Douglas C-47 (DC-3),4118568,USAAF,near Dobodura No. 7 (...,P.N. Guinea,A1,7,NULL
+494,1944-04-01,1944,Douglas Dakota III (DC-3),FL543,RAF,Aberdeen Airstrip,Myanmar,A1,NULL,NULL
+495,1945-04-01,1945,Curtiss C-46A,4261078,USAAF,Dergaon,India,A1,NULL,NULL
+496,1945-04-01,1945,Curtiss C-46D,4477519,USAAF,NULL,NULL,A1,NULL,NULL
+497,1945-04-01,1945,Curtiss C-46D,4477530,USAAF,NULL,NULL,A1,NULL,NULL
+498,1945-04-01,1945,Douglas C-47 (DC-3),4138585,USAAF,Bhamo,Myanmar,A1,NULL,NULL
+499,1945-04-01,1945,Douglas C-47B (DC-3),4316178,USAAF,Kunming-Wujiaba ...,China,O1,0,NULL
+500,1945-04-01,1945,Douglas C-54A (DC-4),4272244,USAAF,NULL,NULL,U1,NULL,NULL
+501,1945-04-01,1945,Lisunov Li-2,CCCPL4038,Aeroflot,near Turovets,Ukraine,A1,0,NULL
+502,1946-04-01,1946,Consolidated PBY-5A Catalina,46612,US Navy,Port Angeles CGA...,USA,A1,NULL,NULL
+503,1946-04-01,1946,Consolidated PBY-5A Catalina,48270,US Navy,"Laupahoehoe, HI",USA,A1,NULL,NULL
+504,1947-04-01,1947,Martin PBM-5G Mariner,59002,US Navy,"near Tampa, FL",USA,A1,1,NULL
+505,1951-04-01,1951,Douglas C-47A (DC-3),SEBBM,SAS,Stockholm-Bromma...,Sweden,A1,0,NULL
+506,1955-04-01,1955,Fairchild C-119C Flying Boxcar,512665,USAF,"near Lapine, AL",USA,A1,0,NULL
+507,1956-04-01,1956,Martin 4-0-4,N40403,TWA,near Pittsburgh-Great...,USA,A1,22,NULL
+508,1958-04-01,1958,Handley Page HP.81 Hermes IVA,GALDV,Skyways,Meesden Green,U.K.,A1,3,NULL
+509,1959-04-01,1959,Douglas C-118A (DC-6),533250,USAF,"near Orting, WA",USA,A1,4,NULL
+510,1962-04-01,1962,Fairchild C-119G Flying Boxcar,2302,Brazilian AF,SÃ£o Francisco d...,Brazil,A1,0,NULL
+511,1965-04-01,1965,Douglas C-47 (DC-3),VHANJ,Victorian Air Coach Services,Warrnambool Airp...,Australia,A2,0,NULL
+512,1966-04-01,1966,Douglas TC-47K (DC-3),N91375,private,Litchfield Park ...,USA,A1,0,NULL
+513,1966-04-01,1966,Vickers 779D Viscount,VTDOD,Indian Airlines,Guwahati-Borjhar...,India,A2,0,NULL
+514,1968-04-01,1968,Avro Shackleton MR.2,WR956,RAF,Ballykelly RAF S...,U.K.,A1,0,NULL
+515,1968-04-01,1968,Lockheed P-3B Orion,153445,US Navy,near Dao Phu Quoc Island,Vietnam,C1,12,NULL
+516,1970-04-01,1970,Antonov An-24B,CCCP47751,"Aeroflot, West Siberia","near Toguchin, Novosi...",Russia,A1,45,NULL
+517,1970-04-01,1970,SE-210 Caravelle III,CNCCV,RAM,near Berrechid,Morocco,A1,61,NULL
+518,1971-04-01,1971,NAMC YS-11-102,PKMYN,Merpati Nusantara,Jakarta-Kemayora...,Indonesia,A1,0,NULL
+519,1974-04-01,1974,Boeing 707-437,VTDNZ,Air-India,Hong Kong-Kai Ta...,Hong Kong,A2,0,NULL
+520,1975-04-01,1975,Howard 350,N730EG,Dallas Chapter,"CuliacÃ¡n, Sinaloa",Mexico,A1,2,NULL
+521,1977-04-01,1977,T-39D Sabreliner,150545,US Navy,"near San Diego, CA",USA,A1,5,NULL
+522,1978-04-01,1978,Boeing 737-200,NULL,Piedmont Airlines,"Richmond, New York",USA,H2,0,NULL
+523,1978-04-01,1978,Convair CV-300,N777DC,Onyx Aviation,CienÃ©ga UnguÃ­a,Colombia,A1,0,NULL
+524,1979-04-01,1979,Boeing 707-321C,5XUAL,Uganda Airlines,Entebbe Airport ...,Uganda,O1,0,NULL
+525,1983-04-01,1983,Cessna 500 Citation I,N700CW,Winn Exploration,near Eagle Pass-Winn ...,USA,A1,4,NULL
+526,1983-04-01,1983,DHC-6 Twin Otter 200,N922MA,Metroflight,Lawton Municipal...,USA,O1,0,NULL
+527,1985-04-01,1985,Boeing 707-300,NULL,MEA,Jeddah-King Abdu...,Saudi Arabia,H2,0,NULL
+528,1989-04-01,1989,Fokker F-27 Friendship 200MAR,10616,Philippine AF,Laoag Airport (LAO),Philippines,A1,NULL,NULL
+529,1990-04-01,1990,A.W. AW-650 Argosy 222,ZKSAF,SAFE Air,Blenheim-Woodbou...,New Zealand,A1,0,NULL
+530,1990-04-01,1990,Fairchild FH-227B,5NATL,Concord,Lagos-Murtala Mu...,Nigeria,A1,0,NULL
+531,1992-04-01,1992,Antonov An-32,K2669,Indian AF,"near Boothgarh, Ludhi...",India,A1,4,NULL
+532,1992-04-01,1992,Antonov An-32,K3055,Indian AF,"near Boothgarh, Ludhi...",India,A1,4,NULL
+533,1992-04-01,1992,Boeing 727-260,NULL,Ethiopian Airlines,Aden Internation...,Yemen,H2,0,NULL
+534,1993-04-01,1993,Fairchild FH-227C,XARXR,Aeromonterrey,Villahermosa-Car...,Mexico,A1,0,NULL
+535,1994-04-01,1994,Learjet 35A,XCPGRÂ,Mexican Government,Mexico City-Beni...,Mexico,A2,0,NULL
+536,1995-04-01,1995,Antonov An-2,NULL,African Air Charter,near Kenema Airport (...,Sierra Leone,A1,1,NULL
+537,1997-04-01,1997,Boeing 737-293,OB1572,Americana de AviaciÃ³n,Pucallpa Airport...,Peru,A1,0,NULL
+538,1997-04-01,1997,Convair CV-580,9QCRU,CAA,Tshikapa Airport...,D.R. Congo,A1,0,NULL
+539,1997-04-01,1997,Lockheed C-130H Hercules,884408,USAF,Tegucigalpa-Tonc...,Honduras,A1,3,NULL
+540,2000-04-01,2000,Cessna 208A Caravan 675,LVZSR,Taxval,"near GualeguaychÃº, ER",Argentina,A1,1,NULL
+541,2004-04-01,2004,Beech 1900D,N149CJ,"US Airways Express, opb Colgan Air",Hartford-Bradley...,USA,A1,0,NULL
+542,2010-04-01,2010,Learjet 25XR,XAUNC,Aero Ermes,Huatulco-BahÃ­as...,Mexico,A1,0,NULL
+543,2011-04-01,2011,Boeing 737-3H4 (WL),N632SW,Southwest Airlines,Yuma Internation...,USA,A2,0,NULL
+544,2011-04-01,2011,CASA C-212-CC40 Aviocar 200,CFDKM,Fugro Aviation Canada,near Saskatoon Airpor...,Canada,A1,1,NULL
+545,2013-04-01,2013,BN-2A-27 Islander,YJRV16,Air Vanuatu,Walaha Airport (...,Vanuatu,A1,0,NULL
+546,2014-04-01,2014,Airbus A321-231,DAISQ,Lufthansa,MÃ¼nchen-Franz J...,Germany,H2,0,NULL
+547,2015-04-01,2015,Boeing 737-8AS (WL),EIDWE,Ryanair,Dublin Airport (...,Ireland,A2,0,NULL
+548,2015-04-01,2015,Boeing 737-8AS (WL),EIDYA,Ryanair,Dublin Airport (...,Ireland,A2,0,NULL
+549,2016-04-01,2016,Cessna 208B Grand Caravan,XAULU,AÃ©reo Servicios Empresariales,near Durango-Guadalup...,Mexico,A1,3,NULL
+550,2017-04-01,2017,Let L-410UVP-E9,5XEIV,Eagle Air,Yei Airport,South Sudan,A1,0,NULL
+551,2022-04-01,2022,Embraer EMB-110P2 Bandeirante,TGTAN,TAG,Belize City-Phil...,Belize,A2,0,NULL
+552,2023-04-01,2023,Cessna 750 Citation X,N85AV,Bank of Utah Trustee,Belmar/Farmingda...,USA,A2,0,NULL
+553,1937-08-01,1937,Junkers Ju-52/3m,XVIII,Eurasia,Kunming,China,A1,NULL,NULL
+554,1940-08-01,1940,Handley Page HP.42E,AS983,RAF,Donibristle RAF ...,U.K.,A1,NULL,NULL
+555,1942-08-01,1942,Junkers Ju-52/3mg4e,7U+LK,German AF,"Langfjorden, Alt...",Norway,A1,0,NULL
+556,1942-08-01,1942,Lisunov PS-84,CCCPL3419,"Aeroflot, MAGON",NULL,?,A2,NULL,NULL
+557,1944-08-01,1944,Curtiss C-46A,4124691,USAAF,NULL,NULL,A1,NULL,NULL
+558,1944-08-01,1944,Douglas C-47 (DC-3),73,CNAC,Baldy Mountain,China,A1,3,NULL
+559,1944-08-01,1944,Douglas C-47A (DC-3),4293501,USAAF,unknown,NULL,A1,NULL,NULL
+560,1945-08-01,1945,Curtiss C-46D,4478200,USAAF,NULL,NULL,A1,3,NULL
+561,1945-08-01,1945,OA-10A Canso A (PBY-5A),4434096,USAAF,"near Grants, NM",USA,A1,7,NULL
+562,1945-08-01,1945,PBV-1A Canso A (PBY-5A),11043,RCAF,Coal Harbour RCA...,Canada,A1,1,NULL
+563,1946-08-01,1946,Douglas Dakota IV (DC-3),KN430,RAF,Hong Kong-Kai Ta...,Hong Kong,A1,0,NULL
+564,1948-08-01,1948,Avro 691 Lancastrian XPP,APACM,Onzeair,Karachi-Mauripur...,Pakistan,A1,4,NULL
+565,1948-08-01,1948,Douglas Dakota IV (DC-3),KN238,RAF,Berlin-RAF Gatow...,Germany,A1,0,NULL
+566,1948-08-01,1948,LatÃ©coÃ¨re 631,FBDRC,Air France,"near Dakar, Senegal",Atlantic Ocean,A1,52,NULL
+567,1949-08-01,1949,Lisunov Li-2,CCCPL4354,"Aeroflot, Northern",near Naberezhniye Chelny,Russia,A1,2,NULL
+568,1955-08-01,1955,Vickers Valetta C.1,VW143,RAF,Sanau,Yemen,A1,0,NULL
+569,1960-08-01,1960,Douglas C-47 (DC-3),TAM09,TAM,near Tipuani,Bolivia,A1,6,NULL
+570,1962-08-01,1962,Douglas C-47 (DC-3),9NAAH,Royal Nepal Airlines,near Tulachan Dhuri,Nepal,A1,10,NULL
+571,1962-08-01,1962,Douglas C-47D (DC-3),4349773,USAF,NULL,NULL,A1,NULL,NULL
+572,1962-08-01,1962,Lockheed C-60A Lodestar,N65H,Republic Natural Gas Co.,"Sugar Land, TX",USA,A1,NULL,NULL
+573,1980-08-01,1980,Douglas DC-8-43F,OBR1143,Aeronaves del Peru,near Mexico City-Juar...,Mexico,A1,3,NULL
+574,1980-08-01,1980,Douglas R4D-5 (DC-3),N45864,private,New Smyrna Beach...,USA,A1,0,NULL
+575,1981-08-01,1981,Douglas C-47B (DC-3),FBJHC,HÃ©met Exploration,near Beira,Mozambique,C1,6,NULL
+576,1981-08-01,1981,Ilyushin Il-14M,CCCP91517,"Aeroflot, Magadan",near Utichiy Island,Russia,A1,11,NULL
+577,1982-08-01,1982,Boeing 720-047B,ODAGG,MEA,Beirut Internati...,Lebanon,C1,0,NULL
+578,1988-08-01,1988,DHC-6 Twin Otter 300,HK2445,ACES,within Colombia,Colombia,H2,0,NULL
+579,1989-08-01,1989,Lockheed L-100-30 Hercules,7TVHK,Air AlgÃ©rie,Tamanrasset-Ague...,Algeria,A1,0,NULL
+580,1990-08-01,1990,Yakovlev Yak-40,CCCP87453,"Aeroflot, Armenia",near Stepanakert,Azerbaijan,A1,46,NULL
+581,1992-08-01,1992,Tupolev Tu-154M,YATAP,Ariana Afghan Airlines,Kabul Airport (KBL),Afghanistan,C1,0,NULL
+582,1992-08-01,1992,Yakovlev Yak-40,YAKAB,Ariana Afghan Airlines,Kabul Airport (KBL),Afghanistan,C1,NULL,NULL
+583,1994-08-01,1994,Antonov An-2V,RA50582,Arkhangelsk Aviation,"Purnema, Arkhang...",Russia,A1,0,NULL
+584,1994-08-01,1994,Cessna 500 Citation I,VRBLV,SANTOM,Grenchen Airport...,Switzerland,A2,0,NULL
+585,1994-08-01,1994,DHC-8-311,N433AW,"United Express, opb Atlantic Coast Airlines",Washington-Dulle...,USA,A2,0,NULL
+586,1994-08-01,1994,Douglas C-47A (DC-3),1041,Turkish AF,Eskisehir Airpor...,Turkey,A1,0,NULL
+587,1997-08-01,1997,PBV-1A Canso A (PBY-5A),N322FA,Airborne Fire Attack,San Vincente Res...,USA,A1,0,NULL
+588,2001-08-01,2001,Boeing 727-2N8,7OACW,Yemenia Airways,Asmara Internati...,Eritrea,A1,0,NULL
+589,2005-08-01,2005,Canadair CL-415,FZBEO,SecuritÃ© Civile,near Calvi,France,A1,2,NULL
+590,2010-08-01,2010,Fairchild C-123K Provider,N709RR,All West Freight,"Mount Healy, nea...",USA,A1,3,NULL
+591,2015-08-01,2015,Antonov An-2R,YRPEG,Aero West,Stancuta,Romania,A1,1,NULL
+592,2016-08-01,2016,Beech C99,N234AV,Ameriflight,"near Spanish Fork, UT",USA,A2,0,NULL
+593,2016-08-01,2016,Canadair CL-415,FZBEU,SecuritÃ© Civile,Ajaccio-Napoleon...,France,A2,0,NULL
+594,2018-08-01,2018,Beech B300 King Air 350,N557AP,Atlantic Transportation of Wilmington,near Wilmington-New H...,USA,A2,0,NULL
+595,2019-08-01,2019,Douglas C-118A Liftmaster (DC-6A),N451CE,Everts Air Cargo,Candle 2 Airport...,USA,A2,0,NULL
+596,2020-08-01,2020,Airbus A321-211 (WL),VPBAX,Aeroflot,Moskva-Sheremety...,Russia,O2,0,NULL
+597,1928-12-01,1928,Ford 4-AT-C Tri-Motor,NC7862,Sunbeam Air Transport Co.,"near Spur, TX",USA,A1,5,NULL
+598,1942-12-01,1942,Short S.23 Empire Flying Boat Mk I,GAETX,BOAC,Durban,South Africa,O1,NULL,NULL
+599,1943-12-01,1943,Douglas C-47A (DC-3),4223659,USAAF,near Port Moresby,P.N. Guinea,A1,0,NULL
+600,1943-12-01,1943,Douglas C-47A (DC-3),4224227,USAAF,Garbutt RAAF Sta...,Australia,A1,0,NULL
+601,1943-12-01,1943,Douglas C-47A (DC-3),4330752,USAAF,Garbutt RAAF Sta...,Australia,A1,NULL,NULL
+602,1943-12-01,1943,Douglas C-53 Skytrooper (DC-3),4215547,USAAF,"near Hyannis, NE",USA,A1,5,NULL
+603,1943-12-01,1943,Junkers Ju-52/3m,DF+DG,German AF,near Ile de Groix,France,A1,1,NULL
+604,1944-12-01,1944,Consolidated PBY-5A Catalina,48331,US Navy,South Pacific,Pacific Ocean,A1,NULL,NULL
+605,1944-12-01,1944,Douglas C-47A (DC-3),42100841,USAAF,Unknown,NULL,A1,NULL,NULL
+606,1944-12-01,1944,Douglas C-47A (DC-3),4315476,USAAF,"Kalmahera, Morotai",Indonesia,A1,NULL,NULL
+607,1944-12-01,1944,Douglas DC-3-209,NC17322,TWA,near Hollywood-Lockhe...,USA,A1,8,NULL
+608,1944-12-01,1944,Lockheed C-60A-1-LO Lodestar,4232197,USAAF,"near Keene, CA",USA,A1,9,NULL
+609,1945-12-01,1945,Lockheed C-60A-1-LO Lodestar,NC1622,Texaco,Pittsburgh-Alleg...,USA,A1,0,NULL
+610,1947-12-01,1947,Douglas C-47D (DC-3),4348945,USAF,"near Herford, TX",USA,A1,NULL,NULL
+611,1947-12-01,1947,Ilyushin Il-12,CCCPN439,Polyarnaya Aviatsiya,near Taldom,Russia,A1,0,NULL
+612,1949-12-01,1949,Douglas C-47 (DC-3),PPYPM,REAL,"RibeirÃ£o Claro, PR",Brazil,A1,20,NULL
+613,1950-12-01,1950,Douglas C-47A (DC-3),EPAAJ,Iranian Airways,near Chamaran,Iran,A1,8,NULL
+614,1950-12-01,1950,Douglas R4D-6 (DC-3),50767,USMC,Hagaru-ri Airstrip,North Korea,A1,0,NULL
+615,1952-12-01,1952,Douglas C-47D (DC-3),451124,USAF,"near Banning, CA",USA,A1,13,NULL
+616,1955-12-01,1955,Douglas C-47B (DC-3),PPCCC,Cruzeiro do Sul,"near BelÃ©m, PA",Brazil,A1,6,NULL
+617,1956-12-01,1956,SNCASE SE.161/P7 Languedoc,61/FSSUN,French AF,near Marseille,Mediterranean Sea,A1,10,NULL
+618,1958-12-01,1958,Douglas C-47B (DC-3),K18/OTCWH,Belgian AF,Paulis Airport (...,D.R. Congo,A1,0,NULL
+619,1959-12-01,1959,Douglas C-47 (DC-3),YVCAKU,LAV,near Caracas Airport ...,Venezuela,A1,3,NULL
+620,1959-12-01,1959,Martin 2-0-2,N174A,Allegheny Airlines,near Williamsport-Lyc...,USA,A1,25,NULL
+621,1969-12-01,1969,Boeing 707-321B,N892PA,Pan Am,Sydney-Kingsford...,Australia,A2,0,NULL
+622,1971-12-01,1971,Antonov An-24B,CCCP46788,"Aeroflot, Privolzhsk",near Saratov Airport ...,Russia,A1,57,NULL
+623,1972-12-01,1972,C-7A Caribou (DHC-4),NULL,Vietnam Air Force - VNAF,near Tuy Hoa Airport ...,Vietnam,A1,7,NULL
+624,1972-12-01,1972,Douglas C-47A (DC-3),CFTQW,Reindeer Air Service,"near Norman Wells, NT",Canada,A1,2,NULL
+625,1973-12-01,1973,DC-8-62CF,HBIDK,Swissair,GenÃ¨ve-Cointrin...,Switzerland,H2,0,NULL
+626,1974-12-01,1974,Beech 100 King Air,N50PC,Southern Services,Birmingham Airpo...,USA,A1,2,NULL
+627,1974-12-01,1974,Boeing 727-231,N54328,TWA,"Upperville, VA",USA,A1,92,NULL
+628,1974-12-01,1974,Boeing 727-251,N274US,Northwest Orient Airlines,"Stony Point, NY",USA,A1,3,NULL
+629,1974-12-01,1974,DC-8,NULL,Swissair,Karachi Internat...,Pakistan,H2,0,NULL
+630,1977-12-01,1977,DHC-6 Twin Otter 100,CGPBO,Airwest Airlines,"Saturna Island, BC",Canada,A1,0,NULL
+631,1981-12-01,1981,DC-9-81 (MD-81),YUANA,Inex-Adria Aviopromet,near Ajaccio-Campo de...,France,A1,180,NULL
+632,1982-12-01,1982,BN-2 Islander,NULL,Flight Centre Victoria,Abbotsford Airpo...,Canada,H2,0,NULL
+633,1984-12-01,1984,Boeing 720-027,N833NA,NASA,"Edwards AFB, CA ...",USA,O1,0,NULL
+634,1987-12-01,1987,Lockheed C-130H Hercules,4XFBU/448,Israeli AF,Hayoun,Israel,A1,0,NULL
+635,1989-12-01,1989,CASA C-212 Aviocar 200,N296CA,US Army,Patuxent River N...,USA,A1,5,NULL
+636,1990-12-01,1990,DHC-6 Twin Otter 300,EPIOD ?,NIOC,southern Iran,Iran,A1,3,NULL
+637,1992-12-01,1992,Canadair CL-44D4-6,N100BB,Tradewinds,Aguadilla-Borinq...,Puerto Rico,A1,0,NULL
+638,1992-12-01,1992,Cessna S550 Citation S/II,PTLKT,TAM,SÃ£o Paulo-Congo...,Brazil,A1,0,NULL
+639,1992-12-01,1992,Lockheed C-141B Starlifter,650255,USAF,"near Harlem, MT",USA,A1,7,NULL
+640,1992-12-01,1992,Lockheed C-141B Starlifter,660142,USAF,"near Harlem, MT",USA,A1,6,NULL
+641,1993-12-01,1993,BAe 3101 Jetstream 31,N334PX,"Northwest Airlink, opb Express Airlines",near Hibbing-Chisholm...,USA,A1,18,NULL
+642,1993-12-01,1993,Cessna 650 Citation III,N700RR,Consolidated International Services,Tampa Internatio...,USA,A2,0,NULL
+643,1993-12-01,1993,Shorts 330-300UTT,CFPQE,Gouvernement du QuÃ©bec,"near Umiujaq Airport,...",Canada,A1,0,NULL
+644,1999-12-01,1999,Fokker F-27 Friendship 600,PKTSK,Indonesia Air Transport - IAT,Matak-Tarempa Ai...,Indonesia,A2,0,NULL
+645,2000-12-01,2000,Antonov An-24,NULL,Unknown,NULL,D.R. Congo,H2,1,NULL
+646,2001-12-01,2001,Cessna 208B Grand Caravan,N499BA,Air Carriers,near Bessemer Airport...,USA,A1,2,NULL
+647,2002-12-01,2002,Cessna 500 Citation I,PTLIY,American Virginia,"MarÃ­lia, SP",Brazil,A1,0,NULL
+648,2003-12-01,2003,Let L-410UVP-E,5NBFL,Millenium Air,Kano-Aminu Kano ...,Nigeria,O1,0,NULL
+649,2004-12-01,2004,Beech B300 Super King Air 350,CFMHD,Aviation CMP,St-Georges de Be...,Canada,A2,0,NULL
+650,2004-12-01,2004,Gulfstream G-IV,GGMAC,GAMA Aviation,Teterboro Airpor...,USA,A1,0,NULL
+651,2009-12-01,2009,Boeing 727-222F,PRMTK,TAF Linhas AÃ©reas,SÃ£o Paulo-Guaru...,Brazil,A1,0,NULL
+652,2014-12-01,2014,Alenia C-27J Spartan,1027030,US Army,"near Mackall AAF, NC",USA,A2,0,NULL
+653,2014-12-01,2014,Lockheed C-130H Hercules,884404,USAF,"near Mackall AAF, NC",USA,A1,0,NULL
+654,2015-12-01,2015,Gulfstream G200,VTEHT,Premier Jet Services,Chennai Airport ...,India,O1,0,NULL
+655,2015-12-01,2015,Hawker 900XP,VTICA,private,Chennai Airport ...,India,O1,0,NULL
+656,2015-12-01,2015,Hawker Beech 390 Premier IA,VTRTR,Premier Jet Services,Chennai Airport ...,India,O1,0,NULL
+657,2015-12-01,2015,Learjet 60XR,VTUNO,MyJet,Chennai Airport ...,India,O1,0,NULL
+658,2016-12-01,2016,Basler Turbo 67 (DC-3T),CGEAJ,"ALCI Aviation, opf North Star Air Cargo",Pickle Lake Airp...,Canada,A2,0,NULL
+659,2018-12-01,2018,Bombardier CRJ-200LR,N202PS,PSA Airlines,New York-La Guar...,USA,A2,0,NULL
+660,2019-12-01,2019,BAe-125-700A,N949CL,private,"near El Picudo, San A...",Guatemala,C1,0,NULL
+661,2019-12-01,2019,Beech B99,C6FER,Flamingo Air Charter,Black Point Airs...,Bahamas,A2,0,NULL
+662,2020-12-01,2020,DHC-6 Vista Liner 300,P2ASM,Air Sanga,Wobagen Airstrip,P.N. Guinea,A2,0,NULL
+663,2021-12-01,2021,Cessna 208 Caravan I,N9602F,Lake & Peninsula Airlines,near Port Alsworth Ai...,USA,A1,0,NULL
+664,2021-12-01,2021,Cessna 510 Citation Mustang,N81CB,private,Lake Havasu City...,USA,A1,0,NULL
+665,2022-12-01,2022,Learjet 35A,N979RF,"REVA, Inc.",GuantÃ¡namo Nava...,Cuba,A2,0,NULL
+666,1944-02-01,1944,Consolidated Catalina,AJ160,RAF,near Kelai Island,Maldives,A1,10,NULL
+667,1944-02-01,1944,Curtiss C-46A,4124658,USAAF,NULL,NULL,U1,NULL,NULL
+668,1944-02-01,1944,Junkers Ju-52/3m,P4+CH,German AF,"Aakenustunturi, ...",Finland,A1,3,NULL
+669,1945-02-01,1945,Consolidated PBY-5A Catalina,48268,US Navy,"Kaneohe NAS, Oah...",USA,A1,10,NULL
+670,1945-02-01,1945,Douglas Dakota IV (DC-3),KK194,RAF,"Ben Talaidh, Mull",U.K.,A1,3,NULL
+671,1945-02-01,1945,Douglas Dakota IV (DC-3),KN289,RAF,"near Bury, QC",Canada,A1,0,NULL
+672,1946-02-01,1946,Douglas C-54G (DC-4),45485,USAAF,Fujisawa Air Base,Japan,A1,0,NULL
+673,1947-02-01,1947,Douglas C-47A (DC-3),FBAXQ,Air France,near Lisboa-Portela d...,Portugal,A1,15,NULL
+674,1947-02-01,1947,Douglas Dakota IV (DC-3),KJ971,RAF,Middle Aston,U.K.,A1,0,NULL
+675,1949-02-01,1949,Avro 685 York I,GAGJD,BOAC,Tripoli-Castel B...,Libya,A1,0,NULL
+676,1950-02-01,1950,Fairchild C-82A Packet,4422986,USAF,Mount Clemens-Se...,USA,A1,0,NULL
+677,1950-02-01,1950,Shorts S.45 Solent 3,GAHIX,BOAC,Southampton,U.K.,A1,0,NULL
+678,1951-02-01,1951,Lisunov Li-2,4803,Soviet AF,"Khabarovsk Krai,...",Russia,A1,2,NULL
+679,1952-02-01,1952,Curtiss C-46D,4478373,USAF,Tachikawa Air Base,Japan,A1,NULL,NULL
+680,1953-02-01,1953,Lockheed P2V-5 Neptune,127751,US Navy,near Okinawa,Japan,A1,11,NULL
+681,1954-02-01,1954,Curtiss C-46D,4478027,USAF,near Hokkaido,Japan,A1,35,NULL
+682,1954-02-01,1954,Vickers Valetta C.1,VW206,RAF,Mukeiras Airport...,Yemen,A1,0,NULL
+683,1955-02-01,1955,Consolidated PBY-5 Catalina,HK1000E,Agencia Interamericana,La Pedrera Airpo...,Colombia,A1,5,NULL
+684,1957-02-01,1957,Douglas DC-6A,N34954,Northeast Airlines,"Rikers Island, NY",USA,A1,20,NULL
+685,1958-02-01,1958,Douglas C-118A (DC-6),533277,USAF,"Norwalk, CA",USA,A1,41,1
+686,1958-02-01,1958,Douglas DC-4,PPLEM,Loide AÃ©reo Nacional,Rio de Janeiro-S...,Brazil,A1,5,NULL
+687,1958-02-01,1958,Douglas DC-7C,N733PA,Pan Am,Amsterdam-Schiph...,Netherlands,A2,0,NULL
+688,1958-02-01,1958,Lockheed P2V-5F Neptune,127723,US Navy,Santa Fe Springs...,USA,A1,6,NULL
+689,1959-02-01,1959,Douglas DC-3B-202,N17314,General Airways,near Kerrville Airpor...,USA,A1,3,NULL
+690,1959-02-01,1959,Lockheed 18 Lodestar,ZSASV,Commercial Air Services,"near Ifafa, KwaZulu-N...",South Africa,A1,0,NULL
+691,1961-02-01,1961,Tupolev Tu-104A,CCCP42357,"Aeroflot, Moscow",Vladivostok Airp...,Russia,A1,0,NULL
+692,1962-02-01,1962,Canadair DC-4M1 North Star,17520,RCAF,near Hall Beach Airpo...,Canada,A1,0,NULL
+693,1963-02-01,1963,Douglas C-47A (DC-3),CBK28,Turkish AF,"Ulus District, A...",Turkey,A1,3,NULL
+694,1963-02-01,1963,Vickers 754D Viscount,ODADE,MEA,"Ulus District, A...",Turkey,A1,14,87
+695,1966-02-01,1966,Lockheed KC-130F Hercules,149809,USMC,"near Dong Hoi, Vietna...",Pacific Ocean,C1,6,NULL
+696,1969-02-01,1969,Curtiss C-46A,CP745,Bolivian Air System,Reyes,Bolivia,A1,NULL,NULL
+697,1972-02-01,1972,Avia 14-40,OKMCG,CSA,Karlovy Vary Air...,Czech Rep.,A1,0,NULL
+698,1972-02-01,1972,Dornier Do 28D-1 Skyservant,YVCFLG,Aeroven,"SalvaciÃ³n mine,...",Venezuela,A1,0,NULL
+699,1972-02-01,1972,Douglas DC-6,XWPEH,"Royal Air Lao, op.for PENAS",near Tegal,Indonesia,A1,6,NULL
+700,1972-02-01,1972,VFW/Fokker VFW.614,DBABA,VFW-Fokker,near Bremen Airport (...,Germany,A1,1,NULL
+701,1974-02-01,1974,BAC One-Eleven 520FN,PPSDQ,Transbrasil,SÃ£o Paulo-Congo...,Brazil,A1,0,NULL
+702,1975-02-01,1975,Douglas C-47A (DC-3),HCAUR,TAME Ecuador,Quito-Mariscal S...,Ecuador,U1,NULL,NULL
+703,1975-02-01,1975,Douglas DC-3D,N15HC,Horizon Properties,Houston-Intercon...,USA,A1,5,NULL
+704,1975-02-01,1975,Howard Super Ventura,N234YU,Ebco Manufacturing Co.,"Egg Harbor, NJ",USA,A1,2,NULL
+705,1975-02-01,1975,Vickers 806 Viscount,PKRVM,Mandala Airlines,Taipei-Songshan ...,Taiwan,A1,0,NULL
+706,1977-02-01,1977,Curtiss C-46D,CP540,SAB,Espiritu Airport,Bolivia,A1,0,NULL
+707,1978-02-01,1978,Antonov An-2TP,CCCP40570,"Aeroflot, Central Region",near Krasnoye,Russia,A1,NULL,NULL
+708,1979-02-01,1979,Lockheed C-130B Hercules,23488,Pakistan AF,Lahore Airport (...,Pakistan,O1,0,NULL
+709,1979-02-01,1979,Lockheed C-130E Hercules,10687,Pakistan AF,Lahore Airport (...,Pakistan,O1,0,NULL
+710,1982-02-01,1982,Beech 99,N451C,Pilgrim Airlines,"Groton, CT",USA,A1,0,NULL
+711,1985-02-01,1985,Beech A100 King Air,N72BS,Lisa Flite Corporation,"Cedarville, NJ",USA,A1,2,NULL
+712,1985-02-01,1985,Tupolev Tu-134AK,CCCP65910,"Aeroflot, Belarus",near Minsk-2 Internat...,Belarus,A1,58,NULL
+713,1988-02-01,1988,Swearingen SA226-TC Metro II,FGERV,Air VendÃ©e,Rouen,France,U1,0,NULL
+714,1990-02-01,1990,Ilyushin Il-76M,CCCP86021,Soviet AF,near Panevezys-Pajuos...,Lithuania,A1,8,NULL
+715,1991-02-01,1991,Boeing 737-3B7,N388US,USAir,Los Angeles Inte...,USA,A1,22,NULL
+716,1991-02-01,1991,Fairchild SA227-AC Metro III,N683AV,SkyWest Airlines,Los Angeles Inte...,USA,A1,12,NULL
+717,1994-02-01,1994,Antonov An-24B,RA47718,Kolyma-Avia,Omsukchan Airport,Russia,A1,0,NULL
+718,1994-02-01,1994,Saab 340B,N349SB,"American Eagle, opb Simmons Airlines",New Roads-False ...,USA,A2,0,NULL
+719,1995-02-01,1995,Antonov An-28,CCCP28797,Chukotavia,Mys Shmidta Airport,Russia,A1,0,NULL
+720,1997-02-01,1997,BAe BAe-748-353 Srs. 2A,6VAEO,Air Senegal,Tambacounda Airp...,Senegal,A1,23,NULL
+721,1997-02-01,1997,Cessna 500 Citation I,RPC1500,Airspan Corp.,Mount Balatukan,Philippines,A1,2,NULL
+722,1998-02-01,1998,Learjet 36A,N27MJ,Medical Jets International,Bahrain Internat...,Bahrain,A2,0,NULL
+723,2001-02-01,2001,Antonov An-26,T224,Angolan AF,Luena Airport (LUO),Angola,A1,0,NULL
+724,2003-02-01,2003,Boeing 737-4Q8,N764AS,Alaska Airlines,Vancouver Intern...,Canada,A2,0,NULL
+725,2006-02-01,2006,Cessna 500 Citation I,N814ER,Flite Services,Burnsville-Mount...,USA,A1,0,NULL
+726,2008-02-01,2008,Boeing 727-259,CP2429,LAB,near Trinidad Airport...,Bolivia,A1,0,NULL
+727,2008-02-01,2008,Cessna 525 CitationJet CJ1,N102PT,private,near Augusta State Ai...,USA,A1,2,NULL
+728,2008-02-01,2008,Hawker Siddeley HS-125-F400A,N400FR,Romair,Fort Lauderdale-...,USA,A1,0,NULL
+729,2008-02-01,2008,Rockwell Sabreliner 40A,N430MP,ABA Aviation Resources,Fort Lauderdale-...,USA,O1,0,NULL
+730,2008-02-01,2008,Rockwell Sabreliner 80,N3RP,Qualint,Fort Lauderdale-...,USA,A1,0,NULL
+731,2009-02-01,2009,Airbus A320-232,NULL,IndiGo Airlines,Delhi-Indira Gan...,India,H2,0,NULL
+732,2014-02-01,2014,Boeing 737-9GPER (WL),PKLFH,Lion Air,Surabaya-Juanda ...,Indonesia,A2,0,NULL
+733,2020-02-01,2020,Boeing 747-412F (SCD),TCMCT,"ACT Airlines, opf Saudi Arabian",Dammam-King Faha...,Saudi Arabia,A2,0,NULL
+734,2021-02-01,2021,Boeing 747-8KZF,JA13KZ,Nippon Cargo Airlines,Tokyo-Narita Air...,Japan,A2,0,NULL
+735,1941-01-01,1941,Junkers Ju-52 See,NULL,German AF,BodÃ¸,Norway,A1,0,NULL
+736,1943-01-01,1943,Consolidated PBY-5 Catalina,04502,US Navy,South Pacific,Pacific Ocean,A1,3,NULL
+737,1943-01-01,1943,Junkers Ju-52/3mge,OOAUG,Sabena,near Bangui,C.A.R.,A1,0,NULL
+738,1944-01-01,1944,Curtiss C-46A,4124702,USAAF,NULL,Guyana,U1,NULL,NULL
+739,1944-01-01,1944,Curtiss C-46A,4124752,USAAF,Likiang Mt.,China,A1,0,NULL
+740,1945-01-01,1945,Douglas Dakota III  (DC-3),KG736,RAF,Brussels/Evere A...,Belgium,C1,0,NULL
+741,1945-01-01,1945,Douglas Dakota III (DC-3),KG331,RAF,Brussels/Evere A...,Belgium,A1,0,NULL
+742,1945-01-01,1945,Douglas Dakota III (DC-3),KG355,RAF,Brussels/Evere A...,Belgium,A1,0,NULL
+743,1945-01-01,1945,Douglas Dakota III (DC-3),KG488,RAF,Brussels/Evere A...,Belgium,C1,0,NULL
+744,1945-01-01,1945,Douglas Dakota III (DC-3),KG800,RAF,Brussels/Evere A...,Belgium,C1,0,NULL
+745,1945-01-01,1945,Douglas Dakota IV (DC-3),KJ803,RAF,Brussels/Evere A...,Belgium,C1,0,NULL
+746,1946-01-01,1946,Budd RB-1 Conestoga,NC45347,National Skyway Freight,"Bluefield, VA",USA,A1,0,NULL
+747,1947-01-01,1947,Douglas C-47A (DC-3),NC53457,private,near Nashville Metrop...,USA,A1,0,NULL
+748,1950-01-01,1950,Lockheed 414-08 Hudson IVA,VHSMK,John Fairfax & Sons,"near Camden Airport, ...",Australia,A1,2,NULL
+749,1951-01-01,1951,Douglas C-47A (DC-3),CB31,LAB,La Paz-El Alto A...,Bolivia,A1,NULL,NULL
+750,1953-01-01,1953,Douglas C-54B (DC-4),PHTDL,KLM,near Dhahran,Saudi Arabia,A2,0,NULL
+751,1953-01-01,1953,Douglas DC-3D,EIACF,Aer Lingus,Spernall,U.K.,A1,0,NULL
+752,1954-01-01,1954,Grumman SA-16A Albatross,510063,USAF,Narsarsuaq Airpo...,Greenland,O1,0,NULL
+753,1956-01-01,1956,Fairchild C-119 Flying Boxcar,537866,USAF,near Tachikawa Air Base,Japan,A1,0,NULL
+754,1961-01-01,1961,Bristol 175 Britannia 318,NULL,Cubana,"New York, NY",USA,H2,0,NULL
+755,1963-01-01,1963,Fairchild C-119 Flying Boxcar,NULL,Indian AF,Banhilal,India,A1,2,NULL
+756,1966-01-01,1966,Douglas C-47A (DC-3),PKGDE,Garuda,near Palembang,Indonesia,A1,17,NULL
+757,1966-01-01,1966,Douglas C-47A (DC-3),PKGDU,Garuda,near Palembang,Indonesia,A1,17,NULL
+758,1966-01-01,1966,Ilyushin Il-14P,CCCP61618,"Aeroflot, Magadan",near Petropavlovsk-Ka...,Russia,A1,23,NULL
+759,1967-01-01,1967,Douglas C-47 (DC-3),NULL,Indian AF,Yellahanka AFB,India,A1,1,NULL
+760,1968-01-01,1968,Martin 4-0-4,N251S,Southern Airways,Oxford-Universit...,USA,A1,0,NULL
+761,1969-01-01,1969,Lockheed C-130E Hercules,454,Saudi AF,Paris-Le Bourget...,France,A1,0,NULL
+762,1970-01-01,1970,SE-210 Caravelle VI-R,PPPDZ,Cruzeiro do Sul,Havana-JosÃ© Mar...,Cuba,H2,0,NULL
+763,1974-01-01,1974,Fokker F-28 Fellowship 1000,ITIDE,Itavia,near Torino Airport (...,Italy,A1,38,NULL
+764,1975-01-01,1975,Douglas C-47A (DC-3),N9BC,Air O'Hare,"near Fort Lauderdale, FL",USA,A1,0,NULL
+765,1976-01-01,1976,Boeing 720-023B,ODAFT,MEA,near Al Qaysumah,Saudi Arabia,C1,81,NULL
+766,1976-01-01,1976,DC-10-30,LNRKA,SAS,KÃ¸benhavn-Kastr...,Denmark,A2,0,NULL
+767,1978-01-01,1978,Boeing 747-237B,VTEBD,Air-India,near Bombay-Santacruz...,India,A1,213,NULL
+768,1980-01-01,1980,Boeing 737-2A8,VTEAH,Indian Airlines,Ahmedabad Airpor...,India,A2,0,NULL
+769,1985-01-01,1985,Boeing 727-225,N819EA,Eastern Air Lines,Nevado Illimani,Bolivia,A1,29,NULL
+770,1998-01-01,1998,Boeing 757-21K,GWJAN,Airtours Int.,Puerto Plata-La ...,Dominican Rep.,A2,0,NULL
+771,1999-01-01,1999,Boeing 737-298C,9QCNK,Lignes Aeriennes Congolaises,Kilimanjaro Airp...,Tanzania,A1,0,NULL
+772,2004-01-01,2004,Beech A100 King Air,CGFKS,Thunder Airlines,Terrace Bay Airp...,Canada,A1,0,NULL
+773,2004-01-01,2004,DC-9-81 (MD-81),JA8297,Japan Air System,Tokunoshima Airp...,Japan,A2,0,NULL
+774,2005-01-01,2005,Cessna 551 Citation II/SP,N35403,Jet Services,Ainsworth Airpor...,USA,A1,0,NULL
+775,2007-01-01,2007,Boeing 737-4Q8,PKKKW,AdamAir,near Pambauang,Indonesia,A1,102,NULL
+776,2011-01-01,2011,Tupolev Tu-154B-2,RA85588,Kolavia,Surgut Airport (...,Russia,A1,3,NULL
+777,1934-07-01,1934,Ford 4-AT-D Tri-Motor,NC7586,Private,"Lima, OH",USA,A1,0,NULL
+778,1941-07-01,1941,Consolidated Catalina I (PBY-5),AH557,RAF,SkerjafjÃ¶rdur,Iceland,A1,0,NULL
+779,1942-07-01,1942,Douglas C-49E (DC-3),4256093,USAAF,"Welon, WV",USA,A1,21,NULL
+780,1942-07-01,1942,Lisunov PS-84,CCCPL3997,Aeroflot,Sevastopol-Khers...,Ukraine,A1,0,NULL
+781,1943-07-01,1943,Consolidated PBY-5 Catalina,04447,US Navy,"Pensacola NAS, F...",USA,A1,1,NULL
+782,1943-07-01,1943,Curtiss C-46A,4112298,USAAF,between Tezpur a...,NULL,A1,5,NULL
+783,1944-07-01,1944,Consolidated PBY-5 Catalina,04426,US Navy,Green Island,P.N. Guinea,A1,NULL,NULL
+784,1944-07-01,1944,Curtiss C-46A,4112288,USAAF,Chabua Airfield,India,A1,NULL,NULL
+785,1945-07-01,1945,Consolidated C-87,4124161,USAAF,near Jorhat (JRH),India,A1,NULL,NULL
+786,1945-07-01,1945,Douglas C-47A (DC-3),4316101,USAAF,"near Spring Lake, TX",USA,A1,5,NULL
+787,1947-07-01,1947,Amiot AAC.1 (Ju-52),FBALF,Air France,near EsÃ©ka,Cameroon,A1,13,NULL
+788,1947-07-01,1947,Avro 685 York C.1,MW224,RAF,Oakington RAF St...,U.K.,A1,5,NULL
+789,1947-07-01,1947,Douglas C-47 (DC-3),TI107,TAN,NULL,NULL,A1,NULL,NULL
+790,1947-07-01,1947,Ilyushin Il-12P,CCCPL1317,"Aeroflot, Moscow",Moskva-Vnukovo A...,Russia,A1,4,NULL
+791,1948-07-01,1948,Fiat G.212PW,IELSA,ALI,Keerbergen Airfield,Belgium,A1,8,NULL
+792,1951-07-01,1951,Amiot AAC.1 (Ju-52),NULL,French AF,near Hanoi,Vietnam,A1,5,NULL
+793,1951-07-01,1951,Douglas C-47A (DC-3),4315144,USAF,near Fort Dix-McGuire...,USA,A1,5,NULL
+794,1955-07-01,1955,Antonov An-2,CCCPL2642,"Aeroflot, Northern",near Ukhta,Russia,A1,0,NULL
+795,1957-07-01,1957,Douglas C-47A (DC-3),APAJS,PIA,near Charlakhi Island,Bangladesh,A1,24,NULL
+796,1957-07-01,1957,Fairchild C-119G Flying Boxcar,533221,USAF,Athens Airport (...,Greece,A1,0,NULL
+797,1959-07-01,1959,Douglas C-47B (DC-3),GA+1..,German AF,Istanbul-YesilkÃ...,Turkey,A1,0,NULL
+798,1962-07-01,1962,Douglas C-47A (DC-3),UN203,UN,Tshikapa Airport...,D.R. Congo,A1,NULL,NULL
+799,1963-07-01,1963,Douglas C-47B (DC-3),PPVBV,Varig,near Passo Fundo Airp...,Brazil,A1,15,NULL
+800,1963-07-01,1963,U-1A Otter (DHC-3),581706,US Army,within Vietnam,Vietnam,A1,1,NULL
+801,1964-07-01,1964,DHC-4A Caribou,A4134,RAAF,"Nowra Airport, N...",Australia,A1,0,NULL
+802,1965-07-01,1965,Boeing 707-124,N70773,Continental Air Lines,Kansas City Down...,USA,A1,0,NULL
+803,1965-07-01,1965,Lockheed C-130A Hercules,550039,USAF,Da Nang Airport ...,Vietnam,C1,0,NULL
+804,1965-07-01,1965,Lockheed C-130A Hercules,550042,USAF,Da Nang Airport ...,Vietnam,C1,0,NULL
+805,1968-07-01,1968,Antonov An-2M,CCCP02332,"Aeroflot, Ukraine","near Breusovka, Polta...",Ukraine,A1,2,NULL
+806,1968-07-01,1968,Boeing 727-51,N475US,Northwest Orient Airlines,Havana-JosÃ© Mar...,Cuba,H2,0,NULL
+807,1968-07-01,1968,Lockheed L-1049G Super Constellation,5TTAG,Red Cross,Uli Airstrip,Nigeria,A1,4,NULL
+808,1968-07-01,1968,Rockwell 1121 Jet Commander,N196KC,Kansas City Life Insurance,Fayetteville Mun...,USA,A1,1,NULL
+809,1969-07-01,1969,Grumman SA-16B Albatross (HU-16),AN.17,Spanish AF,near AlborÃ¡n Island,Spain,A1,7,NULL
+810,1970-07-01,1970,DC-8,NULL,National Airlines,Havana,Cuba,H2,0,NULL
+811,1970-07-01,1970,Fokker F-27 Friendship 200,PIC504,Philippine Air Lines,Dumaguete Airpor...,Philippines,A1,0,NULL
+812,1970-07-01,1970,SE-210 Caravelle VI-N,PPPDX,Cruzeiro do Sul,"Rio de Janeiro, RJ",Brazil,H2,0,NULL
+813,1972-07-01,1972,Lockheed P-2H Neptune,145904,US Navy,South Weymouth N...,USA,A1,NULL,NULL
+814,1977-07-01,1977,Fairchild C-119 Flying Boxcar,3205,Republic of China AF,unknown,NULL,U1,NULL,NULL
+815,1977-07-01,1977,Ford 4-AT-B Tri-Motor,N7684,Island Airlines,Put-in-Bay Airpo...,USA,A1,0,NULL
+816,1981-07-01,1981,Douglas R4D-1 (DC-3),N111ST,United Aircraft Services,Pilot Point Airp...,USA,A1,3,NULL
+817,1983-07-01,1983,Douglas C-47 (DC-3),NULL,Unknown,Berry Island,Bahamas,A1,2,NULL
+818,1983-07-01,1983,Ilyushin Il-62M,889,Chosonminhang,near LabÃ©,Guinea,A1,23,NULL
+819,1985-07-01,1985,BAe BAe-748-314 Srs. 2A LFD,JW9009,Tanzanian AF,near Mbeya Airport (MBI),Tanzania,A1,4,NULL
+820,1986-07-01,1986,Fairchild SA227-AT Expediter,N243DH,DHL Airways,Lincoln Municipa...,USA,A2,0,NULL
+821,1987-07-01,1987,Lockheed C-130E Hercules,6810945,USAF,"Fort Bragg, NC",USA,A1,4,1
+822,1988-07-01,1988,Antonov An-2R,YUBGI,Agrohemizacija,Cesnikovo,North Macedonia,A1,NULL,NULL
+823,1990-07-01,1990,Ilyushin Il-62M,CCCP86456,"Aeroflot, Moscow",Yakutsk Airport ...,Russia,A1,0,NULL
+824,1991-07-01,1991,Learjet 25XR,N458J,New Creations,Columbus-Port Co...,USA,A1,0,NULL
+825,1992-07-01,1992,Saab 340A,VHEKT,Kendell Airlines,Devonport Airpor...,Australia,A2,0,NULL
+826,1993-07-01,1993,Fokker F-28 Fellowship 3000,PKGFU,Merpati Nusantara,near Sorong-Jefman Ai...,Indonesia,A1,41,NULL
+827,1994-07-01,1994,Fokker F-28 Fellowship 4000,5TCLF,Air Mauritanie,Tidjikja Airport...,Mauritania,A1,80,NULL
+828,1995-07-01,1995,C-7A Caribou (DHC-4),P2VTC,Vanimo Trading,near Kiunga,P.N. Guinea,A1,2,NULL
+829,1995-07-01,1995,Fokker F-27 Friendship 500RF,VTEWE,East West Airlines,Baroda (Vadodara...,India,A1,0,NULL
+830,1995-07-01,1995,Ilyushin Il-62,NULL,Domodedovo Airlines,Noril'sk Airport...,Russia,H2,0,NULL
+831,1999-07-01,1999,Antonov An-12B,TNAFR,Savanair (Angola),Luzamba,Angola,C1,1,NULL
+832,1999-07-01,1999,Learjet 60,N219FX,Bombardier Business Jet Solutions,Hyannis-Barnstab...,USA,A2,0,NULL
+833,2000-07-01,2000,Fokker F-27 Friendship 500,GJEAP,Channel Express,Coventry-Baginto...,U.K.,A2,0,NULL
+834,2002-07-01,2002,Boeing 757-23APF,A9CDHL,DHL Aviation,Ãberlingen,Germany,A1,2,NULL
+835,2002-07-01,2002,Canadair CL-415,CGOGZ,Province of Ontario,Pickle Lake Airp...,Canada,A2,0,NULL
+836,2002-07-01,2002,Tupolev Tu-154M,RA85816,Bashkirskie Avialinii,Ãberlingen,Germany,A1,69,NULL
+837,2005-07-01,2005,DC-10-30ER,S2ADN,Biman Bangladesh,Chittagong-Shah ...,Bangladesh,A1,0,NULL
+838,2006-07-01,2006,Fairchild SA227-AC Metro III,VHVEH,Corporate Air,Canberra Airport...,Australia,A1,0,NULL
+839,2007-07-01,2007,ATR 72-212A (ATR 72-500),VTJCE,Jet Airways,Indore Airport (...,India,A1,0,NULL
+840,2008-07-01,2008,Cessna 208B Grand Caravan,PTMEE,TAM,"DivinÃ³polis, PA",Brazil,A2,0,NULL
+841,2012-07-01,2012,Lockheed C-130H Hercules,931458,USAF,"near Edgemont, SD",USA,A1,4,NULL
+842,2016-07-01,2016,Ilyushin Il-76TD,RA76840,Russian Ministry of Emergency Situations,"near Rybnyi Uyan, Kac...",Russia,A1,10,NULL
+843,2019-07-01,2019,Boeing 737-85R,VTSYK,SpiceJet,Mumbai-Chhatrapa...,India,A1,0,NULL
+844,2021-07-01,2021,Convair CV-580 Airtanker,CFHKF,Conair,Penticton Airpor...,Canada,A2,0,NULL
+845,2021-07-01,2021,Convair CV-580 Airtanker,CFKFL,Conair,Penticton Airpor...,Canada,A2,0,NULL
+846,2022-07-01,2022,Learjet 35A,LVBPA,Flying America,RÃ­o Grande-Gobe...,Argentina,A1,4,NULL
+847,1939-06-01,1939,A.W. AW.15 Atalanta,GABTH,Imperial Airways,Alexandria,Egypt,A1,NULL,NULL
+848,1940-06-01,1940,Douglas R3D-1 (DC-5),1901,Douglas,near Los Angeles Muni...,USA,A1,4,NULL
+849,1941-06-01,1941,Junkers Ju-52/3m,NULL,German AF,Tatoi,Greece,A1,0,NULL
+850,1942-06-01,1942,Consolidated PBY-5 Catalina,04439,US Navy,"near Half Moon Bay, CA",USA,A1,8,NULL
+851,1943-06-01,1943,Douglas C-47 (DC-3),4118450,USAAF,Thiersville Airf...,Algeria,A1,NULL,NULL
+852,1943-06-01,1943,Douglas DC-3-194,GAGBB,BOAC,"near La CoruÃ±a, Spai...",Atlantic Ocean,C1,17,NULL
+853,1944-06-01,1944,Douglas C-47A (DC-3),42100943,USAAF,Tingkawk Sakan,Myanmar,A1,NULL,NULL
+854,1944-06-01,1944,Douglas Dakota III (DC-3),FZ563,RAF,near Myitkyina,Myanmar,A1,7,NULL
+855,1945-06-01,1945,Douglas C-47B (DC-3),A6562,RAAF,Longreach Airpor...,Australia,A1,0,NULL
+856,1946-06-01,1946,Douglas C-54E (DC-4),449078,USAAF,near Amalfi,Italy,A1,30,NULL
+857,1950-06-01,1950,Douglas Dakota IV (DC-3),KN679,RAF,NULL,NULL,A1,NULL,NULL
+858,1950-06-01,1950,Lockheed P2V-2 Neptune,122454,US Navy,Quonset Point NA...,USA,A1,9,NULL
+859,1959-06-01,1959,Curtiss C-46,TI1022,Aerolineas Nacionales,within Nicaragua,Nicaragua,C1,2,NULL
+860,1963-06-01,1963,Antonov An-2T,CCCP98275,"Aeroflot, Uzbekistan",Urgench,Uzbekistan,O1,0,NULL
+861,1964-06-01,1964,Douglas R5D-2 (DC-4),50867,US Navy,Twin Cities NART...,USA,O1,NULL,NULL
+862,1965-06-01,1965,Lockheed P2V-7 Neptune,4657,Japanese Navy,NULL,NULL,U1,NULL,NULL
+863,1967-06-01,1967,Douglas VC-47D (DC-3),451125,USAF,unknown,NULL,A1,NULL,NULL
+864,1967-06-01,1967,Lockheed L-100 Hercules,9JRCY,Zambian Air Cargoes,Dar es Salaam In...,Tanzania,A2,0,NULL
+865,1970-06-01,1970,Tupolev Tu-104A,OKNDD,CSA,near Tripoli Internat...,Libya,A1,13,NULL
+866,1971-06-01,1971,Antonov An-24B,CCCP47729,"Aeroflot, East Siberia",Bogodorsk Island...,Russia,A1,0,NULL
+867,1973-06-01,1973,Douglas DC-3-313,HI117,Aerovias Quisqueyana,Santiago,Dominican Rep.,U1,NULL,NULL
+868,1973-06-01,1973,SE-210 Caravelle VI-N,PPPDX,Cruzeiro do Sul,SÃ£o LuÃ­z-Marec...,Brazil,A1,23,NULL
+869,1976-06-01,1976,CASA C-212 Aviocar 100,T.12B11,Spanish AF,NULL,NULL,A1,NULL,NULL
+870,1976-06-01,1976,Tupolev Tu-154A,CCCP85102,"Aeroflot, International",MacÃ­as Nguema B...,Eq. Guinea,A1,45,NULL
+871,1979-06-01,1979,A.W. AW-660 Argosy C.1,9QCOE,OTRAG Range Air Services,Lubumbashi-Luano...,D.R. Congo,A1,0,NULL
+872,1979-06-01,1979,Douglas C-54A (DC-4),CFQIX,Aero Trades (Western),Thompson Airport...,Canada,A1,0,NULL
+873,1982-06-01,1982,Fairchild C-123J Provider,564391,South Korea AF,near Seoul-Seongnam A...,South Korea,A1,53,NULL
+874,1982-06-01,1982,Lockheed C-130H Hercules,TC63,Argentine AF,near Pebble Island,Falkland Isl.,C1,7,NULL
+875,1983-06-01,1983,Boeing 720-023B,ODAFO,MEA,Beirut Internati...,Lebanon,O1,0,NULL
+876,1984-06-01,1984,BN-2A-26 Islander,GBDVW,Loganair,Sanday Airport (...,U.K.,A1,0,NULL
+877,1991-06-01,1991,Antonov An-2R,YUBHS,Privredna Avijacija Osijek,Slavonski Brod,Croatia,A1,NULL,NULL
+878,1991-06-01,1991,GAF Nomad N.24A,N8071L,Agape Flights,near Matthewtown,Bahamas,A1,2,NULL
+879,1996-06-01,1996,Fairchild RC-119L Flying Boxcar,3181,Republic of China AF,Ping Tung Air Base,Taiwan,O1,0,NULL
+880,1999-06-01,1999,DC-9-82 (MD-82),N215AA,American Airlines,Little Rock Nati...,USA,A1,11,NULL
+881,2002-06-01,2002,BAe BAe-748-372 Srs. 2B,ZSOJU,Airquarius,near George,South Africa,A1,3,NULL
+882,2003-06-01,2003,Learjet 45,IERJC,Eurojet Italia,near Milano-Linate Ai...,Italy,A1,2,NULL
+883,2004-06-01,2004,Antonov An-32,9XRSN,Sun Air Charter,Kigali Internati...,Rwanda,A1,0,NULL
+884,2006-06-01,2006,BAe 3101 Jetstream 31EP,HP1477PS,Air PanamÃ¡,Bocas Del Toro A...,Panama,A1,0,NULL
+885,2007-06-01,2007,DHC-6 Twin Otter 300,PKYRU,Trigana Air Service,Mulia Airport (LII),Indonesia,A2,0,NULL
+886,2007-06-01,2007,Gulfstream G-V,HBIMJ,G5 Executive,ZÃ¼rich-Kloten A...,Switzerland,A2,0,NULL
+887,2007-06-01,2007,Shorts 330UTT,JW9036,Tanzanian AF,Kizota,Tanzania,A1,0,NULL
+888,2008-06-01,2008,Cessna 208B Grand Caravan,N102VE,SkyDive Greensburg,Greensburg-Decat...,USA,A2,0,NULL
+889,2009-06-01,2009,Airbus A330-203,FGZCP,Air France,near SÃ£o Pedro and S...,Atlantic Ocean,A1,228,NULL
+890,2011-06-01,2011,Eclipse 500,N168TT,Private,"Nome Airport, AK...",USA,A1,0,NULL
+891,2012-06-01,2012,Boeing 737-4Y0,PKCJV,Sriwijaya Air,Pontianak-Supadi...,Indonesia,A1,0,NULL
+892,2013-06-01,2013,Dornier 228-202K,9NAHB,Sita Air,Simikot Airport ...,Nepal,A2,0,NULL
+893,1938-03-01,1938,Douglas DC-2-112,NC13789,TWA,"near Wawona, CA",USA,A1,9,NULL
+894,1940-03-01,1940,Handley Page HP.42E,GAAGX,Imperial Airways,"near Dibba, Oman [Gul...",Indian Ocean,A1,8,NULL
+895,1941-03-01,1941,Junkers Ju-52/3mge,ECAAJ,Iberia,Palma de Mallorca,Spain,A1,0,NULL
+896,1941-03-01,1941,Junkers Ju-52/3mte,DAQUB,Deutsche Lufthansa,Hommelvik Bay,Norway,A1,3,NULL
+897,1943-03-01,1943,Junkers Ju-52/3m,DAQUB,Deutsche Lufthansa,near Trondheim/Hommel...,Norway,A1,0,NULL
+898,1945-03-01,1945,Consolidated C-109,4448882,USAAF,near Jorhat (JRH),India,A1,NULL,NULL
+899,1945-03-01,1945,Douglas C-47A (DC-3),4223610,USAAF,Pitu/Morotai Isl...,P.N. Guinea,A1,NULL,NULL
+900,1945-03-01,1945,Douglas C-47A (DC-3),4292784,USAAF,Quezon Field,Philippines,A1,NULL,NULL
+901,1945-03-01,1945,Douglas C-47A (DC-3),4293360,USAAF,Warazup Airstrip,Myanmar,A1,NULL,NULL
+902,1945-03-01,1945,Douglas C-47A (DC-3),4293490,USAAF,Muse Airfield,Myanmar,A1,NULL,NULL
+903,1945-03-01,1945,Douglas Dakota IV (DC-3),KJ921,RAF,Hailing Island,China,A1,4,NULL
+904,1946-03-01,1946,Douglas Dakota III (DC-3),KG425,RAF,Anzio,Italy,A1,0,NULL
+905,1946-03-01,1946,Douglas DC-2-243,C157,TACA de Colombia,Medellin,Colombia,A1,NULL,NULL
+906,1948-03-01,1948,Fairchild C-82A Packet,4423003,USAF,"Mobile, AL",USA,A1,0,NULL
+907,1949-03-01,1949,Fairchild C-82A Packet,4423035,USAF,"near BraganÃ§a, PA",Brazil,A1,0,NULL
+908,1950-03-01,1950,Curtiss C-46A,42107320,USAF,Harrisburg-Olmst...,USA,A1,0,NULL
+909,1950-03-01,1950,Douglas C-47 (DC-3),HK507,SAM,MedellÃ­n-Enriqu...,Colombia,A1,2,NULL
+910,1953-03-01,1953,Curtiss C-46A,4296539,USAF,"near Avon, IN",USA,A1,0,NULL
+911,1955-03-01,1955,Fairchild C-119G Flying Boxcar,525886,USAF,near Ashiya Air Base,Japan,A1,3,NULL
+912,1958-03-01,1958,Convair CV-240-0,N94213,American Airlines,New Haven Airpor...,USA,A1,0,NULL
+913,1959-03-01,1959,Douglas C-47A (DC-3),2070,Brazilian AF,"near Caravelas, BA",Brazil,A1,18,NULL
+914,1960-03-01,1960,Handley Page Hastings C.1,TG579,RAF,near Gan RAF Station ...,Maldives,A1,0,NULL
+915,1962-03-01,1962,Boeing 707-123B,N7506A,American Airlines,"Jamaica Bay, NY",USA,A1,95,NULL
+916,1964-03-01,1964,Lockheed L-049 Constellation,N86504,Paradise Airlines,near Lake Tahoe Airpo...,USA,A1,85,NULL
+917,1966-03-01,1966,Douglas DC-7B,HCAIP,AREA Ecuador,"Miami, FL",USA,A1,0,NULL
+918,1967-03-01,1967,Douglas C-47A (DC-3),PPASS,Sadia,"Caravelas, BA",Brazil,A1,0,NULL
+919,1968-03-01,1968,Fairchild C-123K Provider,54694,USAF,Khe Sanh,Vietnam,C1,0,NULL
+920,1969-03-01,1969,C-7B Caribou (DHC-4),639762,USAF,Phu Cat Air Base...,Vietnam,A1,0,NULL
+921,1969-03-01,1969,Lockheed P-2H Neptune,140964,US Navy,near Guam,Pacific Ocean,A1,0,NULL
+922,1970-03-01,1970,Vickers 757 Viscount,CFTHY,Air Canada,near Vancouver Intern...,Canada,A2,0,NULL
+923,1972-03-01,1972,Dassault Falcon 20F,OHFFW,Finnwings,Montreal-Dorval ...,Canada,A1,0,NULL
+924,1973-03-01,1973,Fairchild AC-119K Stinger,537839,Vietnam Air Force - VNAF,near Vietnam coast,Vietnam,A1,1,NULL
+925,1975-03-01,1975,Boeing 737-200,NULL,Iraqi Airways,Tehran-Mehrabad ...,Iran,H2,1,NULL
+926,1976-03-01,1976,VEB 14P,YRILO,Tarom,near Sibiu Airport (SBZ),Romania,A1,6,NULL
+927,1977-03-01,1977,Douglas C-47A (DC-3),7OABF,Alyemda,near Aden Internation...,Yemen,A1,19,NULL
+928,1978-03-01,1978,DC-10-10,N68045,Continental Air Lines,Los Angeles Inte...,USA,A1,2,NULL
+929,1978-03-01,1978,Fokker F-28 Fellowship 1000,5NANA,Nigeria Airways,near Kano Internation...,Nigeria,A1,16,NULL
+930,1980-03-01,1980,Antonov An-26,NULL,Afghan AF,NULL,NULL,C1,NULL,NULL
+931,1980-03-01,1980,Tupolev Tu-154A,CCCP85103,"Aeroflot, West Siberia",Orenburg Airport...,Russia,A1,0,NULL
+932,1982-03-01,1982,Boeing 727,NULL,United Airlines,Miami Internatio...,USA,H2,0,NULL
+933,1988-03-01,1988,Beech 200 Super King Air,VHIBC,Norfolk Pacific Aviation,unknown,Australia,A1,0,NULL
+934,1988-03-01,1988,Embraer EMB-110P1 Bandeirante,ZSLGP,"Bop Air, op.for Comair","Germiston, c. 13...",South Africa,C1,17,NULL
+935,1989-03-01,1989,Douglas C-49J (DC-3),N28PR,Borinquen Air,near San Juan-Luis Mu...,Puerto Rico,A1,0,NULL
+936,1990-03-01,1990,Boeing 707-329C,9QCVG,Katale Aero Transport,Goma Airport (GOM),D.R. Congo,A1,0,NULL
+937,1994-03-01,1994,Boeing 747-251B,N637US,Northwest Airlines,Tokyo-Narita Air...,Japan,A2,0,NULL
+938,1995-03-01,1995,Mitsubishi Mu-300 Diamond IA,CGLIG,Lignum,Jasper-Hinton Ai...,Canada,A1,0,NULL
+939,1999-03-01,1999,Lockheed L-188AF Electra,N285F,"Renown Aviation, op.for Channel Express",Shannon Airport ...,Ireland,A1,0,NULL
+940,2000-03-01,2000,DC-10-30F,N302FE,FedEx,Newark Internati...,USA,A2,0,NULL
+941,2002-03-01,2002,Boeing 747-436,GBNLD,British Airways,near Parkes VOR,Australia,A2,0,NULL
+942,2003-03-01,2003,Let L-410UVP,FLARF01032,Borki Air Club,near Borki,Russia,A1,11,NULL
+943,2004-03-01,2004,Airbus A300B4-203,APBBA,PIA,Jeddah-King Abdu...,Saudi Arabia,A1,0,NULL
+944,2008-03-01,2008,BN-2B-21 Islander,GPASV,Unknown,near Consuega,Spain,A1,NULL,NULL
+945,2009-03-01,2009,Beech 100 King Air,YV2129,Command Air,"near San Miguel, Truj...",Venezuela,A1,6,NULL
+946,2010-03-01,2010,Airbus A300B4-203 (F),TCACB,ACT Airlines,Bagram Air Base ...,Afghanistan,A1,0,NULL
+947,2010-03-01,2010,Boeing 737-247,5HMVZ,Air Tanzania,Mwanza Airport (...,Tanzania,A1,0,NULL
+948,2012-03-01,2012,Cessna 750 Citation X,N288CX,Asia Today,near Egelsbach Airport,Germany,A1,5,NULL
+949,2015-03-01,2015,Canadair Challenger 601-3A,N600NP,Six Hundred NP,Marco Island Air...,USA,A1,0,NULL
+950,2018-03-01,2018,Beech 200 Super King Air,YV1909,Unknown,Charallave-Ãsca...,Venezuela,A2,0,NULL
+951,2019-03-01,2019,Airbus A320-214,OELOA,LaudaMotion,London-Stansted ...,U.K.,I2,0,NULL
+952,2021-03-01,2021,ATR 72-500 (72-212A),7TVUK,Air AlgÃ©rie,GhardaÃ¯a-NoumÃ©...,Algeria,A2,0,NULL
+953,2021-03-01,2021,Beech B300 King Air 350i,B10GD,"Beidahuang General Airlines, opf China Meteorological Administration","Shanghu, Ji'an C...",China,A1,5,NULL
+954,2022-03-01,2022,Shaanxi Y-8,NULL,China Air Force,near Sanya,China,A1,7,NULL
+955,1939-05-01,1939,Short S.23 Empire Flying Boat Mk I,GADVD,Imperial Airways,"Lumbo lagoon, Il...",Mozambique,A1,2,NULL
+956,1942-05-01,1942,Douglas DST-A-207A (DC-3),NC18146,United Airlines,near Salt Lake City M...,USA,A1,17,NULL
+957,1942-05-01,1942,Junkers Ju-52/3m,NULL,German AF,near Ajdabiya,Libya,C1,1,NULL
+958,1943-05-01,1943,Consolidated PBY-5 Catalina,04470,US Navy,"Mukilteo, WA",USA,A1,1,NULL
+959,1943-05-01,1943,Douglas C-49D (DC-3),417717,USAAF,Waller Field,Trinidad & Tobago,A1,NULL,NULL
+960,1944-05-01,1944,DH.86 Express,A312,RAAF,"near Maryborough, QLD",Australia,A1,NULL,NULL
+961,1944-05-01,1944,Douglas C-47A (DC-3),4224376,USAAF,near Palel,India,C1,0,NULL
+962,1944-05-01,1944,Douglas Dakota III (DC-3),FL549,RAF,Aberdeen Airstrip,Myanmar,A1,NULL,NULL
+963,1944-05-01,1944,Douglas R4D-1 (DC-3),3143,USMC,unknown,NULL,A1,NULL,NULL
+964,1945-05-01,1945,Curtiss C-46D,42101092,USAAF,NULL,NULL,A1,NULL,NULL
+965,1945-05-01,1945,Douglas Dakota IV (DC-3),GAGNA,BOAC,Basra Internatio...,Iraq,U1,NULL,NULL
+966,1946-05-01,1946,Curtiss C-46F,4478555,USAAF,near Peiping,China,A1,0,NULL
+967,1948-05-01,1948,Douglas DC-6,PHTKW,KLM,Amsterdam-Schiph...,Netherlands,A1,0,NULL
+968,1950-05-01,1950,Douglas C-47A (DC-3),FOAFP,French High Commissioner,near Tenkodogo,Burkina Faso,A1,0,NULL
+969,1951-05-01,1951,Douglas C-47A (DC-3),42101001,USAF,Unknown,NULL,A1,NULL,NULL
+970,1957-05-01,1957,Vickers 610 Viking 1B,GAJBO,Eagle Aviation,Star Hill,U.K.,A1,34,NULL
+971,1961-05-01,1961,Convair CV-440,NULL,National Airlines,San Antonio Airport,Cuba,H2,0,NULL
+972,1961-05-01,1961,Douglas C-47 (DC-3),NULL,Indian AF,Rhimkhim,India,A1,NULL,NULL
+973,1963-05-01,1963,DHC-3 Otter,JA3115,Nitto Aviation,Awaji-Shima,Japan,A1,9,NULL
+974,1968-05-01,1968,Douglas C-47 (DC-3),FAC669,Colombian AF,Tumaco,Colombia,A2,0,NULL
+975,1969-05-01,1969,Canadair CL-44D4-2,N446T,Mobil Oil,Anchorage Intern...,USA,A1,0,NULL
+976,1969-05-01,1969,Douglas C-54B (DC-4),FBELL,Air Vietnam,Saigon Airport (...,Vietnam,O1,NULL,NULL
+977,1970-05-01,1970,Boeing 727,NULL,BWIA,Havana Airport (...,Cuba,H2,0,NULL
+978,1973-05-01,1973,Douglas DC-7BF,HK1300,"Aeronorte, op.for Aerocosta Colombia",Miami Internatio...,USA,U1,0,NULL
+979,1973-05-01,1973,HAL-748,VTDXH,Indian Airlines,Hyderabad-Begump...,India,A2,0,NULL
+980,1974-05-01,1974,Antonov An-12B,CCCP12950,"Aeroflot, Krasnoyarsk",Polar Station SP-22,Arctic Ocean,A1,1,NULL
+981,1978-05-01,1978,Antonov An-2R,CCCP01367,"Aeroflot, Privolzhsk",near Ufa,Russia,A1,0,NULL
+982,1978-05-01,1978,Lockheed 18 Lodestar,N9051,Private,"near Durbin, FL",USA,A1,3,NULL
+983,1979-05-01,1979,Antonov An-24V,BNMAU1202,MIAT,Erdenet Airport ...,Mongolia,A1,NULL,NULL
+984,1980-05-01,1980,Boeing 727,NULL,PSA,Stockton Airport...,USA,H2,0,NULL
+985,1981-05-01,1981,Vickers 832 Viscount,PKRVN,Mandala Airlines,Semarang-Achmad ...,Indonesia,A1,0,NULL
+986,1982-05-01,1982,BN-2A-27 Islander,VPFAY,FIGAS,Port Stanley Air...,Falkland Isl.,C1,0,NULL
+987,1982-05-01,1982,Douglas DC-7B,N823D,Kinney Air Tankers,Glendive-Dawson ...,USA,O1,NULL,NULL
+988,1983-05-01,1983,DC-8-63CF,NULL,Capitol Airways,Havana-JosÃ© Mar...,Cuba,H2,0,NULL
+989,1986-05-01,1986,Douglas C-47B (DC-3),6855,South African AF,over Angola,Angola,C2,0,NULL
+990,1986-05-01,1986,Douglas DC-6,FAS302,Salvadorian AF,near San Salvador/Ilo...,El Salvador,A1,37,NULL
+991,1989-05-01,1989,Antonov An-2R,CCCP70225,"Aeroflot, Privolzhsk",Sechenovo,Russia,A1,5,NULL
+992,1991-05-01,1991,IAI 1124A Westwind II,N445BL,PGA Tour Inv.,Oxford-Waterbury...,USA,A1,0,NULL
+993,1995-05-01,1995,Boeing 727-21F,HK1717,Aerosucre Colombia,Taguatinga Airpo...,Brazil,A2,0,NULL
+994,1995-05-01,1995,CASA/Nurtanio NC-212 Aviocar,PKNCS,Merpati Nusantara,Naha Airport (NAH),Indonesia,A2,0,NULL
+995,1995-05-01,1995,Fairchild SA227-CC Metro 23,CGYYB,Bearskin Airlines,"Sioux Falls, ON",Canada,A1,3,NULL
+996,1996-05-01,1996,Boeing 727-2B6,PPLBY,Fly Linhas AÃ©reas,Quito-Mariscal S...,Ecuador,A1,0,NULL
+997,1996-05-01,1996,Rockwell Sabreliner 75A,N773W,U.S. Department of Agriculture,Albuquerque Inte...,USA,A2,0,NULL
+998,1999-05-01,1999,DHC-3 Otter,CFASV,Points North Air Services,"Waterfound Lake, SK",Canada,A1,0,NULL
+999,1999-05-01,1999,DHC-5D Buffalo,207,Kenyan AF,Mandera Airport ...,Kenya,A1,0,1
+1000,2001-05-01,2001,DC-9-31,N9333,Northwest Airlines,Minneapolis-St. ...,USA,A2,0,NULL

@@ -1,0 +1,1001 @@
+﻿accident_id,event_date,event_year,decade,era,aircraft_type,operator,operator_type,country,category_type,damage_level,fat_occupants,fat_ground,fatalities_total,pci_matched,route,aboard_total,summary,cause_category
+1,NULL,1923,1920,1) Up to 1945,Aeromarine 75,Aeromarine Airways,Civil / Other,Cuba,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+2,NULL,1930,1930,1) Up to 1945,Junkers JuG-1W (G.24),Soviet AF,Military,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+6,NULL,1941,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Germany,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+7,NULL,1941,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Greece,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+12,NULL,1941,1940,1) Up to 1945,Junkers Ju-52/3mfe,German AF,Military,Greece,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+14,NULL,1941,1940,1) Up to 1945,Junkers Ju-52/3mge,German AF,Military,Greece,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+16,NULL,1942,1940,1) Up to 1945,Consolidated 28-2 Catalina,Soviet Navy,Military,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+19,NULL,1942,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+22,NULL,1942,1940,1) Up to 1945,Junkers Ju-52/3mfe,German AF,Military,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+25,NULL,1942,1940,1) Up to 1945,Junkers Ju-52/3mge,German AF,Military,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+30,NULL,1943,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+36,NULL,1943,1940,1) Up to 1945,Junkers Ju-52/3mge,German AF,Military,Germany,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+40,NULL,1944,1940,1) Up to 1945,Douglas DC-3 (Showa L2D),Japan Air Force,Military,Micronesia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+41,NULL,1944,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Norway,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+46,NULL,1945,1940,1) Up to 1945,Douglas C-47 (DC-3),USAAF,Military,Italy,Accident,Hull loss,9,NULL,9,0,NULL,NULL,NULL,NULL
+51,NULL,1946,1940,2) 1946-1969,Ford 5-AT Tri-Motor,TACA de Nicaragua,Civil / Other,Nicaragua,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+60,NULL,1948,1940,2) 1946-1969,Junkers Ju-52/3mg7e,Soviet AF,Military,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+85,NULL,1965,1960,2) 1946-1969,Ilyushin Il-14T,Egyptian AF,Military,NULL,Criminal occurrence,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+86,NULL,1966,1960,2) 1946-1969,Antonov An-12,Soviet AF,Military,Russia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+106,NULL,1972,1970,3) 1970-1999,Antonov An-12,Soviet AF,Military,Egypt,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+110,NULL,1973,1970,3) 1970-1999,Antonov An-24T,Soviet AF,Military,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+208,NULL,1998,1990,3) 1970-1999,IAI Arava 201,Mexican AF,Military,Mexico,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+258,NULL,1964,1960,2) 1946-1969,Antonov An-12B,Unknown,Civil / Other,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+271,NULL,1942,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+272,NULL,1943,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Denmark,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+326,NULL,1945,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Norway,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+339,NULL,1941,1940,1) Up to 1945,Douglas DC-2-115F,Soviet AF,Military,Latvia,Criminal occurrence,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+337,NULL,2021,2020,4) 2000+,Antonov An-2,KPAAF,Civil / Other,North Korea,Accident,Hull loss,5,NULL,5,0,NULL,NULL,NULL,NULL
+358,NULL,1943,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+364,NULL,1966,1960,2) 1946-1969,Lockheed Lodestar,Unknown,Civil / Other,El Salvador,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+397,NULL,1939,1930,1) Up to 1945,Douglas DC-2-192,Chinese Government,Civil / Other,China,Criminal occurrence,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+404,NULL,1964,1960,2) 1946-1969,Antonov An-12B,Unknown,Civil / Other,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+421,NULL,1941,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Germany,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+424,NULL,1943,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Norway,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+425,NULL,1943,1940,1) Up to 1945,Junkers Ju-52/3mg.e,German AF,Military,Greece,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+427,NULL,1945,1940,1) Up to 1945,Douglas C-47 (DC-3),Polyarnaya Aviatsiya,Civil / Other,Russia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+428,NULL,1945,1940,1) Up to 1945,Douglas C-47 (DC-3),Polyarnaya Aviatsiya,Civil / Other,Russia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+441,NULL,1944,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Finland,Criminal occurrence,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23795,NULL,NULL,NULL,Unknown,Antonov An-12BK,Soviet AF,Military,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23837,NULL,NULL,NULL,Unknown,Ilyushin Il-12,Soviet AF,Military,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23847,NULL,NULL,NULL,Unknown,Lisunov Li-2,Unknown,Civil / Other,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23805,NULL,NULL,NULL,Unknown,Antonov An-2R,PZL-Mielec,Civil / Other,Poland,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23813,NULL,NULL,NULL,Unknown,Antonov An-32A,Antonov Design Bureau,Civil / Other,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+115,NULL,1975,1970,3) 1970-1999,Antonov An-2R,PZL-Mielec,Civil / Other,Poland,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23801,NULL,NULL,NULL,Unknown,Antonov An-26,Soviet AF,Military,Russia,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+188,NULL,1993,1990,3) 1970-1999,Antonov An-26,Mozambique AF,Military,Mozambique,Accident,Hull loss,0,1,1,0,NULL,NULL,NULL,NULL
+66,NULL,1956,1950,2) 1946-1969,Douglas C-54A (DC-4),Argentine Navy,Military,Argentina,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+191,NULL,1994,1990,3) 1970-1999,Antonov An-26,Mozambique AF,Military,Mozambique,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+108,NULL,1972,1970,3) 1970-1999,Grumman HU-16B Albatross,Argentine Navy,Military,NULL,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23845,NULL,NULL,NULL,Unknown,Let L-410T,Libyan Arab Rep. Air Force,Military,Libya,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+411,NULL,1990,1990,3) 1970-1999,Antonov An-2T,"Rigas Aeroklubs, lsf DOSAAF",Civil / Other,Latvia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+98,NULL,1969,1960,2) 1946-1969,Douglas R4D-1 (DC-3),Salvadorian AF,Military,El Salvador,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+202,NULL,1997,1990,3) 1970-1999,Fokker F-27 Friendship 200,Philippine AF,Military,Philippines,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+75,NULL,1963,1960,2) 1946-1969,Grumman SA-16A Albatross,Republic of China AF,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+279,NULL,1980,1980,3) 1970-1999,Antonov An-2,Cuban AF,Military,Cuba,Accident,Hull loss,5,NULL,5,0,NULL,NULL,NULL,NULL
+192,NULL,1994,1990,3) 1970-1999,GAF Nomad N.24A,Thai Navy,Military,Thailand,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+132,NULL,1977,1970,3) 1970-1999,CASA C-212 Aviocar 100,Jordanian AF,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+55,NULL,1947,1940,2) 1946-1969,Douglas R4D-1 (DC-3),USMC,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+296,NULL,1957,1950,2) 1946-1969,Grumman UF-1 Albatross,US Navy,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+259,NULL,1966,1960,2) 1946-1969,Lockheed P-2H Neptune,US Navy,Military,NULL,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+371,NULL,1984,1980,3) 1970-1999,Antonov An-26,Cuban AF,Military,Cuba,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+80,NULL,1964,1960,2) 1946-1969,Lockheed P-2H Neptune,US Navy,Military,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+210,NULL,1998,1990,3) 1970-1999,Lockheed KC-130F Hercules,USMC,Military,NULL,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+353,NULL,2004,2000,4) 2000+,Lockheed KC-130F Hercules,USMC,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+444,NULL,1948,1940,2) 1946-1969,Douglas DC-5-511,Israeli AF,Military,Israel,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+349,NULL,1992,1990,3) 1970-1999,Lockheed KC-130F Hercules,USMC,Military,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+422,NULL,1941,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Russia,Criminal occurrence,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+366,NULL,1972,1970,3) 1970-1999,Douglas C-47B (DC-3),Brazilian AF,Military,Brazil,Unknown,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+159,NULL,1984,1980,3) 1970-1999,Douglas C-47D (DC-3),Paraguay AF,Military,Paraguay,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+37,NULL,1943,1940,1) Up to 1945,Junkers Ju-52/3mge,Portuguese AF,Military,Portugal,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+76,NULL,1963,1960,2) 1946-1969,Lisunov Li-2P,Czechoslovak AF,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+343,NULL,1971,1970,3) 1970-1999,Morane Saulnier MS.760 Paris I,French Navy,Military,France,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23835,NULL,NULL,NULL,Unknown,Fairchild SA227-DC Metro 23 (C-26B),Peruvian AF,Military,Peru,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+71,NULL,1960,1960,2) 1946-1969,Douglas C-47A (DC-3),Vietnam Air Force - VNAF,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+88,NULL,1967,1960,2) 1946-1969,Bristol 170 Freighter 31M,Iraqi AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23849,NULL,NULL,NULL,Unknown,Lisunov Li-2F,Polish AF,Military,Poland,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+393,NULL,2003,2000,4) 2000+,Hawker Siddeley HS-780 Andover C.1,748 Air Services,Civil / Other,South Sudan,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+416,NULL,1999,1990,3) 1970-1999,Antonov An-28,Unknown,Civil / Other,Kenya,Accident,Hull loss,1,NULL,1,0,NULL,NULL,NULL,NULL
+228,NULL,2012,2010,4) 2000+,Let L-410UVP,ETA Air Charter,Civil / Other,Mozambique,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+398,NULL,1944,1940,1) Up to 1945,Curtiss C-46A,USAAF,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+423,NULL,1943,1940,1) Up to 1945,Curtiss C-46,Northwest Airlines,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+273,NULL,1944,1940,1) Up to 1945,Douglas C-47A (DC-3),USAAF,Military,China,Criminal occurrence,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+49,NULL,1945,1940,1) Up to 1945,Douglas C-54A (DC-4),USAAF,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+39,NULL,1944,1940,1) Up to 1945,Douglas C-47A (DC-3),USAAF,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+140,NULL,1979,1970,3) 1970-1999,CASA C-212 Aviocar 100,Nicaraguan AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+47,NULL,1945,1940,1) Up to 1945,Douglas C-47A (DC-3),USAAF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+10354,NULL,1944,1940,1) Up to 1945,Douglas C-47A (DC-3),USAAF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+48,NULL,1945,1940,1) Up to 1945,Douglas C-47A (DC-3),USAAF,Military,China,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+361,NULL,1945,1940,1) Up to 1945,Douglas C-47A (DC-3),USAAF,Military,Philippines,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+53,NULL,1946,1940,2) 1946-1969,Lockheed C-69 Constellation,USAAF,Military,Mediterranean Sea,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+360,NULL,1945,1940,1) Up to 1945,Curtiss C-46A,USAAF,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23833,NULL,NULL,NULL,Unknown,Douglas C-47D (DC-3),USAAF,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+426,NULL,1945,1940,1) Up to 1945,Curtiss C-46D,USAAF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+473,NULL,1945,1940,1) Up to 1945,Curtiss C-46D,USAAF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+288,NULL,1989,1980,3) 1970-1999,Lockheed C-130H Hercules,Saudi AF,Military,Saudi Arabia,Other,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+18,NULL,1942,1940,1) Up to 1945,Douglas R4D-1 (DC-3),USMC,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+81,NULL,1964,1960,2) 1946-1969,Nord 2501D Noratlas,Israeli AF,Military,Israel,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+400,NULL,1945,1940,1) Up to 1945,Douglas R4D-6 (DC-3),US Navy,Military,Japan,Criminal occurrence,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+138,NULL,1978,1970,3) 1970-1999,Nord 2501D Noratlas,Hellenic AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+134,NULL,1977,1970,3) 1970-1999,Tupolev Tu-124Sh,Soviet AF,Military,Ukraine,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+240,NULL,1975,1970,3) 1970-1999,Lockheed C-130A Hercules,Vietnam Air Force - VNAF,Military,Vietnam,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+415,NULL,1997,1990,3) 1970-1999,Lockheed C-130A Hercules,Mexican AF,Military,Mexico,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+241,NULL,1975,1970,3) 1970-1999,Lockheed C-130A Hercules,USAF,Military,Vietnam,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+207,NULL,1998,1990,3) 1970-1999,Basler Turbo 67 (DC-3T),Guatemala AF,Military,Guatemala,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23850,NULL,NULL,NULL,Unknown,SNCASO S.O.94R Corse II,French Navy,Military,France,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+242,NULL,1975,1970,3) 1970-1999,Lockheed C-130A Hercules,Vietnam Air Force - VNAF,Military,Vietnam,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+243,NULL,1975,1970,3) 1970-1999,Lockheed C-130A Hercules,Vietnam Air Force - VNAF,Military,Vietnam,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+244,NULL,1975,1970,3) 1970-1999,Lockheed C-130A Hercules,Vietnam Air Force - VNAF,Military,Vietnam,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+245,NULL,1975,1970,3) 1970-1999,Lockheed C-130A Hercules,Vietnam Air Force - VNAF,Military,Vietnam,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+446,NULL,1961,1960,2) 1946-1969,Lockheed C-130B Hercules,USAF,Military,France,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+307,NULL,1985,1980,3) 1970-1999,Lockheed P-3F Orion,Iran AF,Military,Iran,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+486,NULL,2011,2010,4) 2000+,DHC-6 Twin Otter 300,Zueitina Oil,Civil / Other,Libya,Other,Repairable damage,0,NULL,0,0,NULL,NULL,NULL,NULL
+152,NULL,1982,1980,3) 1970-1999,DHC-6 Twin Otter 300,Libyan Ministry of Agriculture,Civil / Other,Libya,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+466,NULL,2007,2000,4) 2000+,Ilyushin Il-76TD,Jamahiriya Air Transport,Civil / Other,Mali,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23802,NULL,NULL,NULL,Unknown,Antonov An-26,Sin Sad Airlines,Civil / Other,Libya,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23824,NULL,NULL,NULL,Unknown,BN-2A-26 Islander,Jenair,Civil / Other,Cyprus,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+187,NULL,1992,1990,3) 1970-1999,Dornier 228-100,Okada Air,Civil / Other,Nigeria,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+150,NULL,1981,1980,3) 1970-1999,Douglas C-47B (DC-3),Arax Airlines,Civil / Other,Nigeria,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+417,NULL,2001,2000,4) 2000+,Hawker Siddeley HS-125-600B,Chrome Air,Civil / Other,Nigeria,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23820,NULL,NULL,NULL,Unknown,BN-2A-21 Islander,Mauritanian AF,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+137,NULL,1978,1970,3) 1970-1999,BN-2A-21 Islander,Mauritanian AF,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23821,NULL,NULL,NULL,Unknown,BN-2A-21 Islander,Mauritanian AF,Military,Mauritania,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+329,NULL,1968,1960,2) 1946-1969,Lockheed L-1049G-82-151 Super Constellation,Biafran Government,Civil / Other,Nigeria,Accident,Hull loss,5,NULL,5,0,NULL,NULL,NULL,NULL
+167,NULL,1986,1980,3) 1970-1999,BN-2A Trislander Mk.III,Cooper Skybird Aircharters,Civil / Other,Kenya,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+319,NULL,1992,1990,3) 1970-1999,Douglas DC-3C,Air Kenya,Civil / Other,Kenya,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+333,NULL,1996,1990,3) 1970-1999,Douglas DC-3D,Branton Air Service,Civil / Other,Kenya,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23836,NULL,NULL,NULL,Unknown,Grumman G-159 Gulfstream I,JetPet,Civil / Other,Kenya,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+257,NULL,1963,1960,2) 1946-1969,CV-2A Caribou (DHC-4),US Army,Military,Vietnam,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+99,NULL,1969,1960,2) 1946-1969,Ilyushin Il-14,CAAC,Civil / Other,China,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+83,NULL,1965,1960,2) 1946-1969,CV-2B Caribou (DHC-4),US Army,Military,Vietnam,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+67,NULL,1956,1950,2) 1946-1969,Junkers Ju-52/3mge,Portuguese AF,Military,Portugal,Unknown,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+91,NULL,1968,1960,2) 1946-1969,Antonov An-2M,Polish AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+123,NULL,1975,1970,3) 1970-1999,Nord 2501D Noratlas,Portuguese AF,Military,Portugal,Unknown,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+119,NULL,1975,1970,3) 1970-1999,DHC-4A Caribou,US Army,Military,Marshall Isl.,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+403,NULL,1960,1960,2) 1946-1969,Grumman SA-16A Albatross,Portuguese AF,Military,Portugal,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+212,NULL,1999,1990,3) 1970-1999,Yakovlev Yak-40,Serbian Air Force,Military,Serbia,Criminal occurrence,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23844,NULL,NULL,NULL,Unknown,Ilyushin Il-78,Ukraine Air Force,Military,Ukraine,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+198,NULL,1997,1990,3) 1970-1999,Antonov An-26,Sudan AF,Military,South Sudan,Criminal occurrence,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23843,NULL,NULL,NULL,Unknown,Ilyushin Il-76TD,Yemen AF,Military,Yemen,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+395,NULL,2015,2010,4) 2000+,Ilyushin Il-76TD,Barash Aviation,Civil / Other,Yemen,Criminal occurrence,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+31,NULL,1943,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Norway,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+472,NULL,1944,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Finland,Criminal occurrence,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+200,NULL,1997,1990,3) 1970-1999,CASA C-212 Aviocar 200,Zimbabwe AF,Military,Zimbabwe,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+406,NULL,1973,1970,3) 1970-1999,DHC-4A Caribou,Oman AF,Military,Oman,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+177,NULL,1990,1990,3) 1970-1999,Antonov An-2T,East German AF,Military,Germany,Unknown,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+340,NULL,1944,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Norway,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+484,NULL,1996,1990,3) 1970-1999,BN-2A-8Â Islander,ASL,Civil / Other,Guyana,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+483,NULL,1994,1990,3) 1970-1999,BN-2A-27 Islander,Kayman Sankar Aviation,Civil / Other,Guyana,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+148,NULL,1981,1980,3) 1970-1999,DHC-5D Buffalo,Chilean AF,Military,Chile,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+328,NULL,1968,1960,2) 1946-1969,Douglas LC-117D,US Navy,Military,Antarctica,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+456,NULL,1999,1990,3) 1970-1999,Antonov An-2R,Geofoto,Civil / Other,Bosnia,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+261,NULL,1967,1960,2) 1946-1969,Douglas C-47A (DC-3),Ghana Airways,Civil / Other,Nigeria,Criminal occurrence,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+102,NULL,1970,1970,3) 1970-1999,Douglas DC-3C,Zambia Airways,Civil / Other,Zambia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+313,NULL,1991,1990,3) 1970-1999,Boeing 767-269,Kuwait Airways,Civil / Other,Iraq,Criminal occurrence,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+314,NULL,1991,1990,3) 1970-1999,Boeing 767-269,Kuwait Airways,Civil / Other,Iraq,Criminal occurrence,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+218,NULL,2002,2000,4) 2000+,Embraer EMB-110P1 Bandeirante,Inter Tropic Airlines,Civil / Other,Sierra Leone,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+351,NULL,1994,1990,3) 1970-1999,Lockheed L-188PF Electra,Filair,Civil / Other,Angola,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+413,NULL,1993,1990,3) 1970-1999,Boeing 707-441,Blue Airlines,Civil / Other,D.R. Congo,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23815,NULL,NULL,NULL,Unknown,BN-2A Islander,Enterprise General M.Forrest,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+263,NULL,1992,1990,3) 1970-1999,Lockheed L-188C Electra,New Air Charter Service,Civil / Other,D.R. Congo,Unknown,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+467,NULL,2011,2010,4) 2000+,Antonov An-28,Swala Aviation,Civil / Other,D.R. Congo,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+173,NULL,1988,1980,3) 1970-1999,Vickers 757 Viscount,Filair,Civil / Other,D.R. Congo,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+377,NULL,2005,2000,4) 2000+,Hawker Siddeley HS-780 Andover C.1,Aero Service Corp.,Civil / Other,South Sudan,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+184,NULL,1991,1990,3) 1970-1999,Douglas C-54A (DC-4),GLM Aviation,Civil / Other,D.R. Congo,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+347,NULL,1984,1980,3) 1970-1999,Boeing 707-458,Wolf Aviation,Civil / Other,D.R. Congo,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+90,NULL,1967,1960,2) 1946-1969,Douglas C-47A (DC-3),Congolese AF,Military,D.R. Congo,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+107,NULL,1972,1970,3) 1970-1999,Douglas DC-3A,Congolese AF,Military,D.R. Congo,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+323,NULL,2005,2000,4) 2000+,Hawker Siddeley HS-780 Andover CC.2,African Commuter Services,Civil / Other,South Sudan,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+300,NULL,1960,1960,2) 1946-1969,Douglas C-47A (DC-3),LANICA,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+179,NULL,1990,1990,3) 1970-1999,Cessna U-27A Caravan I,Liberian Army,Military,Liberia,Other,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+251,NULL,1987,1980,3) 1970-1999,BN-2A-26 Islander,Taiwan Airlines,Civil / Other,Taiwan,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+309,NULL,1987,1980,3) 1970-1999,BN-2A-26 Islander,Yung Shing Airlines,Civil / Other,Taiwan,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+306,NULL,1977,1970,3) 1970-1999,Ilyushin Il-18B,CAAC,Civil / Other,China,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+249,NULL,1985,1980,3) 1970-1999,Antonov An-24RV,MIAT,Civil / Other,Mongolia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+164,NULL,1985,1980,3) 1970-1999,Antonov An-24RV,MIAT,Civil / Other,Mongolia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+275,NULL,1945,1940,1) Up to 1945,Douglas DC-2-243,TACA de Colombia,Civil / Other,Colombia,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+385,NULL,1943,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Tunisia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+56,NULL,1948,1940,2) 1946-1969,Curtiss C-46A,L.A. Transatlantica Colombia,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+64,NULL,1954,1950,2) 1946-1969,Douglas C-47A (DC-3),LANSA,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23807,NULL,NULL,NULL,Unknown,Antonov An-2T,"Aeroflot, Azerbaijan",Civil / Other,NULL,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23798,NULL,NULL,NULL,Unknown,Antonov An-2,Aeroflot,Civil / Other,Russia,Accident,Repairable damage,0,NULL,0,0,NULL,NULL,NULL,NULL
+23838,NULL,NULL,NULL,Unknown,Ilyushin Il-14T,"GUSMP, Directorate of Polar Aviation",Civil / Other,Antarctica,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+276,NULL,1968,1960,2) 1946-1969,Lisunov Li-2T,"Aeroflot, Polar",Civil / Other,Antarctica,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+176,NULL,1990,1990,3) 1970-1999,Antonov An-2P,"Aeroflot, Krasnoyarsk",Civil / Other,Russia,Accident,Hull loss,5,NULL,5,0,NULL,NULL,NULL,NULL
+116,NULL,1975,1970,3) 1970-1999,Antonov An-2R,"Aeroflot, Uralsk",Civil / Other,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+124,NULL,1976,1970,3) 1970-1999,Antonov An-12B,"Aeroflot, Northern",Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+135,NULL,1978,1970,3) 1970-1999,Antonov An-12BP,"Aeroflot, Yakutsk",Civil / Other,Russia,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+301,NULL,1972,1970,3) 1970-1999,Antonov An-10,"Aeroflot, Ukraine",Civil / Other,Russia,Other,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23796,NULL,NULL,NULL,Unknown,Antonov An-12BP,Soviet AF,Military,Eritrea,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23797,NULL,NULL,NULL,Unknown,Antonov An-12BP,Soviet AF,Military,Russia,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+163,NULL,1985,1980,3) 1970-1999,Antonov An-12B,"Aeroflot, Privolzhsk",Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+390,NULL,1980,1980,3) 1970-1999,Antonov An-8,MAP Arsenyev,Civil / Other,Russia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23808,NULL,NULL,NULL,Unknown,Antonov An-2T,"Aeroflot, Azerbaijan",Civil / Other,?,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23809,NULL,NULL,NULL,Unknown,Antonov An-2T,"Aeroflot, Azerbaijan",Civil / Other,?,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+165,NULL,1985,1980,3) 1970-1999,Antonov An-2TP,"Aeroflot, Kazakstan",Civil / Other,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+181,NULL,1991,1990,3) 1970-1999,Antonov An-2R,"Aeroflot, Tyumen",Civil / Other,Russia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23810,NULL,NULL,NULL,Unknown,Antonov An-2T,"Aeroflot, Azerbaijan",Civil / Other,?,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+128,NULL,1976,1970,3) 1970-1999,Tupolev Tu-104A,"Aeroflot, East Siberia",Civil / Other,Ukraine,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+482,NULL,1986,1980,3) 1970-1999,Yakovlev Yak-42,"Aeroflot, Central Region",Civil / Other,Russia,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+100,NULL,1970,1970,3) 1970-1999,Antonov An-24B,"Aeroflot, Privolzhsk",Civil / Other,Russia,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+136,NULL,1978,1970,3) 1970-1999,Antonov An-24B,"Aeroflot, Ukraine",Civil / Other,Russia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+157,NULL,1984,1980,3) 1970-1999,Antonov An-24B,"Aeroflot, Krasnoyarsk",Civil / Other,Russia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+250,NULL,1987,1980,3) 1970-1999,Antonov An-2R,"Aeroflot, North Kavkaz",Civil / Other,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23848,NULL,NULL,NULL,Unknown,Lisunov Li-2,"Aeroflot, Yakutsk",Civil / Other,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+162,NULL,1984,1980,3) 1970-1999,Tupolev Tu-134A,"Aeroflot, Belarus",Civil / Other,Belarus,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+252,NULL,1994,1990,3) 1970-1999,Let L-410UVP-E,Tuva Airlines,Civil / Other,Russia,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+174,NULL,1989,1980,3) 1970-1999,Antonov An-2R,"Aeroflot, Central Region",Civil / Other,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+156,NULL,1983,1980,3) 1970-1999,Ilyushin Il-18Gr,"Aeroflot, MUTA",Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+143,NULL,1979,1970,3) 1970-1999,Tupolev Tu-154B,"Aeroflot, Ukraine",Civil / Other,Ukraine,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23839,NULL,NULL,NULL,Unknown,Ilyushin Il-76,Ilyushin,Civil / Other,Latvia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23840,NULL,NULL,NULL,Unknown,Ilyushin Il-76M,Soviet AF,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23841,NULL,NULL,NULL,Unknown,Ilyushin Il-76M,Soviet AF,Military,Russia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23842,NULL,NULL,NULL,Unknown,Ilyushin Il-76M,Soviet AF,Military,Russia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+185,NULL,1991,1990,3) 1970-1999,Yakovlev Yak-40,"Aeroflot, North Kavkaz",Civil / Other,Russia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+129,NULL,1976,1970,3) 1970-1999,Yakovlev Yak-40,"Aeroflot, East Siberia",Civil / Other,Russia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+113,NULL,1973,1970,3) 1970-1999,Yakovlev Yak-40,"Aeroflot, Uzbekistan",Civil / Other,NULL,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23811,NULL,NULL,NULL,Unknown,Antonov An-2T,"Aeroflot, Azerbaijan",Civil / Other,?,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+65,NULL,1954,1950,2) 1946-1969,Douglas R4D-5 (DC-3),Polyarnaya Aviatsiya,Civil / Other,Arctic Ocean,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+402,NULL,1958,1950,2) 1946-1969,Antonov An-2,Aeroflot,Civil / Other,NULL,Other,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+359,NULL,1944,1940,1) Up to 1945,Junkers Ju-52/3m,NKAP,Civil / Other,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+52,NULL,1946,1940,2) 1946-1969,Junkers Ju-52/3m,"Aeroflot, West Siberia",Civil / Other,Kazakhstan,Accident,Hull loss,4,NULL,4,0,NULL,NULL,NULL,NULL
+238,NULL,1959,1950,2) 1946-1969,Antonov An-2,"Aeroflot, Yakutsk",Civil / Other,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+298,NULL,1958,1950,2) 1946-1969,Lisunov Li-2V,"GUSMP, Directorate of Polar Aviation",Civil / Other,Antarctica,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+299,NULL,1958,1950,2) 1946-1969,Lisunov Li-2V,Polyarnaya Aviatsiya,Civil / Other,Antarctica,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23799,NULL,NULL,NULL,Unknown,Antonov An-2,"GUSMP, Directorate of Polar Aviation",Civil / Other,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+338,NULL,1940,1940,1) Up to 1945,Ford 4-AT-E Tri-Motor,White Pass Airways,Civil / Other,Canada,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+63,NULL,1953,1950,2) 1946-1969,PBV-1A Canso A (PBY-5A),Hollinger Ungava Transport,Civil / Other,Canada,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+248,NULL,1983,1980,3) 1970-1999,Hawker Siddeley HS-125-1A-522,Gouvernement du QuÃ©bec,Civil / Other,Canada,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+101,NULL,1970,1970,3) 1970-1999,Consolidated PBY-5A Catalina,Austin Airways,Civil / Other,Canada,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+368,NULL,1975,1970,3) 1970-1999,BN-2A Islander,Wilderness Airline,Civil / Other,Canada,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+95,NULL,1969,1960,2) 1946-1969,Douglas C-47A (DC-3),Keir Air Transport,Civil / Other,Canada,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+127,NULL,1976,1970,3) 1970-1999,Convair CV-440-86,Servicio AÃ©reo San Francisco,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+305,NULL,1977,1970,3) 1970-1999,Curtiss C-46A,Frigorifico Reyes,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+451,NULL,1980,1980,3) 1970-1999,Curtiss C-46D,Transportes AÃ©reos Bolivar,Civil / Other,Bolivia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+201,NULL,1997,1990,3) 1970-1999,Curtiss C-46F,TAVIC,Civil / Other,Bolivia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+160,NULL,1984,1980,3) 1970-1999,Douglas C-47D (DC-3),Aerolineas La Paz,Civil / Other,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+264,NULL,1999,1990,3) 1970-1999,Curtiss C-46D,SAO,Civil / Other,Bolivia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+352,NULL,1999,1990,3) 1970-1999,Curtiss C-46A,SAO,Civil / Other,Bolivia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+84,NULL,1965,1960,2) 1946-1969,DH-114 Heron 2D,Ceylon AF,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+189,NULL,1993,1990,3) 1970-1999,Antonov An-26,Aerogaviota,Civil / Other,Cuba,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+468,NULL,2013,2010,4) 2000+,Embraer EMB-110P Bandeirante,Aerocaribbean,Civil / Other,Cuba,Accident,Repairable damage,0,NULL,0,0,NULL,NULL,NULL,NULL
+438,NULL,1996,1990,3) 1970-1999,Fairchild F-27,LADESA,Civil / Other,Paraguay,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+268,NULL,1928,1920,1) Up to 1945,Junkers G.31ce,Deutsche Lufthansa,Civil / Other,Germany,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+310,NULL,1989,1980,3) 1970-1999,Lockheed L-100-30 Hercules,"Transafrik, opf Endiama",Civil / Other,Angola,Criminal occurrence,Repairable damage,0,NULL,0,0,NULL,NULL,NULL,NULL
+216,NULL,2002,2000,4) 2000+,Antonov An-12A,Unknown,Civil / Other,Angola,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+292,NULL,1929,1920,1) Up to 1945,Junkers G.24,Deutsche Lufthansa,Civil / Other,France,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+29,NULL,1943,1940,1) Up to 1945,Douglas DC-3-220A,Deutsche Lufthansa,Civil / Other,Germany,Criminal occurrence,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+35,NULL,1943,1940,1) Up to 1945,Junkers Ju-52/3mg4e,German AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+396,NULL,1936,1930,1) Up to 1945,Junkers G.31fo,Reichsluftfahrtministerium,Civil / Other,Germany,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+26,NULL,1942,1940,1) Up to 1945,Junkers Ju-52/3mge,German AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+32,NULL,1943,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+33,NULL,1943,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+8,NULL,1941,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+9,NULL,1941,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+420,NULL,1937,1930,1) Up to 1945,Junkers Ju-52/3mge,DVL,Civil / Other,Germany,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+20,NULL,1942,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+27,NULL,1942,1940,1) Up to 1945,Junkers Ju-52/3mge4,German AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+34,NULL,1943,1940,1) Up to 1945,Junkers Ju-52/3mfe,Deutsche Lufthansa,Civil / Other,Germany,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+43,NULL,1944,1940,1) Up to 1945,Junkers Ju-52/3m ge,"German AF, lsf Deutsche Lufthansa",Military,Germany,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+21,NULL,1942,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+10,NULL,1941,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+13,NULL,1941,1940,1) Up to 1945,Junkers Ju-52/3mfe,Reichsluftfahrtministerium,Civil / Other,Germany,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+15,NULL,1941,1940,1) Up to 1945,Junkers Ju-52/3mte,German AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+38,NULL,1943,1940,1) Up to 1945,Junkers Ju-52/3mte,German AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+28,NULL,1942,1940,1) Up to 1945,Junkers Ju-52/3mte,German AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+11,NULL,1941,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23,NULL,1942,1940,1) Up to 1945,Junkers Ju-52/3mg4e,German AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+24,NULL,1942,1940,1) Up to 1945,Junkers Ju-52/3mg4e,German AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+294,NULL,1942,1940,1) Up to 1945,Douglas DC-2-120,RAF,Military,Bangladesh,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+357,NULL,1941,1940,1) Up to 1945,Savoia-Marchetti SM-75,Hungarian AF,Military,Hungary,Criminal occurrence,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+293,NULL,1938,1930,1) Up to 1945,Fokker F.XX,LAPE,Civil / Other,Spain,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+442,NULL,1945,1940,1) Up to 1945,Douglas DC-2-115D,Iberia,Civil / Other,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+380,NULL,1937,1930,1) Up to 1945,Douglas DC-2-115B,LAPE,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+381,NULL,1937,1930,1) Up to 1945,Douglas DC-2-115B,LAPE,Civil / Other,Spain,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+59,NULL,1948,1940,2) 1946-1969,Ford 4-AT-F Tri-Motor,Iberia,Civil / Other,Spain,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+418,NULL,2010,2010,4) 2000+,Antonov An-74-200,Ayk Avia,Civil / Other,Afghanistan,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+289,NULL,1992,1990,3) 1970-1999,DHC-4A Caribou,Liberian AF,Military,Liberia,Other,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+214,NULL,2001,2000,4) 2000+,Cessna 208 Caravan I,Peruvian Army,Military,Peru,Accident,Repairable damage,0,NULL,0,0,NULL,NULL,NULL,NULL
+194,NULL,1996,1990,3) 1970-1999,Antonov An-32B,Virunga Air Charter,Civil / Other,D.R. Congo,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+220,NULL,2004,2000,4) 2000+,Fairchild SA227-BC Metro III (C-26B),Colombian AF,Military,Colombia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+145,NULL,1980,1980,3) 1970-1999,DHC-6 Twin Otter 300,Peruvian AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+141,NULL,1979,1970,3) 1970-1999,DHC-6 Twin Otter 300,Peruvian AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+68,NULL,1958,1950,2) 1946-1969,Curtiss C-46F,Peruvian AF,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+5,NULL,1940,1940,1) Up to 1945,Dewoitine D.338,Air France,Civil / Other,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+44,NULL,1944,1940,1) Up to 1945,LiorÃ©-et-Olivier H.246,French Navy,Military,France,Criminal occurrence,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+452,NULL,1980,1980,3) 1970-1999,Dornier Do 28D-1 Skyservant,HÃ©met Exploration,Civil / Other,Mali,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+439,NULL,1929,1920,1) Up to 1945,Farman F.63bis Goliath,SGTA,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+158,NULL,1984,1980,3) 1970-1999,Dornier Do 28D-1 Skyservant,HÃ©met Exploration,Civil / Other,Mali,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+376,NULL,2003,2000,4) 2000+,Let L-410UVP,Aeroklub KVS,Civil / Other,Russia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+445,NULL,1960,1960,2) 1946-1969,Consolidated PBY-5A Catalina,RÃ©seau AÃ©rien Interinsulaire,Civil / Other,French Polynesia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23825,NULL,NULL,NULL,Unknown,BN-2A-8 Islander,Bordeaux Aviation,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+341,NULL,1969,1960,2) 1946-1969,Douglas C-54A (DC-4),Air Fret,Civil / Other,Nigeria,Other,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23822,NULL,NULL,NULL,Unknown,BN-2A-21 Islander,Unknown,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23826,NULL,NULL,NULL,Unknown,BN-2A-8 Islander,Aviazur,Civil / Other,New Caledonia,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+386,NULL,1970,1970,3) 1970-1999,BN-2A Islander,Guyane Air Transport,Civil / Other,Guyana,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+431,NULL,1959,1950,2) 1946-1969,Bristol 170 Freighter 21P,Pakistan AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+401,NULL,1951,1950,2) 1946-1969,DH.86B Express,Gulf Aviation,Civil / Other,Bahrain,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+354,NULL,1940,1940,1) Up to 1945,DH.86A Express,Railway,Civil / Other,France,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+355,NULL,1940,1940,1) Up to 1945,DH.86B Express,Railway,Civil / Other,France,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+236,NULL,1945,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Germany,Criminal occurrence,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+61,NULL,1949,1940,2) 1946-1969,Lisunov Li-2P,Maszovlet,Civil / Other,Germany,Hijacking,Repairable damage,0,NULL,0,0,NULL,NULL,NULL,NULL
+180,NULL,1990,1990,3) 1970-1999,DHC-6 Twin Otter 300,Zimex Aviation,Civil / Other,Angola,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+97,NULL,1969,1960,2) 1946-1969,Douglas C-54D (DC-4),Ecuatoriana,Civil / Other,Ecuador,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+120,NULL,1975,1970,3) 1970-1999,Dornier Do 28D-1 Skyservant,Unknown,Civil / Other,Ecuador,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+303,NULL,1974,1970,3) 1970-1999,Nord 2501D Noratlas,ATESA,Civil / Other,Ecuador,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+168,NULL,1986,1980,3) 1970-1999,Dornier Do 128-2 Skyservant,Servicio AÃ©reo Misional - SAM,Civil / Other,Ecuador,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+58,NULL,1948,1940,2) 1946-1969,Ford 4-AT Tri-Motor,Shell Ecuador,Civil / Other,Ecuador,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+336,NULL,2006,2000,4) 2000+,BAe 3102 Jetstream 31,Caribintair,Civil / Other,Haiti,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+435,NULL,1986,1980,3) 1970-1999,Douglas DC-6A,Carga AÃ©rea Dominicana,Civil / Other,Bahamas,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+474,NULL,1956,1950,2) 1946-1969,Curtiss C-46A,Dominicana,Civil / Other,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+172,NULL,1988,1980,3) 1970-1999,Lockheed L-749A Constellation,Aerochago Airlines,Civil / Other,Dominican Rep.,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+374,NULL,1990,1990,3) 1970-1999,Lockheed C-121J Super Constellation,Aerochago Airlines,Civil / Other,Dominican Rep.,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+199,NULL,1997,1990,3) 1970-1999,BN-2A-21 Islander,Air Taxi,Civil / Other,Dominican Rep.,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23832,NULL,NULL,NULL,Unknown,Douglas C-47A (DC-3),Unknown,Civil / Other,Bahamas,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+287,NULL,1989,1980,3) 1970-1999,Grumman G-159 Gulfstream I,Helitaxi Colombia,Civil / Other,Panama,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+320,NULL,1994,1990,3) 1970-1999,Douglas DC-6BF,Aerosol,Civil / Other,Colombia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+92,NULL,1968,1960,2) 1946-1969,Curtiss C-46D,Aeropesca Colombia,Civil / Other,Colombia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+387,NULL,1970,1970,3) 1970-1999,Curtiss C-46A,Aeropesca Colombia,Civil / Other,Colombia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+286,NULL,1989,1980,3) 1970-1999,BN-2A-7 Islander,Aerolineas Nacionales,Civil / Other,Panama,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+161,NULL,1984,1980,3) 1970-1999,Douglas DC-6A/B,Unknown,Civil / Other,Bahamas,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+283,NULL,1989,1980,3) 1970-1999,BN-2A-27 Islander,IstmeÃ±a de AviaciÃ³n,Civil / Other,Panama,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+448,NULL,1971,1970,3) 1970-1999,BN-2A-7 Islander,Aviones de Panama,Civil / Other,Panama,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23816,NULL,NULL,NULL,Unknown,BN-2A Islander,Unknown,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+284,NULL,1989,1980,3) 1970-1999,BN-2A-6 Islander,Aerolineas Colon,Civil / Other,Panama,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+282,NULL,1989,1980,3) 1970-1999,BN-2A Islander,Turismo AÃ©reo,Civil / Other,Panama,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+285,NULL,1989,1980,3) 1970-1999,BN-2A-6 Islander,Turismo AÃ©reo,Civil / Other,Panama,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+331,NULL,1986,1980,3) 1970-1999,Douglas DC-6BF,Unknown,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23846,NULL,NULL,NULL,Unknown,Let L-410UVP,Atlantic Airlines,Civil / Other,Honduras,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+190,NULL,1993,1990,3) 1970-1999,Beech 99,IsleÃ±a Airlines,Civil / Other,Honduras,Unknown,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+96,NULL,1969,1960,2) 1946-1969,Douglas C-47B (DC-3),Saudi Arabian,Civil / Other,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+308,NULL,1986,1980,3) 1970-1999,Learjet 25D,Spei Leasing,Civil / Other,France,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+269,NULL,1940,1940,1) Up to 1945,Fiat G.18,Nucleo Comunicazioni Avio Linee,Civil / Other,Italy,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23852,NULL,NULL,NULL,Unknown,Yakovlev Yak-40EC,Weasua Air Transport,Civil / Other,Liberia,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+429,NULL,1949,1940,2) 1946-1969,Savoia-Marchetti SM-95C,LATI,Civil / Other,Morocco,Accident,Repairable damage,0,NULL,0,0,NULL,NULL,NULL,NULL
+383,NULL,1939,1930,1) Up to 1945,Lockheed 14-WG3B Super Electra,Imperial Japanese Airways,Civil / Other,Japan,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+253,NULL,1943,1940,1) Up to 1945,Douglas DC-3 (Nakajima L2D),Imperial Japanese Airways,Civil / Other,Indonesia,Criminal occurrence,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+255,NULL,1944,1940,1) Up to 1945,Douglas DC-3 (Nakajima L2D),Imperial Japanese Airways,Civil / Other,Malaysia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+440,NULL,1942,1940,1) Up to 1945,Douglas DC-3 (Nakajima L2D),Imperial Japanese Airways,Civil / Other,Philippines,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+384,NULL,1942,1940,1) Up to 1945,Douglas DC-3 (Nakajima L2D),Imperial Japanese Airways,Civil / Other,Taiwan,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+325,NULL,1944,1940,1) Up to 1945,Douglas DC-3 (Nakajima L2D),Imperial Japanese Airways,Civil / Other,Taiwan,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+274,NULL,1944,1940,1) Up to 1945,Douglas DC-3 (Nakajima L2D),Imperial Japanese Airways,Civil / Other,Taiwan,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+235,NULL,1945,1940,1) Up to 1945,Douglas DC-3 (Nakajima L2D),"Dai Nippon Koku KK (Greater Japan Airways), op.for Japan Navy",Military,Japan,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+409,NULL,1987,1980,3) 1970-1999,BAe BAe-748-314 Srs. 2A LFD,Tanzanian AF,Military,Tanzania,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23812,NULL,NULL,NULL,Unknown,Antonov An-32,Indian AF,Military,India,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+217,NULL,2002,2000,4) 2000+,Antonov An-32,Indian AF,Military,India,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+475,NULL,1961,1960,2) 1946-1969,Douglas C-47B (DC-3),UN,Civil / Other,D.R. Congo,Criminal occurrence,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+50,NULL,1945,1940,1) Up to 1945,Douglas Dakota III (DC-3),RAF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+42,NULL,1944,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Finland,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+295,NULL,1945,1940,1) Up to 1945,Douglas Dakota IV (DC-3),RAF,Military,Myanmar,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+77,NULL,1964,1960,2) 1946-1969,Douglas Dakota III (DC-3),RAF,Military,U.K.,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+382,NULL,1939,1930,1) Up to 1945,Ford 5-AT-B Tri-Motor,TACA Guatemala,Civil / Other,Honduras,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+104,NULL,1971,1970,3) 1970-1999,Curtiss C-46D,AerovÃ­as HalcÃ³n,Civil / Other,Argentina,Other,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+221,NULL,2006,2000,4) 2000+,Antonov An-2R,Bask Air,Civil / Other,Niger,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+222,NULL,2006,2000,4) 2000+,Antonov An-2R,Bask Air,Civil / Other,Niger,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+278,NULL,1976,1970,3) 1970-1999,Ilyushin Il-18V,Balkan Bulgarian,Civil / Other,Uzbekistan,Other,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23851,NULL,NULL,NULL,Unknown,Super Avia 14,Balkan Bulgarian,Civil / Other,Bulgaria,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23814,NULL,NULL,NULL,Unknown,Avia 14,Balkan Bulgarian,Civil / Other,Bulgaria,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23817,NULL,NULL,NULL,Unknown,BN-2A Islander,Somalian Aeronautical Corps,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+178,NULL,1990,1990,3) 1970-1999,CASA C-212 Aviocar 200,Mexican Navy,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+146,NULL,1980,1980,3) 1970-1999,Douglas C-47 (DC-3),Unknown,Civil / Other,Colombia,Accident,Hull loss,2,NULL,2,0,NULL,NULL,NULL,NULL
+144,NULL,1980,1980,3) 1970-1999,Convair CV-440-38,Farm-Kem Inc,Civil / Other,Colombia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+69,NULL,1958,1950,2) 1946-1969,Grumman G-73 Mallard,Unknown,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+277,NULL,1969,1960,2) 1946-1969,Curtiss C-46D,Albany Industrial,Civil / Other,Atlantic Ocean,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+344,NULL,1978,1970,3) 1970-1999,Douglas DC-6BF,Rosenbalm Aviation,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+154,NULL,1982,1980,3) 1970-1999,Douglas C-54Q (DC-4),Florida Aircraft Leasing,Civil / Other,Bahamas,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+391,NULL,1982,1980,3) 1970-1999,Douglas C-117D (DC-3),Foreman Flying Service,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+151,NULL,1981,1980,3) 1970-1999,Douglas DC-4,Southern Aero Trades Inc,Civil / Other,Colombia,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+89,NULL,1967,1960,2) 1946-1969,Chase YC-122C Avitruc,W.S. Cheek Mining Co.,Civil / Other,Guyana,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+476,NULL,1970,1970,3) 1970-1999,Douglas C-49K (DC-3),Air Carrier,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+122,NULL,1975,1970,3) 1970-1999,Lockheed P-2H Neptune,Black Hills Aviation,Civil / Other,USA,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+321,NULL,1997,1990,3) 1970-1999,IAI 1123 Westwind,East Coast Jet Center,Civil / Other,Venezuela,Unknown,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+262,NULL,1983,1980,3) 1970-1999,Douglas DC-3A,Reo Leasing,Civil / Other,Mexico,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+114,NULL,1974,1970,3) 1970-1999,Convair CV-340-49,Tri-9 Corp.,Civil / Other,Cambodia,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+345,NULL,1979,1970,3) 1970-1999,Douglas DC-6BF,New World Air Charter,Civil / Other,Cyprus,Unknown,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+166,NULL,1985,1980,3) 1970-1999,IAI 1124 Westwind I,private,Private,Mexico,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+469,NULL,2015,2010,4) 2000+,Hawker Siddeley HS-125-600A,private,Private,Venezuela,Criminal occurrence,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+224,NULL,2007,2000,4) 2000+,Rockwell Sabreliner 60,Flight Research,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+149,NULL,1981,1980,3) 1970-1999,Douglas C-118A (DC-6),GAF Int. Service,Civil / Other,Bahamas,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+449,NULL,1971,1970,3) 1970-1999,Grumman G-73 Mallard,private,Private,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+142,NULL,1979,1970,3) 1970-1999,Douglas DC-7CF,private,Private,Colombia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+233,NULL,2018,2010,4) 2000+,Rockwell Sabreliner 80,private,Private,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+297,NULL,1958,1950,2) 1946-1969,Douglas DC-4,California Eastern,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+155,NULL,1983,1980,3) 1970-1999,Douglas DC-3-382,Swift Delivery Air Freight,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+183,NULL,1991,1990,3) 1970-1999,Dassault Falcon 20C,Franks Petroleum,Civil / Other,NULL,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+414,NULL,1995,1990,3) 1970-1999,BN-2A-8 Islander,Perna Aviation,Civil / Other,Suriname,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+105,NULL,1971,1970,3) 1970-1999,Lockheed L-1049H Super Constellation,Unum,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+481,NULL,1986,1980,3) 1970-1999,BN-2A-21 Islander,Gorda Aero Service,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+322,NULL,2000,2000,4) 2000+,CASA C-212 Aviocar 200,Sandair,Civil / Other,NULL,Unknown,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+112,NULL,1973,1970,3) 1970-1999,Douglas C-47B (DC-3),Ray Geophysical,Civil / Other,Mali,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23823,NULL,NULL,NULL,Unknown,BN-2A-21 Islander,St. Lucia Airways,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+175,NULL,1989,1980,3) 1970-1999,CASA C-212 Aviocar 200,U.S. DEA,Civil / Other,Peru,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+247,NULL,1980,1980,3) 1970-1999,Swearingen SA226-AT Metro III,Fairchild,Civil / Other,USA,Accident,Repairable damage,0,NULL,0,0,NULL,NULL,NULL,NULL
+453,NULL,1986,1980,3) 1970-1999,Convair CV-880,FAA,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+171,NULL,1987,1980,3) 1970-1999,Douglas DC-3C,Private,Private,Libya,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+478,NULL,1981,1980,3) 1970-1999,Douglas DC-6,Unknown,Civil / Other,Colombia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+232,NULL,2016,2010,4) 2000+,Cessna 500 Citation I,Chippewa Aerospace,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23818,NULL,NULL,NULL,Unknown,BN-2A Islander,MD Air Services,Civil / Other,Bahamas,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+455,NULL,1994,1990,3) 1970-1999,T-39A Sabreliner,Private,Private,Sudan,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+479,NULL,1985,1980,3) 1970-1999,Grumman G-159 Gulfstream I,private,Private,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+133,NULL,1977,1970,3) 1970-1999,Douglas DC-7CF,Consolidated Air,Civil / Other,USA,Unknown,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+447,NULL,1961,1960,2) 1946-1969,Lockheed PV-2D Harpoon,Bird & Sons,Civil / Other,Laos,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+147,NULL,1980,1980,3) 1970-1999,Douglas DC-7CF,Aero Services Corp.,Civil / Other,Colombia,Criminal occurrence,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+281,NULL,1988,1980,3) 1970-1999,BN-2A-26 Islander,Trans Island Airways,Civil / Other,Bahamas,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+239,NULL,1975,1970,3) 1970-1999,Douglas DC-3C,Cambodian Air Service,Civil / Other,Cambodia,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+470,NULL,2016,2010,4) 2000+,Cessna 500 Citation I,Advanced Power Aviation,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+330,NULL,1985,1980,3) 1970-1999,Douglas DC-4,BIF Air Inc,Civil / Other,Turks & Caicos,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+260,NULL,1967,1960,2) 1946-1969,Boeing 377 Stratocruiser,Aero Spacelines,Civil / Other,USA,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+103,NULL,1970,1970,3) 1970-1999,Douglas DC-4,Mideastern Airways,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+346,NULL,1983,1980,3) 1970-1999,Douglas DC-3C,Confederate Air Force,Military,USA,Other,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+246,NULL,1980,1980,3) 1970-1999,Convair CV-440,private,Private,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23827,NULL,NULL,NULL,Unknown,BN-2A-8 Islander,Harbor Airlines,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+327,NULL,1954,1950,2) 1946-1969,Ford 5-AT-B Tri-Motor,Private,Private,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+464,NULL,2001,2000,4) 2000+,Saab 340A,Chautauqua Airlines,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+17,NULL,1942,1940,1) Up to 1945,Douglas DC-2-115E,German AF,Military,Russia,Criminal occurrence,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+392,NULL,2000,2000,4) 2000+,Lockheed C-130H Hercules,Nigerian AF,Military,Nigeria,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+54,NULL,1947,1940,2) 1946-1969,Douglas C-47A (DC-3),Reeve Aleutian Airways,Civil / Other,USA,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+57,NULL,1948,1940,2) 1946-1969,Douglas C-54A (DC-4),Trans Caribbean Airways,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+3,NULL,1934,1930,1) Up to 1945,Ford 4-AT-B Tri-Motor,Private,Private,Mexico,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+4,NULL,1936,1930,1) Up to 1945,Curtiss AT-32C Condor II,CÃ³ndor Peruana de AviaciÃ³n,Civil / Other,Peru,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+121,NULL,1975,1970,3) 1970-1999,Let L-410A,Let,Civil / Other,NULL,Other,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+342,NULL,1971,1970,3) 1970-1999,Douglas DC-3C,BIAS,Civil / Other,Libya,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+229,NULL,2013,2010,4) 2000+,Raytheon Hawker 800XP,Sun-Air,Civil / Other,Denmark,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+311,NULL,1990,1990,3) 1970-1999,BN-2A-27 Islander,Bougair,Civil / Other,P.N. Guinea,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+280,NULL,1987,1980,3) 1970-1999,BN-2A-20 Islander,Co-Air,Civil / Other,P.N. Guinea,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+412,NULL,1990,1990,3) 1970-1999,BN-2A-26 Islander,Talair,Civil / Other,P.N. Guinea,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+237,NULL,1945,1940,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Germany,Criminal occurrence,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+270,NULL,1941,1940,1) Up to 1945,Douglas DC-2-115G,KNILM,Civil / Other,Indonesia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+109,NULL,1972,1970,3) 1970-1999,Scottish Aviation Twin Pioneer 3,Merpati Nusantara,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+434,NULL,1982,1980,3) 1970-1999,Douglas DC-3C,Airfast Indonesia,Civil / Other,Indonesia,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+93,NULL,1968,1960,2) 1946-1969,Curtiss TC-46A,VASP,Civil / Other,Brazil,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+169,NULL,1987,1980,3) 1970-1999,BN-2A-8 Islander,VOTEC,Civil / Other,Brazil,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+290,NULL,1996,1990,3) 1970-1999,BN-2A-9 Islander,Geomag,Civil / Other,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+485,NULL,2004,2000,4) 2000+,Antonov An-2T,Krasnoyarski ASK,Civil / Other,Russia,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+379,NULL,2022,2020,4) 2000+,Antonov An-2R,Voskhod LLC,Civil / Other,Russia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+487,NULL,2012,2010,4) 2000+,Antonov An-2R,SHP Dmitrievsky,Civil / Other,Russia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+227,NULL,2011,2010,4) 2000+,Antonov An-24RV,Katekavia,Civil / Other,Russia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23803,NULL,NULL,NULL,Unknown,Antonov An-26,Aeroflot,Civil / Other,Russia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23804,NULL,NULL,NULL,Unknown,Antonov An-26,Russian AF,Military,Russia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23800,NULL,NULL,NULL,Unknown,Antonov An-24B,Russian AF,Military,Russia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+206,NULL,1998,1990,3) 1970-1999,Antonov An-32B,"Trans Charter, op.for Filair",Civil / Other,D.R. Congo,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+375,NULL,1999,1990,3) 1970-1999,Tupolev Tu-154M,Unknown,Civil / Other,China,Accident,Repairable damage,0,NULL,0,0,NULL,NULL,NULL,NULL
+209,NULL,1998,1990,3) 1970-1999,Ilyushin Il-86,Aeroflot,Civil / Other,Russia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+196,NULL,1996,1990,3) 1970-1999,Yakovlev Yak-40,Weasua Air Transport,Civil / Other,Liberia,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+213,NULL,2000,2000,4) 2000+,Yakovlev Yak-40,"NovgorodAvia, op.for Ecuato Guineana de Aviacion",Civil / Other,Eq. Guinea,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+197,NULL,1996,1990,3) 1970-1999,Yakovlev Yak-40K,Weasua Air Transport,Civil / Other,Liberia,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+153,NULL,1982,1980,3) 1970-1999,Douglas C-47B (DC-3),Bangko Sentral Ng Pilipinas,Civil / Other,Philippines,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+465,NULL,2006,2000,4) 2000+,Hawker Siddeley HS-748,"Best Air, op.for Astral Aviation",Civil / Other,South Sudan,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+72,NULL,1961,1960,2) 1946-1969,Bristol 170 Freighter 31M,Pakistan AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+432,NULL,1959,1950,2) 1946-1969,Bristol 170 Freighter 31M,Pakistan AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+223,NULL,2007,2000,4) 2000+,Antonov An-12BP,Unknown,Civil / Other,D.R. Congo,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+265,NULL,2007,2000,4) 2000+,Antonov An-12BK,Styron Trading,Civil / Other,Somalia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23831,NULL,NULL,NULL,Unknown,BN-2B-21 Islander,Surinam Air Force,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+117,NULL,1975,1970,3) 1970-1999,Antonov An-2R,WSK Mielec,Civil / Other,Poland,Other,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+394,NULL,2006,2000,4) 2000+,Antonov An-2T,Aeroklub RP,Civil / Other,Poland,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+356,NULL,1940,1940,1) Up to 1945,Lockheed 14-H2 Super Electra,LOT,Civil / Other,France,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+471,NULL,1940,1940,1) Up to 1945,Lockheed 14-H2 Super Electra,Soviet AF,Military,Latvia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+94,NULL,1969,1960,2) 1946-1969,Antonov An-2R,APRL,Civil / Other,Poland,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+139,NULL,1979,1970,3) 1970-1999,Antonov An-2P,Zakladu Urz. Chem.,Civil / Other,NULL,Other,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+430,NULL,1951,1950,2) 1946-1969,Lisunov Li-2T,LOT,Civil / Other,Poland,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+79,NULL,1964,1960,2) 1946-1969,Lisunov Li-2P,LOT,Civil / Other,Poland,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+130,NULL,1977,1970,3) 1970-1999,Antonov An-2R,WSK Okecie,Civil / Other,Poland,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+125,NULL,1976,1970,3) 1970-1999,Antonov An-2R,WSK Okecie,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+131,NULL,1977,1970,3) 1970-1999,Antonov An-2R,ZUA,Civil / Other,NULL,Other,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+126,NULL,1976,1970,3) 1970-1999,Antonov An-2R,ZUA,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+363,NULL,1965,1960,2) 1946-1969,Douglas DC-3,UAA,Civil / Other,Egypt,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+419,NULL,2013,2010,4) 2000+,Lockheed C-130H Hercules,Spanish AF,Military,Spain,Unknown,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+302,NULL,1972,1970,3) 1970-1999,Douglas C-47A (DC-3),Spanish AF,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+477,NULL,1976,1970,3) 1970-1999,Douglas C-53-DO (DC-3),Spanish AF,Military,Spain,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23792,NULL,NULL,NULL,Unknown,Antonov An-12B,Indonesian AF,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23793,NULL,NULL,NULL,Unknown,Antonov An-12B,Indonesian AF,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23794,NULL,NULL,NULL,Unknown,Antonov An-12B,Indonesian AF,Military,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+78,NULL,1964,1960,2) 1946-1969,Douglas DC-3A-269B,TAM Paraguay,Civil / Other,Paraguay,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+256,NULL,1953,1950,2) 1946-1969,Bristol 170 Freighter IA,Argentine AF,Military,NULL,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+186,NULL,1992,1990,3) 1970-1999,DHC-6 Twin Otter 200,LADE,Civil / Other,Argentina,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+388,NULL,1971,1970,3) 1970-1999,Douglas DC-6,Aviateca,Civil / Other,Guatemala,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+195,NULL,1996,1990,3) 1970-1999,Dornier Do 28D-2 Skyservant,private,Private,Guatemala,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+370,NULL,1981,1980,3) 1970-1999,BN-2A-8 Islander,AÃ©ro-Service,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+450,NULL,1974,1970,3) 1970-1999,BN-2 Islander,Air Inter Gabon,Civil / Other,Gabon,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+367,NULL,1973,1970,3) 1970-1999,BN-2A Islander,Air Gabon,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+365,NULL,1971,1970,3) 1970-1999,Dornier Do 28D-1 Skyservant,Societe Air Service,Civil / Other,Gabon,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+369,NULL,1975,1970,3) 1970-1999,Grumman G-73 Mallard,Gabon Government,Civil / Other,Gabon,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+372,NULL,1985,1980,3) 1970-1999,BN-2A Islander,Rougier Gabon,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+408,NULL,1985,1980,3) 1970-1999,BN-2A-9 Islander,Air Mali,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+454,NULL,1987,1980,3) 1970-1999,BN-2A-26 Islander,Live Air,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23828,NULL,NULL,NULL,Unknown,BN-2A-8 Islander,Unknown,Civil / Other,NULL,Unknown,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+266,NULL,2009,2000,4) 2000+,Antonov An-24RV,Uzbekistan Airways,Civil / Other,Uzbekistan,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+332,NULL,1995,1990,3) 1970-1999,Ilyushin Il-22M15,Kazakhstan Government,Civil / Other,Kazakhstan,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+225,NULL,2008,2000,4) 2000+,Antonov An-12B,East Wing,Civil / Other,Chad,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+230,NULL,2014,2010,4) 2000+,Antonov An-2R,Ukraerorukh,Civil / Other,Ukraine,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+267,NULL,2014,2010,4) 2000+,Antonov An-2R,Lugansk Airlines,Civil / Other,Ukraine,Criminal occurrence,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+211,NULL,1998,1990,3) 1970-1999,Yakovlev Yak-40K,United Energy Systems,Civil / Other,Italy,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+350,NULL,1994,1990,3) 1970-1999,Douglas DC-6A,West Air Aviation,Civil / Other,Namibia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+324,NULL,1944,1940,1) Up to 1945,Douglas DC-2-211,German AF,Military,Poland,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+182,NULL,1991,1990,3) 1970-1999,Beech 200 Super King Air,Norfolk Island Airlines,Civil / Other,Australia,Unknown,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+378,NULL,2006,2000,4) 2000+,Fairchild SA227-DC Metro 23,Sunshine Express Airlines,Civil / Other,Australia,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+334,NULL,2001,2000,4) 2000+,Shorts SC.7 Skyvan 3M-400,Pull Out Skydiving,Civil / Other,Italy,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+335,NULL,2001,2000,4) 2000+,Shorts SC.7 Skyvan 3M-400,Pull Out Skydiving,Civil / Other,Italy,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+433,NULL,1967,1960,2) 1946-1969,DH-114 Heron 1B,Air Trans Africa,Civil / Other,Nigeria,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+480,NULL,1986,1980,3) 1970-1999,BN-2A Trislander Mk.III-2,Turks & Caicos National Airline,Civil / Other,Haiti,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+362,NULL,1947,1940,2) 1946-1969,Douglas C-47 (DC-3),Mistri Airways,Civil / Other,India,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+62,NULL,1953,1950,2) 1946-1969,Douglas C-47A (DC-3),Jupiter Airways,Civil / Other,India,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+70,NULL,1958,1950,2) 1946-1969,Vickers 663 Viscount,UK Ministry of Supply,Civil / Other,U.K.,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23829,NULL,NULL,NULL,Unknown,BN-2A-8 Islander,Aviacsa,Civil / Other,Mexico,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+231,NULL,2014,2010,4) 2000+,Learjet 60XR,Unknown,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+407,NULL,1984,1980,3) 1970-1999,BN-2A Trislander Mk.III-2,Aero Cozumel,Civil / Other,Mexico,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+170,NULL,1987,1980,3) 1970-1999,BN-2B-26 Islander,Aero Taxco,Civil / Other,Mexico,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+437,NULL,1989,1980,3) 1970-1999,Convair CV-440-38,Correos de MÃ©xico,Civil / Other,Mexico,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+203,NULL,1997,1990,3) 1970-1999,Hawker Siddeley HS-125-600A,Servicios AÃ©reos del Sol,Civil / Other,Mexico,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+215,NULL,2001,2000,4) 2000+,Fairchild SA227-AC Metro III,Westair de MÃ©xico,Civil / Other,Mexico,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+226,NULL,2010,2010,4) 2000+,Rockwell Sabreliner 75A,First Sabre S.A.,Civil / Other,Bahamas,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+410,NULL,1988,1980,3) 1970-1999,Grumman G-159 Gulfstream I,Celanese Mexicana,Civil / Other,Mexico,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+82,NULL,1964,1960,2) 1946-1969,Vickers 626 Viking C Mk. 2,private,Private,Mexico,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+193,NULL,1994,1990,3) 1970-1999,Rockwell Sabreliner 60,Unknown,Civil / Other,Mexico,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23834,NULL,NULL,NULL,Unknown,Fairchild C-82A Packet,SAHSA,Civil / Other,Honduras,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+399,NULL,1945,1940,1) Up to 1945,Douglas C-53-DO (DC-3),CNAC,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+118,NULL,1975,1970,3) 1970-1999,BN-2A-6 Islander,Khmer Airlines,Civil / Other,Cambodia,Criminal occurrence,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+73,NULL,1962,1960,2) 1946-1969,Douglas C-54B (DC-4),Air Vietnam,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+389,NULL,1975,1970,3) 1970-1999,Vickers 806 Viscount,Royal Air Lao,Civil / Other,Cambodia,Accident,Hull loss,4,NULL,4,0,NULL,NULL,NULL,NULL
+74,NULL,1963,1960,2) 1946-1969,Douglas C-47 (DC-3),Ariana Afghan Airlines,Civil / Other,Afghanistan,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+457,NULL,2001,2000,4) 2000+,Antonov An-12B,Ariana Afghan Airlines,Civil / Other,Afghanistan,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+458,NULL,2001,2000,4) 2000+,Antonov An-12BK,Ariana Afghan Airlines,Civil / Other,Afghanistan,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+461,NULL,2001,2000,4) 2000+,Antonov An-24V,Ariana Afghan Airlines,Civil / Other,Afghanistan,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+459,NULL,2001,2000,4) 2000+,Antonov An-24B,Ariana Afghan Airlines,Civil / Other,Afghanistan,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+460,NULL,2001,2000,4) 2000+,Antonov An-24RV,Ariana Afghan Airlines,Civil / Other,Afghanistan,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+462,NULL,2001,2000,4) 2000+,Boeing 727-113C,Ariana Afghan Airlines,Civil / Other,Afghanistan,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+463,NULL,2001,2000,4) 2000+,Boeing 727-155C,Ariana Afghan Airlines,Civil / Other,Afghanistan,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+317,NULL,1991,1990,3) 1970-1999,Tupolev Tu-124V,Iraqi Airways,Civil / Other,Iraq,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+318,NULL,1991,1990,3) 1970-1999,Tupolev Tu-124V,Iraqi Airways,Civil / Other,Iraq,Criminal occurrence,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+312,NULL,1991,1990,3) 1970-1999,BAe-125-700B,Iraqi Government,Civil / Other,Iraq,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+315,NULL,1991,1990,3) 1970-1999,Gulfstream Aerospace G-1159A Gulfstream III,Iraqi Government,Civil / Other,Iraq,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+316,NULL,1991,1990,3) 1970-1999,Gulfstream Aerospace G-1159A Gulfstream III,Iraqi Government,Civil / Other,Iraq,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+254,NULL,1944,1940,1) Up to 1945,Douglas DC-2-115F,LARES,Civil / Other,Romania,Criminal occurrence,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+45,NULL,1944,1940,1) Up to 1945,Potez 62,LARES,Civil / Other,Romania,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+405,NULL,1971,1970,3) 1970-1999,Convair CV-440-0,JAT,Civil / Other,Montenegro,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+87,NULL,1966,1960,2) 1946-1969,Antonov An-2R,JAT Agricultural Aviation,Civil / Other,Serbia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23806,NULL,NULL,NULL,Unknown,Antonov An-2R,Privredna Avijacija Osijek,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+304,NULL,1975,1970,3) 1970-1999,Antonov An-2R,Privredna Avijacija Osijek,Civil / Other,Serbia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+204,NULL,1998,1990,3) 1970-1999,Antonov An-2R,Aeroklub Zrenjanin,Civil / Other,Serbia,Other,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+205,NULL,1998,1990,3) 1970-1999,Antonov An-2R,Aeroklub Zrenjanin,Civil / Other,Serbia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+436,NULL,1987,1980,3) 1970-1999,Antonov An-2R,Privredna Avijacija Osijek,Civil / Other,Croatia,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+373,NULL,1988,1980,3) 1970-1999,Grumman G-159 Gulfstream I,Maraven Oil Company,Civil / Other,Venezuela,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23830,NULL,NULL,NULL,Unknown,BN-2A-8 Islander,Aero Servicios Caicara,Civil / Other,NULL,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+234,NULL,1939,1930,1) Up to 1945,Fokker F.VIII,Venezuelan Government,Civil / Other,Venezuela,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+111,NULL,1973,1970,3) 1970-1999,Douglas C-47A (DC-3),LAV,Civil / Other,Venezuela,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+443,NULL,1947,1940,2) 1946-1969,PBV-1A Canso (PBY-5A),T.A. Transandino,Civil / Other,Venezuela,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+291,NULL,2001,2000,4) 2000+,Douglas C-53-DO (DC-3),Congo Communications,Civil / Other,D.R. Congo,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+219,NULL,2004,2000,4) 2000+,Fairchild SA227-AC Metro III,Ryan Blake Air Charter,Civil / Other,South Africa,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23819,NULL,NULL,NULL,Unknown,BN-2A-20 Islander,Bush Pilots,Civil / Other,Zimbabwe,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+348,NULL,1984,1980,3) 1970-1999,Vickers 756D Viscount,Air Zimbabwe,Civil / Other,Zimbabwe,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+1246,1919-08-02,1919,1910,1) Up to 1945,Caproni Ca.48,Caproni,Civil / Other,Italy,Accident,Hull loss,14,NULL,14,0,NULL,NULL,NULL,NULL
+8094,1919-08-11,1919,1910,1) Up to 1945,Felixstowe Fury,RAF,Military,U.K.,Accident,Hull loss,1,NULL,1,0,NULL,NULL,NULL,NULL
+17492,1920-02-23,1920,1920,1) Up to 1945,Handley Page O/7,Handley Page Transport,Civil / Other,South Africa,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+19084,1920-02-25,1920,1920,1) Up to 1945,Handley Page O/400,Handley Page Transport,Civil / Other,Sudan,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+22975,1920-06-30,1920,1920,1) Up to 1945,Handley Page O/400,Handley Page Transport,Civil / Other,Sweden,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+10496,1920-12-14,1920,1920,1) Up to 1945,Handley Page O/400,Handley Page Transport,Civil / Other,U.K.,Accident,Hull loss,4,NULL,4,1,London - Paris,8,The plane failed to gain altitude after taking off from Criclklewood and crashed into a tree and a house. Pilot error in taking off towards a hill in unfavorable wind conditions and fog.The first commercial air disaster to result in passenger fatalities during a regularly scheduled service..,Weather
+11379,1921-01-15,1921,1920,1) Up to 1945,Aeromarine 75,Aeromarine Airways,Civil / Other,Cuba,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+1638,1921-03-02,1921,1920,1) Up to 1945,Handley Page O/7,HP Indo-Burmese Transport,Civil / Other,India,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+3095,1921-03-04,1921,1920,1) Up to 1945,Caproni Ca.60 Noviplano,Caproni,Civil / Other,Italy,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+19707,1921-08-26,1921,1920,1) Up to 1945,Farman F.60 Goliath,SNETA,Civil / Other,France,Accident,Hull loss,2,NULL,2,0,NULL,NULL,NULL,NULL
+21132,1921-09-27,1921,1920,1) Up to 1945,Farman F.60 Goliath,SNETA,Civil / Other,Belgium,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+21133,1921-09-27,1921,1920,1) Up to 1945,Farman F.60 Goliath,SNETA,Civil / Other,Belgium,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+22783,1921-12-30,1921,1920,1) Up to 1945,Handley Page O/10,Handley Page Transport,Civil / Other,France,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+16752,1922-01-22,1922,1920,1) Up to 1945,Handley Page O/10,Handley Page Transport,Civil / Other,France,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23618,1922-03-31,1922,1920,1) Up to 1945,Handley Page O/7,Chinese Government,Civil / Other,China,Accident,Hull loss,14,NULL,14,0,NULL,NULL,NULL,NULL
+4921,1922-04-07,1922,1920,1) Up to 1945,Farman F.60 Goliath,Grands Express AÃ©riens,Civil / Other,France,Accident,Hull loss,5,NULL,5,0,NULL,NULL,NULL,NULL
+9830,1923-01-13,1923,1920,1) Up to 1945,Aeromarine 75,Aeromarine Airways,Civil / Other,Atlantic Ocean,Accident,Hull loss,4,NULL,4,0,NULL,NULL,NULL,NULL
+10878,1923-05-14,1923,1920,1) Up to 1945,Farman F.60 Goliath,Air Union,Civil / Other,France,Accident,Hull loss,6,NULL,6,1,Paris - London,6,"Broke-up in mid air after suffering structural failure at 3,000 ft. after a onboard fire weakened the plane's structure losing a wing. Possibly started by a passenger discarding a match after lighting a cigarette.",Mechanical / Technical
+19268,1923-06-25,1923,1920,1) Up to 1945,Farman F.60 Goliath,Air Union,Civil / Other,France,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+7499,1923-07-10,1923,1920,1) Up to 1945,Handley Page W.8,Handley Page Transport,Civil / Other,France,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+11460,1923-07-15,1923,1920,1) Up to 1945,Farman F.60 Goliath,Compagnie AÃ©rienne FranÃ§aise,Civil / Other,France,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+20443,1923-08-27,1923,1920,1) Up to 1945,Farman F.60 Goliath,Air Union,Civil / Other,U.K.,Accident,Hull loss,1,NULL,1,1,Paris - Berck-sur-Mer - Croydon,11,"The aircraft lost an engine about 45 minutes into the flight. As the plane was incapable of maintaining level flight with only one engine operating, the pilot decided to make an emergency landing. He asked the mechanic to ask two passengers to move towards the rear of the aircraft. This instruction was apparently misunderstood by the passengers, as four of them moved towards the rear of the aircraft. This affected the center of gravity of the aircraft, which then entered into a spin and crashed.",Mechanical / Technical
+2044,1923-12-03,1923,1920,1) Up to 1945,Farman F.60 Goliath,Air Union,Civil / Other,U.K.,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+16753,1924-01-22,1924,1920,1) Up to 1945,Farman F.60 Goliath,Air Union,Civil / Other,U.K.,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+4202,1924-08-06,1924,1920,1) Up to 1945,Farman F.60 Goliath,Air Union,Civil / Other,U.K.,Accident,Repairable damage,0,NULL,0,0,NULL,NULL,NULL,NULL
+18137,1924-08-24,1924,1920,1) Up to 1945,Farman F.61 Goliath,SGTA,Civil / Other,Netherlands,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+12558,1925-10-16,1925,1920,1) Up to 1945,Farman F.60 Goliath,Air Union,Civil / Other,U.K.,Accident,Hull loss,3,NULL,3,0,NULL,NULL,NULL,NULL
+10931,1925-11-14,1925,1920,1) Up to 1945,Farman F.60 Goliath,Air Union,Civil / Other,France,Accident,Repairable damage,0,NULL,0,1,NULL,2,?,Unclassified
+13542,1926-08-18,1926,1920,1) Up to 1945,BlÃ©riot 155,Air Union,Civil / Other,U.K.,Accident,Hull loss,4,NULL,4,1,"Lebourget, France - Croydon, England",15,The plane made a forced landing at Romney Marsh in heavy fog. Engine failure. The pilot initally survived but died a day later.,Weather
+1796,1926-10-02,1926,1920,1) Up to 1945,BlÃ©riot 155,Air Union,Civil / Other,U.K.,Accident,Hull loss,7,NULL,7,0,NULL,NULL,NULL,NULL
+16383,1926-10-21,1926,1920,1) Up to 1945,Handley Page W.10,Imperial Airways,Civil / Other,U.K.,Accident,Hull loss,0,NULL,0,1,Croydon - Paris,12,"The plane was on a flight from London to Paris when power was lost to the starboard engine. The aircraft began to lose altitude until it eventually ditched into the sea about 18 miles from the English coast. The plane stayed afloat long enough for the fishing boat Invicta, piloted by Captain Marshall, to rescue all aboard. The plane was named Prince Henry.",Mechanical / Technical
+15587,1926-11-20,1926,1920,1) Up to 1945,Junkers G.24,Deutsche Lufthansa,Civil / Other,Germany,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+3901,1927-05-05,1927,1920,1) Up to 1945,Farman F.61 Goliath,SGTA,Civil / Other,Atlantic Ocean,Accident,Hull loss,2,NULL,2,0,NULL,NULL,NULL,NULL
+16561,1927-08-22,1927,1920,1) Up to 1945,Fokker F.VIII,KLM,Civil / Other,U.K.,Accident,Hull loss,1,NULL,1,0,NULL,NULL,NULL,NULL
+11307,1928-02-15,1928,1920,1) Up to 1945,Handley Page W.8b,Imperial Airways,Civil / Other,France,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+8467,1928-03-11,1928,1920,1) Up to 1945,Farman F.60 Goliath,Air Union,Civil / Other,U.K.,Accident,Hull loss,2,NULL,2,1,Paris - Croydon,2,Crashed into the sea while delivering mail in poor weather.,Weather
+8023,1928-04-11,1928,1920,1) Up to 1945,Fokker F.VIII,KLM,Civil / Other,Netherlands,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+14248,1928-04-19,1928,1920,1) Up to 1945,Junkers G.24,Deutsche Lufthansa,Civil / Other,Germany,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+9306,1928-05-12,1928,1920,1) Up to 1945,Ford 4-AT-A Tri-Motor,Ford Air Freight Lines,Civil / Other,USA,Accident,Hull loss,2,NULL,2,1,Dearborn - Buffalo,2,The cargo plane crashed on its inaugural flight. The pilot tried to become airborne without sufficient speed.,Unclassified
+17827,1928-05-23,1928,1920,1) Up to 1945,Farman F.63bis Goliath,SGTA,Civil / Other,Germany,Accident,Hull loss,3,NULL,3,0,NULL,NULL,NULL,NULL
+18967,1928-08-25,1928,1920,1) Up to 1945,Ford 4-AT-B Tri-Motor,British Columbia Airways,Civil / Other,USA,Accident,Hull loss,7,NULL,7,1,Victoria - Seattle,7,Crashed into Puget Sound in dense fog 12 miles off Port Townsend. Considered the first Canadian air disaster.,Weather
+19582,1928-09-25,1928,1920,1) Up to 1945,Junkers G.31de,Deutsche Lufthansa,Civil / Other,Germany,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+10221,1928-10-13,1928,1920,1) Up to 1945,Ford 4-AT-A Tri-Motor,Stout Air Services,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+17892,1928-11-23,1928,1920,1) Up to 1945,Ford 4-AT-B Tri-Motor,Spokane Airways,Civil / Other,USA,Accident,Hull loss,3,NULL,3,0,NULL,NULL,NULL,NULL
+597,1928-12-01,1928,1920,1) Up to 1945,Ford 4-AT-C Tri-Motor,Sunbeam Air Transport Co.,Civil / Other,USA,Accident,Hull loss,5,NULL,5,1,San Antonio - Amarillo - Tulsa - Denver,5,The aircraft crashed and burned while en route. Flames were seen aboard the plane before it crashed. The plane was on a delivery flight.,Unclassified
+8145,1928-12-11,1928,1920,1) Up to 1945,Junkers G.31fi,Deutsche Lufthansa,Civil / Other,Germany,Accident,Hull loss,3,NULL,3,1,Cologne - Berlin,4,"After a fuel line broke in flight, the pilot was forced to make an emergency landing in an open field. On landing, the aircraft crashed, overturned and came to rest in flames.",Mechanical / Technical
+16631,1928-12-22,1928,1920,1) Up to 1945,Ford 4-AT-A Tri-Motor,Texaco,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+12176,1929-01-16,1929,1920,1) Up to 1945,Ford 4-AT-A Tri-Motor,Stout Air Services,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+13132,1929-03-17,1929,1920,1) Up to 1945,Ford 4-AT-B Tri-Motor,Colonial Western Airlines,Civil / Other,USA,Accident,Hull loss,14,NULL,14,1,Sightseeing,15,The plane was making the last of a number of sightseeing flights when two of it's three engines failed. The plane stalled and went out of control at an altitude of 200 ft. and crashed into a railroad freight car. Engine failure followed by a stall during an emergency landing attempt.,Mechanical / Technical
+14682,1929-03-19,1929,1920,1) Up to 1945,Ford 5-AT-B Tri-Motor,Ford Motor Company,Civil / Other,USA,Accident,Hull loss,4,NULL,4,0,NULL,NULL,NULL,NULL
+8796,1929-04-12,1929,1920,1) Up to 1945,Dornier Do R4 Superwal,SANA,Civil / Other,Italy,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+15753,1929-04-21,1929,1920,1) Up to 1945,Ford 5-AT-B Tri-Motor,Maddux Airlines,Civil / Other,USA,Accident,Hull loss,5,1,6,0,NULL,NULL,NULL,NULL
+12436,1929-05-16,1929,1920,1) Up to 1945,Vickers 170 Vanguard,Vickers-Armstrongs,Civil / Other,U.K.,Accident,Hull loss,2,NULL,2,0,NULL,NULL,NULL,NULL
+14755,1929-05-19,1929,1920,1) Up to 1945,Farman F.63bis Goliath,Air Union,Civil / Other,U.K.,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+1577,1929-06-02,1929,1920,1) Up to 1945,Fokker F.10A,Western Air Express,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+9968,1929-06-13,1929,1920,1) Up to 1945,Fokker F.10A,Pan Am,Civil / Other,Cuba,Accident,Hull loss,2,NULL,2,1,Santiago de Cuba - Havana,5,"Crashed while taking off. The muddy field prevented the aircraft from gaining altitude. The plane hit telephone wires and crashed. The plane was named ""Christopher Columbus"".",Unclassified
+13073,1929-06-17,1929,1920,1) Up to 1945,Handley Page W.10,Imperial Airways,Civil / Other,U.K.,Accident,Hull loss,7,NULL,7,1,London - Paris - Basil - Zuric,13,"The plane was over the English Channel, approximately 3 miles offshore, when an engine failed. The pilot attempted to return to the airport but the plane ditched into the English Channel. Failure of a connecting rod on a cylinder due to fatigue.The plane was named ""City of Ottawa.""",Mechanical / Technical
+18475,1929-06-24,1929,1920,1) Up to 1945,Ford 5-AT-A Tri-Motor,Northwest Airways,Civil / Other,USA,Accident,Hull loss,1,NULL,1,1,St. Paul - Minneapolis,8,All three engines failed shortly after takeoff causing the plane to stall and crash near Indian Mounds park.,Mechanical / Technical
+22015,1929-08-29,1929,1920,1) Up to 1945,Junkers G.24li,AB Aerotransport,Civil / Other,Germany,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+2590,1929-09-03,1929,1920,1) Up to 1945,Ford 5-AT-B Tri-Motor,Transcontinental Air Transport - TAT,Civil / Other,USA,Accident,Hull loss,8,NULL,8,1,Albuquerque - Los Angeles,8,"Shortly after departing the aircraft crashed into a Mt Taylor after encountering a thunderstorm and turbulence. The plane was named ""The City of San Francisco.""",Weather
+4849,1929-09-06,1929,1920,1) Up to 1945,DH.66 Hercules,Imperial Airways,Civil / Other,Iran,Accident,Hull loss,3,NULL,3,1,"London, England - India",5,"At night, the aircraft crashed short of the runway in low visibility.",Weather
+7970,1929-09-10,1929,1920,1) Up to 1945,Rohrbach Ro X Romar I,Deutsche Lufthansa,Civil / Other,Germany,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+14878,1929-10-19,1929,1920,1) Up to 1945,Sabca (Handley Page) W.8B,Sabena,Civil / Other,Belgium,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+20257,1929-10-26,1929,1920,1) Up to 1945,Short S.8/1 Calcutta,Imperial Airways,Civil / Other,Italy,Accident,Hull loss,7,NULL,7,1,Naples - Genoa,7,"The aircraft ditched in the ocean after encountering gale force winds. Sank while in tow. The plane was named ""City of Rome.""",Unclassified
+4725,1929-11-06,1929,1920,1) Up to 1945,Junkers G.24bi,Deutsche Lufthansa,Civil / Other,U.K.,Accident,Hull loss,7,NULL,7,1,Croyden - Amsterdam - Berlin,8,"After the plane's antenna wire struck the ground and was partially torn off, the pilot attempted to return to land but hit tree tops and crashed in rain and fog.",Weather
+14029,1929-11-18,1929,1920,1) Up to 1945,Rohrbach Ro X Romar I,Deutsche Lufthansa,Civil / Other,Germany,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+21006,1929-11-27,1929,1920,1) Up to 1945,Fokker F.32,Fokker Aircraft Corp. of America,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+2790,1929-12-04,1929,1920,1) Up to 1945,Curtiss B-2 Condor (Condor 18),USAAC,Civil / Other,USA,Accident,Hull loss,1,NULL,1,0,NULL,NULL,NULL,NULL
+8917,1929-12-12,1929,1920,1) Up to 1945,Farman F.180T,SGTA,Civil / Other,France,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+19774,1929-12-26,1929,1920,1) Up to 1945,Fokker F.10,Western Air Express,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+14503,1930-01-19,1930,1930,1) Up to 1945,Ford 5-AT-C Tri-Motor,Maddux Airlines,Civil / Other,USA,Accident,Hull loss,16,NULL,16,1,"Aqua Caliente, Mexico - Los Angeles",16,"While en route to Los Angeles, the pilot, flying a low altitude due to poor weather conditions tried to turn back. While in a left turn his left wing struck a hill, crashed and burned. Adverse weather conditions. The plane flew into a sudden squall which cause the pilot to lose control.",Weather
+5136,1930-02-07,1930,1930,1) Up to 1945,Junkers R-42 (G.24),Chilean AF,Military,Chile,Accident,Hull loss,2,NULL,2,0,NULL,NULL,NULL,NULL
+5867,1930-02-08,1930,1930,1) Up to 1945,Ford 4-AT-A Tri-Motor,Private,Private,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+7379,1930-02-10,1930,1930,1) Up to 1945,Farman F.63bis Goliath,Air Union,Civil / Other,U.K.,Accident,Hull loss,2,NULL,2,1,Paris - Croydon,6,"While attempting to land in snow, the plane rose up, stalled and crashed. Fatigue of the upper front strut of the right tail which failed in flight, causing the spar to fail as well.",Weather
+10557,1930-02-14,1930,1930,1) Up to 1945,DH.66 Hercules,Imperial Airways,Civil / Other,Israel,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+17493,1930-02-23,1930,1930,1) Up to 1945,Fokker F.10A,Western Air Express,Civil / Other,USA,Accident,Hull loss,3,NULL,3,0,NULL,NULL,NULL,NULL
+1639,1930-03-02,1930,1930,1) Up to 1945,Ford 4-AT-A Tri-Motor,NYRBA,Civil / Other,Argentina,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+5685,1930-04-08,1930,1930,1) Up to 1945,Ford 5-AT-C Tri-Motor,Tri-Motor Safety Airways,Civil / Other,Argentina,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23683,1930-05-31,1930,1930,1) Up to 1945,Handley Page W.9a Hampstead,Ellyou Goldfields Development,Civil / Other,P.N. Guinea,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+3753,1930-06-05,1930,1930,1) Up to 1945,Ford 5-AT-B Tri-Motor,Colonial Air Transport,Civil / Other,USA,Accident,Hull loss,1,NULL,1,1,Boston - Newark,15,Crashed into Boston Harbor after losing the right engine on takeoff.,Mechanical / Technical
+19271,1930-06-25,1930,1930,1) Up to 1945,Fokker F.10A,Universal Airlines,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+19272,1930-06-25,1930,1930,1) Up to 1945,Fokker F.10A,Universal Airlines,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+19269,1930-06-25,1930,1930,1) Up to 1945,Fokker F.10,Northern Airlines,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+19275,1930-06-25,1930,1930,1) Up to 1945,Ford 5-AT-A Tri-Motor,Northwest Airways,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+19270,1930-06-25,1930,1930,1) Up to 1945,Fokker F.10,Shell Oil,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+19273,1930-06-25,1930,1930,1) Up to 1945,Fokker F.10A,Universal Airlines,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+19274,1930-06-25,1930,1930,1) Up to 1945,Fokker F.10A,Universal Airlines,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+6756,1930-07-09,1930,1930,1) Up to 1945,Farman F.63bis Goliath,SGTA,Civil / Other,Netherlands,Accident,Hull loss,1,NULL,1,0,NULL,NULL,NULL,NULL
+9112,1930-07-12,1930,1930,1) Up to 1945,Curtiss Condor 18,Curtiss,Civil / Other,USA,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+2720,1930-08-04,1930,1930,1) Up to 1945,Ford JR-3 (5-AT-C) Tri-Motor,USMC,Military,Nicaragua,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+16562,1930-08-22,1930,1930,1) Up to 1945,Ford 5-AT-C Tri-Motor,CSA,Civil / Other,Czech Rep.,Accident,Hull loss,12,NULL,12,1,Prague - Bratislava,11,Crashed when the pilot made a sharp turn to avoid a chimney and lost control of the aircraft.,Unclassified
+2591,1930-09-03,1930,1930,1) Up to 1945,Fokker F.10A,Pan Am,Civil / Other,Dominican Rep.,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23254,1930-10-30,1930,1930,1) Up to 1945,Handley Page W.8g,Imperial Airways,Civil / Other,France,Accident,Hull loss,3,NULL,3,1,"Paris, France - London, England",6,"Crashed into high ground in fog after losing an engine. The plane was named ""City of Washington.""",Terrain / Obstacle
+5497,1930-11-07,1930,1930,1) Up to 1945,Junkers G.24,Syndicato Condor,Civil / Other,Brazil,Accident,Hull loss,1,NULL,1,1,Porto Alegre - Laguna - Rio de Janeiro,9,Crashed into the sea.,Unclassified
+16321,1930-11-21,1930,1930,1) Up to 1945,Dornier Do R4 Superwal,SANA,Civil / Other,Mediterranean Sea,Accident,Hull loss,6,NULL,6,0,NULL,NULL,NULL,NULL
+16322,1930-11-21,1930,1930,1) Up to 1945,Ford 4-AT-B Tri-Motor,Curtiss-Wright Flying Service,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+17064,1930-11-22,1930,1930,1) Up to 1945,Fokker F.10A,Southern Air Fast Express,Civil / Other,USA,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+18715,1930-11-24,1930,1930,1) Up to 1945,Ford 5-AT-C Tri-Motor,Ford Motor Company,Civil / Other,USA,Accident,Hull loss,2,NULL,2,0,NULL,NULL,NULL,NULL
+15166,1930-12-20,1930,1930,1) Up to 1945,Ford 4-AT-E Tri-Motor,Pittsburgh Airways,Civil / Other,USA,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+16632,1930-12-22,1930,1930,1) Up to 1945,Fokker F.10,Western Air Express,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+20672,1931-01-27,1931,1930,1) Up to 1945,Ford 5-AT-B Tri-Motor,TWA,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+15953,1931-02-21,1931,1930,1) Up to 1945,Ford Tri-Motor,Panagra,Civil / Other,Peru,Hijacking,Repairable damage,0,NULL,0,0,NULL,NULL,NULL,NULL
+23619,1931-03-31,1931,1930,1) Up to 1945,Fokker F.10A,TWA,Civil / Other,USA,Accident,Hull loss,8,NULL,8,0,NULL,NULL,NULL,NULL
+488,1931-04-01,1931,1930,1) Up to 1945,Ford 5-AT-C Tri-Motor,Panagra,Civil / Other,Chile,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+12693,1931-04-17,1931,1930,1) Up to 1945,Ford 5-AT-C Tri-Motor,Private,Private,India,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+13474,1931-04-18,1931,1930,1) Up to 1945,Junkers F.24ko (G.24),Deutsche Lufthansa,Civil / Other,France,Accident,Repairable damage,0,NULL,0,0,NULL,NULL,NULL,NULL
+14249,1931-04-19,1931,1930,1) Up to 1945,DH.66 Hercules,Imperial Airways,Civil / Other,Indonesia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+16513,1931-04-22,1931,1930,1) Up to 1945,A.W. Argosy II,Imperial Airways,Civil / Other,U.K.,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+21958,1931-04-29,1931,1930,1) Up to 1945,Ford 5-AT-C Tri-Motor,National Air Transport,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+8410,1931-06-11,1931,1930,1) Up to 1945,Junkers G.24,AB Aerotransport,Civil / Other,Sweden,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+12306,1931-06-16,1931,1930,1) Up to 1945,A.W. Argosy IA,Imperial Airways,Civil / Other,Egypt,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+2721,1931-08-04,1931,1930,1) Up to 1945,Fokker F.IX,KLM,Civil / Other,Netherlands,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+4987,1931-08-07,1931,1930,1) Up to 1945,Fokker F.10A,Mexicana,Civil / Other,USA,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+6458,1931-08-09,1931,1930,1) Up to 1945,Ford 5-AT-B Tri-Motor,American Airways,Civil / Other,USA,Accident,Hull loss,6,NULL,6,1,Cincinnati - Atlanta,6,Crashed from a height of 500 feet on the banks of Little Miami River shortly after taking off. Engine failure due to a broken hub on the right engine which led to the detachment of the motor from the aircraft.,Mechanical / Technical
+14301,1931-08-19,1931,1930,1) Up to 1945,Ford 5-AT-B Tri-Motor,TWA,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+20444,1931-08-27,1931,1930,1) Up to 1945,Sikorsky S.41B,Boston-Maine Airways,Civil / Other,USA,Accident,Hull loss,1,NULL,1,0,NULL,NULL,NULL,NULL
+14956,1931-09-19,1931,1930,1) Up to 1945,Ford XB-906 (Tri-Motor),Ford Motor Company,Civil / Other,USA,Accident,Hull loss,2,NULL,2,0,NULL,NULL,NULL,NULL
+21076,1931-10-27,1931,1930,1) Up to 1945,Ford 5-AT-C Tri-Motor,National Air Transport,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+14359,1931-12-19,1931,1930,1) Up to 1945,Ford 4-AT-E Tri-Motor,TWA,Civil / Other,USA,Accident,Hull loss,1,NULL,1,0,NULL,NULL,NULL,NULL
+5868,1932-02-08,1932,1930,1) Up to 1945,Fokker F.10A,Transamerican Airlines,Civil / Other,USA,Other,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+11586,1932-03-15,1932,1930,1) Up to 1945,Ford 4-AT-B Tri-Motor,Skyway,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+14683,1932-03-19,1932,1930,1) Up to 1945,Fokker F.10A,American Airways,Civil / Other,USA,Accident,Hull loss,7,NULL,7,1,"Phoenix, AZ - Los Angeles, CA",7,The crew reduced altitude in foggy conditions to maintain visual contact with the ground. Crashed into an apple orchard after striking power lines. One survivor died the next day.,Weather
+20826,1932-06-27,1932,1930,1) Up to 1945,Junkers PS-5 (G.24),Dobrolet,Civil / Other,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+7500,1932-07-10,1932,1930,1) Up to 1945,Boeing 80A,Boeing Air Transport,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+12239,1932-07-16,1932,1930,1) Up to 1945,Ford 5-AT-C Tri-Motor,Panagra,Civil / Other,Chile,Accident,Hull loss,9,NULL,9,1,"Santiago, Chile - Mendosa, Argentina",9,"The aircraft crashed in a severe snowstorm in the Andes Mountains. The wreckage was buried by ice and snow and wasnt found until March 22, 1934.",Terrain / Obstacle
+22206,1932-07-29,1932,1930,1) Up to 1945,Junkers Ju-52/3mce,Deutsche Lufthansa,Civil / Other,Germany,Accident,Repairable damage,0,NULL,0,0,NULL,NULL,NULL,NULL
+23373,1932-08-31,1932,1930,1) Up to 1945,Junkers G.24,AB Aerotransport,Civil / Other,Netherlands,Accident,Hull loss,2,NULL,2,1,Amsterdam - Hanover - Copenagen - Malmö,2,The crew radioed they had problems with engine 3. The crew lowered their altitude and attempted an emergency landing. In low visibility and at night they hit a chimney and crashed.,Weather
+6353,1932-09-08,1932,1930,1) Up to 1945,Fokker F.10A,American Airways,Civil / Other,USA,Accident,Hull loss,3,NULL,3,1,El Paso - Dallas,4,The mail plane struck a mountain and burned after encountering poor weather conditions.,Terrain / Obstacle
+13380,1932-09-17,1932,1930,1) Up to 1945,LiorÃ© et Olivier 212,Air Union,Civil / Other,U.K.,Accident,Hull loss,1,NULL,1,1,NULL,2,On approach to Croydon in fog and reduced visibility the plane crashed in a hotel parking lot.,Weather
+1797,1932-10-02,1932,1930,1) Up to 1945,Ford 5-AT-B Tri-Motor,Pan Am,Civil / Other,Honduras,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+20258,1932-10-26,1932,1930,1) Up to 1945,Ford 5-AT-D Tri-Motor,LAB,Civil / Other,Bolivia,Accident,Hull loss,2,NULL,2,0,NULL,NULL,NULL,NULL
+8146,1932-12-11,1932,1930,1) Up to 1945,Fokker F.10A,Western Air Express,Civil / Other,USA,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+10497,1932-12-14,1932,1930,1) Up to 1945,Ford 5-AT-B Tri-Motor,TWA,Civil / Other,USA,Accident,Hull loss,2,NULL,2,1,NULL,2,The mail plane crashed in a snowstorm. The pilot died two days later from his injuries.,Weather
+9831,1933-01-13,1933,1930,1) Up to 1945,LiorÃ© et Olivier 213,Air Union,Civil / Other,France,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+10624,1933-01-14,1933,1930,1) Up to 1945,Curtiss Condor 18,Eastern Air Transport,Civil / Other,USA,Accident,Hull loss,2,NULL,2,1,Test flight,2,Went into a vertical bank and crashed and burned.,Unclassified
+18348,1933-01-24,1933,1930,1) Up to 1945,Ford 5-AT-D Tri-Motor,Pacific Air Transport,Civil / Other,USA,Accident,Hull loss,2,NULL,2,1,NULL,3,The mail plane crashed while taking off.,Unclassified
+7380,1933-02-10,1933,1930,1) Up to 1945,Ford 5-AT-B Tri-Motor,TWA,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+16948,1933-03-22,1933,1930,1) Up to 1945,Ford JR-3 (5-AT-C) Tri-Motor,USMC,Military,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+21678,1933-03-28,1933,1930,1) Up to 1945,A.W. Argosy II,Imperial Airways,Civil / Other,Belgium,Accident,Hull loss,15,NULL,15,1,"Cologne, Germany - Croydon, England",15,"The airliner was crusing at about 4,000 feet when fire was observed coming out of its tail section. The pilot tried to make an emergency landing but the fuselage split in two causing the aircraft to crash and burn. Although never proven, this is thought to be the first airline disaster caused by an act of satotage. The fire was thought to have been started by a passenger, Dr. Voss, in an attempt to commit suicide. The plane was named Cit y of Liverpool.",Mechanical / Technical
+23620,1933-03-31,1933,1930,1) Up to 1945,Ford 4-AT-B Tri-Motor,Private,Private,USA,Accident,Hull loss,7,NULL,7,0,NULL,NULL,NULL,NULL
+20965,1933-05-27,1933,1930,1) Up to 1945,Junkers Ju-52/1mcai,RDL,Civil / Other,Germany,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+1578,1933-06-02,1933,1930,1) Up to 1945,Ford 4-AT-E Tri-Motor,Plane Speaker Corporation,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+8095,1933-08-11,1933,1930,1) Up to 1945,Dornier Do R4 Superwal,SANA,Civil / Other,Spain,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+9648,1933-08-13,1933,1930,1) Up to 1945,Junkers PS-5 (G.24),Dobrolet,Civil / Other,Russia,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+22016,1933-08-29,1933,1930,1) Up to 1945,Ford 5-AT-B Tri-Motor,TWA,Civil / Other,USA,Accident,Hull loss,5,NULL,5,1,"Amarillo, TX - Albuquerque, NM",5,Crashed into a mountain slope during a storm while attempting to make an emergency landing.,Terrain / Obstacle
+16430,1933-09-21,1933,1930,1) Up to 1945,Curtiss T-32 Condor II,Eastern Air Transport,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+14095,1933-10-18,1933,1930,1) Up to 1945,Ford 4-AT-B Tri-Motor,Private,Private,Nicaragua,Accident,Hull loss,3,NULL,3,0,NULL,NULL,NULL,NULL
+12495,1933-11-16,1933,1930,1) Up to 1945,LiorÃ© et Olivier 213,Air France,Civil / Other,France,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+16323,1933-11-21,1933,1930,1) Up to 1945,Kalinin K-7,Kalinin Design Bureau,Civil / Other,Ukraine,Accident,Hull loss,14,1,15,0,NULL,NULL,NULL,NULL
+18716,1933-11-24,1933,1930,1) Up to 1945,Fokker F.10A,AerovÃ­as Centrales,Civil / Other,Mexico,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+11380,1934-01-15,1934,1930,1) Up to 1945,Dewoitine D.332,Air France,Civil / Other,France,Accident,Hull loss,10,NULL,10,1,Saigon - Paris,14,"The aircraft crashed while en route in a severe snowstorm. Icing. The aircraft was named ""Emeraude.""",Weather
+3811,1934-03-05,1934,1930,1) Up to 1945,Ford 4-AT-B Tri-Motor,Morgan Air Lines,Civil / Other,Honduras,Accident,Hull loss,1,NULL,1,0,NULL,NULL,NULL,NULL
+7617,1934-03-10,1934,1930,1) Up to 1945,Junkers F.24k2ay (G.24),Deutsche Lufthansa,Civil / Other,Poland,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+16949,1934-03-22,1934,1930,1) Up to 1945,Ford 5-AT-C Tri-Motor,Panagra,Civil / Other,Peru,Accident,Hull loss,4,NULL,4,1,NULL,15,Crashed on take off due to engine failure.,Mechanical / Technical
+23684,1934-05-31,1934,1930,1) Up to 1945,LiorÃ© et Olivier 213,Air France,Civil / Other,U.K.,Accident,Hull loss,2,NULL,2,1,"Croydon, England - Paris, France",2,The cargo plane struck an aerial mast and crashed into houses while attempting to take off.,Unclassified
+6832,1934-06-09,1934,1930,1) Up to 1945,Curtiss T-32 Condor II,American Airways,Civil / Other,USA,Accident,Hull loss,7,NULL,7,1,New York - Chicago,7,"Crashed into Last Chance Hill in the Catskill Mountains at an altitude of 2,000 feet in fog and thunderstorms while en route. Pilot deviated from the prescribed course and flew over hazardous terrain.",Terrain / Obstacle
+8412,1934-06-11,1934,1930,1) Up to 1945,Ford C-4A (5-AT-D) Tri-Motor,USAAC,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+8411,1934-06-11,1934,1930,1) Up to 1945,Ford 5-AT-C Tri-Motor,Panagra,Civil / Other,Argentina,Accident,Hull loss,5,NULL,5,1,Buenos Aires - Santiago,10,"Crashed into Mar Chiquita Lagoon during a heavy rainstorm. The aircraft was named ""San Pedro.""",Weather
+17697,1934-06-23,1934,1930,1) Up to 1945,Ford 4-AT-B Tri-Motor,Mulzer Flying Service,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+777,1934-07-01,1934,1930,1) Up to 1945,Ford 4-AT-D Tri-Motor,Private,Private,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+20740,1934-07-27,1934,1930,1) Up to 1945,Curtiss AT-32C Condor II,Swissair,Civil / Other,Germany,Accident,Hull loss,12,NULL,12,1,Zurich - Stuttgart - Leipzig - Berlin,12,"The aircraft crashed during a violent storm near the Swiss - Germany border. The plane fell from a height of 3,000 feet, bursting into flames. Failure of the right wing caused by fractures in the structure which occurred because of oscillations in the wing.",Weather
+17341,1934-08-23,1934,1930,1) Up to 1945,Junkers PS-5 (G.24),Dobrolet,Civil / Other,Russia,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+1863,1934-09-02,1934,1930,1) Up to 1945,Ford 5-AT-D Tri-Motor,Hanford's Tri-State Airlines,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+17209,1934-09-22,1934,1930,1) Up to 1945,Handley Page W.10,National Aviation Displays,Civil / Other,U.K.,Accident,Hull loss,4,NULL,4,0,NULL,NULL,NULL,NULL
+21134,1934-09-27,1934,1930,1) Up to 1945,Fokker F.10A,Mexicana,Civil / Other,Mexico,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+14879,1934-10-19,1934,1930,1) Up to 1945,DH.86 Express,Holyman's Airways,Civil / Other,Australia,Accident,Hull loss,11,NULL,11,1,"Launceston, Tasmania - Melbourne, Australia",11,Crashed 10 miles off the coast under unknown circumstances,Unclassified
+20259,1934-10-26,1934,1930,1) Up to 1945,Ford 4-AT-E Tri-Motor,Ptarmigan Airlines,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+22514,1934-10-29,1934,1930,1) Up to 1945,Ford 4-AT-.  Tri-Motor,TACA de Honduras,Civil / Other,Honduras,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+4726,1934-11-06,1934,1930,1) Up to 1945,Junkers Ju-52/3mge,Deutsche Reichsbahn-Gesellschaft,Civil / Other,Poland,Accident,Hull loss,5,NULL,5,0,NULL,NULL,NULL,NULL
+11726,1934-11-15,1934,1930,1) Up to 1945,DH.86 Express,Qantas,Civil / Other,Australia,Accident,Hull loss,4,NULL,4,1,London - Sydney,4,The aircraft suddenly went out of control and crashed to the ground on its delivery flight from England to Brisbane. Improper loading of parts resulting in an aft center of gravity.,Unclassified
+7312,1934-12-10,1934,1930,1) Up to 1945,Ford 4-AT-E Tri-Motor,Cubana,Civil / Other,Cuba,Accident,Hull loss,4,NULL,4,1,Havana - Santiago de Cuba,8,Crashed into a mountain in poor weater condtions and low visiblity while en route.,Terrain / Obstacle
+14360,1934-12-19,1934,1930,1) Up to 1945,Curtiss AT-32B Condor II,American Airways,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+15167,1934-12-20,1934,1930,1) Up to 1945,Douglas DC-2-115A,KLM,Civil / Other,Iraq,Accident,Hull loss,7,NULL,7,1,"Amsterdam - Batavia, Java",7,"While flying over the Iraqi Desert at night, the crew encountered poor weather conditions and decided to divert to Rutbah Wells. On approach, the aircraft impacted the ground and exploded.16 km from Rutbah Wells airfield. The aircraft was named ""Uiver"" (Dutch word for stork).",Weather
+21340,1934-12-28,1934,1930,1) Up to 1945,Curtiss T-32C Condor II,American Airways,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+17553,1935-01-23,1935,1930,1) Up to 1945,Curtiss T-32 Condor II,Eastern Air Transport,Civil / Other,USA,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23485,1935-01-31,1935,1930,1) Up to 1945,Junkers Ju-52/3mge,Deruluft,Civil / Other,Poland,Accident,Hull loss,11,NULL,11,1,Koenigberg - Berlin,11,"Crashed full speed into a hill, 450 feet high in rain and fog. Icing.",Weather
+4138,1935-04-06,1935,1930,1) Up to 1945,Fokker F.XII,KLM,Civil / Other,Germany,Accident,Hull loss,7,NULL,7,1,Prague Leipzig Essen Amsterdam Rotterdam,7,"Crashed after the pilot tried to maintain visual contact with the ground in heavy fog and snow. The plane was named ""Leeuwerik."" The pilot was unable to distinguish the ground from the surroundings and to establish his real position to continue then flight in a safely manner.",Weather
+11937,1935-04-16,1935,1930,1) Up to 1945,Consolidated 16 Commodore,Pan Am,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+18901,1935-04-25,1935,1930,1) Up to 1945,Junkers Ju-52/3mho,Deutsche Lufthansa,Civil / Other,Germany,Accident,Hull loss,3,NULL,3,0,NULL,NULL,NULL,NULL
+21194,1935-04-28,1935,1930,1) Up to 1945,Ford 4-AT-B Tri-Motor,Private,Private,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+4657,1935-05-06,1935,1930,1) Up to 1945,Douglas DC-2-112,TWA,Civil / Other,USA,Accident,Hull loss,5,NULL,5,1,Los Angeles - Albuquerque - Kanasas City - Washington,14,"The plane crashed while en route from Albuquerque to Kansas City. After encountering fog and poor visibility, the plane was diverted to Kirksville where witnesses reported the low flying aircraft made contact with the ground and crashed. Whether the plane struck the ground while the pilot was attempting to make an emergency landing or because the available fuel supply had been exhausted, or for other reasons, could not be determined. New Mexico Senator Bronson M. Cutting, 46, killed. Improper clearance of the airplane from Albuquerque by the company's ground personnel when the plane's two-way radio was not functioning properly.",Weather
+5435,1935-05-07,1935,1930,1) Up to 1945,Ford 4-AT-.  Tri-Motor,private,Private,Guatemala,Accident,Hull loss,1,NULL,1,0,NULL,NULL,NULL,NULL
+13960,1935-05-18,1935,1930,1) Up to 1945,Tupolev ANT-20 Maxim Gorky,Tupolev,Civil / Other,Russia,Accident,Hull loss,35,9,44,1,Demonstration,50,"Midair collision with an I-5 fighter at 2,300 ft. The fighter was performing aerobatics trying to loop around the Tupolev. The plane crashed into a residental neighborhood and was on its maiden flight. The plane was nicknamed ""Maxim Gorky."" Pilot error. Forty-nine killed on the Tupolev, one on the I-5",Human factors / Operations
+13959,1935-05-18,1935,1930,1) Up to 1945,Ford 4-AT-E Tri-Motor,Knowles Flying Service,Civil / Other,USA,Accident,Hull loss,3,NULL,3,0,NULL,NULL,NULL,NULL
+16891,1935-06-22,1935,1930,1) Up to 1945,Savoia-Marchetti S-66,Ala Littoria,Civil / Other,Malta,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+18477,1935-06-24,1935,1930,1) Up to 1945,Ford 5-AT-D Tri-Motor,SCADTA,Civil / Other,Colombia,Accident,Hull loss,7,NULL,7,0,NULL,NULL,NULL,NULL
+18476,1935-06-24,1935,1930,1) Up to 1945,Ford 5-AT-B Tri-Motor,SACO,Civil / Other,Colombia,Accident,Hull loss,10,NULL,10,0,NULL,NULL,NULL,NULL
+6757,1935-07-09,1935,1930,1) Up to 1945,Savoia-Marchetti S-66,Ala Littoria,Civil / Other,Spain,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+10690,1935-07-14,1935,1930,1) Up to 1945,Fokker F.XXII,KLM,Civil / Other,Netherlands,Accident,Hull loss,6,NULL,6,1,Amsterdam - Sweden,20,The plane lost altitude while attempting an emergency landing after taking off and losing two engines. The wing hit a dyke and the plane burst into flames.,Mechanical / Technical
+13002,1935-07-17,1935,1930,1) Up to 1945,Douglas DC-2-115E,KLM,Civil / Other,Iran,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+15356,1935-07-20,1935,1930,1) Up to 1945,Douglas DC-2-115E,KLM,Civil / Other,Switzerland,Accident,Hull loss,13,NULL,13,1,Milan - Frankfort - Amsterdam,13,"Crashed into a mountain near St. Bernard Pass in Switzerland. Mountains obscured by clouds. The crew flew through the wrong valley which ended in a dead end. Icing condtions,.",Terrain / Obstacle
+16829,1935-07-22,1935,1930,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Germany,Accident,Hull loss,11,NULL,11,0,NULL,NULL,NULL,NULL
+20741,1935-07-27,1935,1930,1) Up to 1945,Curtiss AT-32B Condor II,American Airways,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+1982,1935-08-03,1935,1930,1) Up to 1945,Douglas DC-2-112,TWA,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+1798,1935-10-02,1935,1930,1) Up to 1945,DH.86 Express,Holyman's Airways,Civil / Other,Australia,Accident,Hull loss,5,NULL,5,1,Melbourne - Sydney,5,Crashed in the Bass Strait. Went in to an uncontrollable spin following an engine failure.,Mechanical / Technical
+4796,1935-10-06,1935,1930,1) Up to 1945,Douglas DC-2A-127,Standard Oil Company,Civil / Other,USA,Accident,Hull loss,3,NULL,3,0,NULL,NULL,NULL,NULL
+16384,1935-10-21,1935,1930,1) Up to 1945,Curtiss Condor 18,Chamberlin Flying Service,Civil / Other,USA,Accident,Hull loss,1,NULL,1,1,Troy - Teterboro,6,The plane lost the left engine shortly after taking off. The pilot tried to make an emergency landing but was caught in a downdraft and the plane crashed.,Mechanical / Technical
+17133,1935-10-22,1935,1930,1) Up to 1945,DH.86 Express,Imperial Airways,Civil / Other,Austria,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+18777,1935-10-24,1935,1930,1) Up to 1945,Ford 5-AT-C Tri-Motor,Private,Private,China,Criminal occurrence,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+19515,1935-10-25,1935,1930,1) Up to 1945,Boulton Paul P.71A,Imperial Airways,Civil / Other,Belgium,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+5498,1935-11-07,1935,1930,1) Up to 1945,Savoia-Marchetti S.73P,Sabena,Civil / Other,U.K.,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+7005,1935-11-09,1935,1930,1) Up to 1945,Ford 5-AT-.  Tri-Motor,TACA de Honduras,Civil / Other,Honduras,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+7006,1935-11-09,1935,1930,1) Up to 1945,Short S.17 Kent,Imperial Airways,Civil / Other,Italy,Other,Hull loss,0,NULL,0,1,London - Brindisi - Alexandria,13,While preparing for departure a fire broke out. The fire erupted while fueling.,Mechanical / Technical
+14030,1935-11-18,1935,1930,1) Up to 1945,Junkers G.24he,Syndicato Condor,Civil / Other,Brazil,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+17893,1935-11-23,1935,1930,1) Up to 1945,DH.66 Hercules,Imperial Airways,Civil / Other,Uganda,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+7313,1935-12-10,1935,1930,1) Up to 1945,Potez 62,Air France,Civil / Other,France,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+7314,1935-12-10,1935,1930,1) Up to 1945,Savoia-Marchetti S.73,Sabena,Civil / Other,U.K.,Accident,Hull loss,11,NULL,11,1,"Brussels, Belgium - Croydon, England",11,"While flying low, the aircraft hit tree tops, stalled and crashed in flames into a wooded area 13 km short of the runway, The pilot did not request bearings from the airport and tried to navigate on his own.",Human factors / Operations
+18216,1935-12-24,1935,1930,1) Up to 1945,Ford 5-AT-D Tri-Motor,Panagra,Civil / Other,Peru,Accident,Hull loss,2,2,4,0,NULL,NULL,NULL,NULL
+23436,1935-12-31,1935,1930,1) Up to 1945,Short S.8 Calcutta,Imperial Airways,Civil / Other,Egypt,Accident,Hull loss,12,NULL,12,1,London - Brindisi - Mirabella - Alexandria,13,"The aircraft ran out of fuel and crashed off Alexandria. The plane was named ""The City of Khartoum.""",Mechanical / Technical
+10626,1936-01-14,1936,1930,1) Up to 1945,Junkers Ju-52/3m,Colombian AF,Military,Colombia,Accident,Hull loss,13,NULL,13,1,NULL,16,The float plane crashed after experiencing unknown technical difficulties while attempting to land.,Unclassified
+10625,1936-01-14,1936,1930,1) Up to 1945,Douglas DC-2-120,American Airlines,Civil / Other,USA,Accident,Hull loss,17,NULL,17,1,Newark - Memphis - Little Rock - Dallas - Los Angeles,17,"Flew into trees and disintegrated. The cause of the crash could not be determined. Possible causes include, passenger interference, one fuel tank running dry, flying too low and the co-pilot alone at the controls.",Mechanical / Technical
+12941,1936-01-17,1936,1930,1) Up to 1945,Junkers Ju-52/3mce,LAB,Civil / Other,Bolivia,Accident,Hull loss,13,NULL,13,0,NULL,NULL,NULL,NULL
+21413,1936-02-28,1936,1930,1) Up to 1945,Douglas DC-2-115B,Swissair,Civil / Other,Switzerland,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+3812,1936-03-05,1936,1930,1) Up to 1945,Ford 5-AT-D Tri-Motor,CNAC,Civil / Other,China,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+12378,1936-03-16,1936,1930,1) Up to 1945,Junkers Ju-52/3m,ÃLAG,Civil / Other,Austria,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+20063,1936-03-26,1936,1930,1) Up to 1945,Ford 5-AT-B Tri-Motor,Mexicana,Civil / Other,Mexico,Accident,Hull loss,14,NULL,14,0,NULL,NULL,NULL,NULL
+23621,1936-03-31,1936,1930,1) Up to 1945,Ford 5-AT-D Tri-Motor,CNAC,Civil / Other,China,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+4922,1936-04-07,1936,1930,1) Up to 1945,Douglas DC-2-112,TWA,Civil / Other,USA,Accident,Hull loss,12,NULL,12,1,Newark - Los Angeles,14,"Crashed into Chestnut Ridge in fog. The poor judgment on the part of the pilot for flying by visual ground observation methods after having descended through the clouds and overcast in mountainous terrain at a point unknown to him. Because of clouds and poor visibility, this required flying close to the ground whereas the safest method under such circumstances was to climb into or above the overcast to a safe altitude and determine the location of the plane by instruments and radio.",Terrain / Obstacle
+8024,1936-04-11,1936,1930,1) Up to 1945,Sikorsky S-42,Pan Am,Civil / Other,Trinidad & Tobago,Accident,Repairable damage,3,NULL,3,0,NULL,NULL,NULL,NULL
+12694,1936-04-17,1936,1930,1) Up to 1945,Junkers Ju-52/3m,Deutsche Lufthansa,Civil / Other,Switzerland,Accident,Hull loss,3,NULL,3,1,Test flight,5,Deviated from the prescribed course and hit a mountain in poor weather conditions. Navigation error by the crew.,Terrain / Obstacle
+15049,1936-04-20,1936,1930,1) Up to 1945,Douglas DC-2-115K,CLS,Civil / Other,Netherlands,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+6187,1936-05-08,1936,1930,1) Up to 1945,LiorÃ©-et-Olivier H.242/1,Air France,Civil / Other,Mediterranean Sea,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23685,1936-05-31,1936,1930,1) Up to 1945,Douglas DC-2-172,TWA,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+6833,1936-06-09,1936,1930,1) Up to 1945,Fokker F.XXII,AB Aerotransport,Civil / Other,Sweden,Accident,Hull loss,2,NULL,2,1,Malmo - Amsterdam,15,"All four motors of the aircraft quit while taking off. The pilot attempted to land but crashed into a house. First fatal aviation accident in Sweden.The captain mistakenly opened the throttles instead of selecting the propeller pitch handles while the engines were in weak mixture, causing all four to stall out.",Mechanical / Technical
+12307,1936-06-16,1936,1930,1) Up to 1945,Junkers Ju-52/3m,DNL,Civil / Other,Norway,Accident,Hull loss,7,NULL,7,1,Bergen - Trondheim,7,"While cruising, the aircraft crashed into the south face of Mt. Lyhesten in fog.",Weather
+5253,1936-07-07,1936,1930,1) Up to 1945,Vickers Valentia,RAF,Military,Egypt,Accident,Hull loss,7,NULL,7,0,NULL,NULL,NULL,NULL
+6758,1936-07-09,1936,1930,1) Up to 1945,Curtiss Condor 18,Chamberlin Flying Service,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+15357,1936-07-20,1936,1930,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Germany,Accident,Hull loss,2,NULL,2,0,NULL,NULL,NULL,NULL
+19925,1936-07-26,1936,1930,1) Up to 1945,Junkers G.38di,Deutsche Lufthansa,Civil / Other,Germany,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+22207,1936-07-29,1936,1930,1) Up to 1945,Curtiss T-32C Condor II,LAN Chile,Civil / Other,Chile,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+5738,1936-08-08,1936,1930,1) Up to 1945,Ford 4-AT-B Tri-Motor,Private,Private,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+8853,1936-08-12,1936,1930,1) Up to 1945,DH.86 Express,British Airways,Civil / Other,Germany,Accident,Hull loss,2,NULL,2,1,Hanover - Cologne - London-Gatwick,2,The mail plane crashed at night under unknown circumstances.,Unclassified
+9649,1936-08-13,1936,1930,1) Up to 1945,Curtiss AT-32A Condor II,American Airlines,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+11178,1936-08-15,1936,1930,1) Up to 1945,Fokker F.XII,AviaciÃ³n Nacional,Civil / Other,France,Accident,Hull loss,2,NULL,2,0,NULL,NULL,NULL,NULL
+11999,1936-08-16,1936,1930,1) Up to 1945,Fokker F.XII,AviaciÃ³n Nacional,Civil / Other,France,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+16563,1936-08-22,1936,1930,1) Up to 1945,Short S.17 Kent,Imperial Airways,Civil / Other,Greece,Accident,Hull loss,2,NULL,2,1,Alexandria - Mirabella - Brindisi - Southampton,11,"While attempting to land, the plane hit high waves and broke up. Strong lateral winds while landing on rough sea.",Unclassified
+11862,1936-09-15,1936,1930,1) Up to 1945,DH.86A Express,British Airways,Civil / Other,U.K.,Accident,Hull loss,3,NULL,3,0,NULL,NULL,NULL,NULL
+14957,1936-09-19,1936,1930,1) Up to 1945,Junkers Ju-52/3mfe,Deutsche Lufthansa,Civil / Other,Germany,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+18836,1936-09-24,1936,1930,1) Up to 1945,CANT Z.506,Ala Littoria,Civil / Other,Libya,Accident,Hull loss,9,NULL,9,1,"Addis Ababa, Ethiopia - Rome, Italy",10,"Suffered engine failue on the approach,struck the mast of a ship and burst into flames.",Mechanical / Technical
+19583,1936-09-25,1936,1930,1) Up to 1945,Boulton Paul P.71A,Imperial Airways,Civil / Other,U.K.,Accident,Hull loss,2,NULL,2,1,Croydon - Paris,2,Crashed under unknown circumstances while delivering mail.,Unclassified
+22577,1936-09-29,1936,1930,1) Up to 1945,A.W. AW.15 Atalanta,Imperial Airways,Civil / Other,India,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+7900,1936-10-10,1936,1930,1) Up to 1945,Douglas DC-2-118B,Panagra,Civil / Other,Guatemala,Accident,Hull loss,3,NULL,3,0,NULL,NULL,NULL,NULL
+1013,1936-11-01,1936,1930,1) Up to 1945,Junkers Ju-52/3mge,Deutsche Lufthansa,Civil / Other,Germany,Accident,Hull loss,10,NULL,10,1,Frankfurt - Erfurt,15,"While encountering heavy fog the aircraft was flying too low and hit tree tops before crashing into flames in a wooded area. It was believed that the pilot had lost his bearings while flying in a heavy fog, resulting in either a controlled impact with the terrain or an uncontrolled descent into the ground.",Terrain / Obstacle
+3225,1936-11-04,1936,1930,1) Up to 1945,Junkers Ju-52/3mge,HISMA,Civil / Other,Spain,Criminal occurrence,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+3978,1936-11-05,1936,1930,1) Up to 1945,Junkers Ju-52/3m,HISMA,Civil / Other,Spain,Criminal occurrence,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+13262,1936-11-17,1936,1930,1) Up to 1945,Junkers Ju-52/3mge,Deutsche Lufthansa,Civil / Other,Germany,Accident,Hull loss,4,NULL,4,1,Leipzig - Nuremberg,16,"On approach to Nuremberg Airport in foggy conditions, the aircraft deviated from the prescribed course and was too low when it hit tree tops and crashed in a wooded area. Pilot error.",Weather
+14805,1936-11-19,1936,1930,1) Up to 1945,Fokker F.XII,British Airways,Civil / Other,U.K.,Accident,Hull loss,2,NULL,2,1,Hanover - London,4,The mail plane attempted to land in strong winds and poor weather conditons. Pilot error.,Weather
+19457,1936-11-25,1936,1930,1) Up to 1945,Junkers Ju-52/3m,HISMA,Civil / Other,Spain,Criminal occurrence,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+21786,1936-11-28,1936,1930,1) Up to 1945,Junkers Ju-52/3m,Deutsche Lufthansa,Civil / Other,Germany,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+2045,1936-12-03,1936,1930,1) Up to 1945,Junkers Ju-52/3m,Deutsche Lufthansa,Civil / Other,France,Accident,Hull loss,6,NULL,6,0,NULL,NULL,NULL,NULL
+5790,1936-12-08,1936,1930,1) Up to 1945,Junkers Ju-52/3m,Condor Legion,Civil / Other,Spain,Accident,Hull loss,4,NULL,4,0,NULL,NULL,NULL,NULL
+6529,1936-12-09,1936,1930,1) Up to 1945,Douglas DC-2-115E,KLM,Civil / Other,U.K.,Accident,Hull loss,15,NULL,15,1,Croydon - Amsterdam,17,The aircraft crashed into houses while attempting to take off in heavy fog. A stewardess and the radio operator survived. Aircraft designer Juan de la Cierva killed. Pilot error. Piilot did not maintain directional control of the aircraft and abort the takeoff,Weather
+12069,1936-12-16,1936,1930,1) Up to 1945,Fokker F.XII,AviaciÃ³n Nacional,Civil / Other,Spain,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+14361,1936-12-19,1936,1930,1) Up to 1945,Douglas DC-2-112,"North American Aviation, op.for Eastern Air Lines",Civil / Other,USA,Accident,Hull loss,0,NULL,0,1,Miami - Charleston - Newark,11,"Crashed into trees in poor weather while attempting to land at Newark. Error on the part of the pilot for attempting to get down under the overcast without first definitely proving his position. Improper dispatching for clearing the flight into an area of predicted bad weather, particularly when the area cleared through did not permit a safe return, and static conditions encountered which rendered reception of the radio range signals over the airplane's range receivers unintelligible.",Weather
+19032,1936-12-25,1936,1930,1) Up to 1945,Douglas DC-2-118A,CNAC,Civil / Other,China,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+21341,1936-12-28,1936,1930,1) Up to 1945,Douglas DC-2-118B,CNAC,Civil / Other,China,Accident,Repairable damage,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+21342,1936-12-28,1936,1930,1) Up to 1945,Short S.8 Calcutta,Imperial Airways,Civil / Other,Greece,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+2145,1937-01-03,1937,1930,1) Up to 1945,Junkers Ju-52/3m,HISMA,Civil / Other,Spain,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+15291,1937-01-20,1937,1930,1) Up to 1945,Ford 5-AT-C Tri-Motor,DePonti Aviation Company,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+19873,1937-01-26,1937,1930,1) Up to 1945,Sabca Savoia-Marchetti S.73P,Sabena,Civil / Other,Algeria,Accident,Hull loss,12,NULL,12,1,Elizabethville - Gao - Colomb-Béchar - Oran - Brussels,12,While attempting to land the aircraft went out of control and crashed.,Unclassified
+6603,1937-02-09,1937,1930,1) Up to 1945,Douglas DC-3A-197,United Airlines,Civil / Other,USA,Accident,Hull loss,11,NULL,11,1,Los Angeles - San Francisco - Oakland,11,"The aircraft crashed into San Francisco Bay, approximately 2 miles offshore, while on approach. The accidental jamming of the elevator controls as the result of the co-pilot's microphone being inadvertently dropped and lodged between the elevator control column and the seat rail in such a way that the crew was unable to prevent rapid descent of the airplane. First accident involving a DC-3.",Unclassified
+12130,1937-02-16,1937,1930,1) Up to 1945,Junkers Ju-52/3m,HISMA,Civil / Other,Spain,Criminal occurrence,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+13659,1937-02-18,1937,1930,1) Up to 1945,Douglas DC-2-112,Eastern Air Lines,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+10038,1937-03-13,1937,1930,1) Up to 1945,Junkers Ju-52/3m,HISMA,Civil / Other,Spain,Criminal occurrence,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+12379,1937-03-16,1937,1930,1) Up to 1945,DH.86 Express,Imperial Airways,Civil / Other,Germany,Accident,Hull loss,3,NULL,3,0,NULL,NULL,NULL,NULL
+18535,1937-03-24,1937,1930,1) Up to 1945,Short S.23 Empire Flying Boat Mk I,Imperial Airways,Civil / Other,France,Accident,Hull loss,5,NULL,5,1,"Southhampton, England - Alexandria, Egypt",6,Crashed into trees on a mountainside in a snowstorm.,Terrain / Obstacle
+19333,1937-03-25,1937,1930,1) Up to 1945,Douglas DC-2-112,TWA,Civil / Other,USA,Accident,Hull loss,13,NULL,13,1,Newark - Camden - Pittsburg,13,While attempting to land the aircraft banked left and crashed short of the runway. Heavy icing which rendered the plane uncontrollable.,Weather
+489,1937-04-01,1937,1930,1) Up to 1945,Ford 5-AT-C Tri-Motor,Star Air Service,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+1929,1937-04-03,1937,1930,1) Up to 1945,Douglas DC-3-194B,KLM,Civil / Other,USA,Accident,Hull loss,8,NULL,8,0,NULL,NULL,NULL,NULL
+4140,1937-04-06,1937,1930,1) Up to 1945,Junkers Ju-52/3mg3e,German AF,Military,Germany,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+4139,1937-04-06,1937,1930,1) Up to 1945,Douglas DC-2-115M,LAPE,Civil / Other,Spain,Criminal occurrence,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+5436,1937-05-07,1937,1930,1) Up to 1945,Douglas C-33 (DC-2),USAAC,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+22390,1937-05-29,1937,1930,1) Up to 1945,Ford 4-AT-B Tri-Motor,Private,Private,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+23686,1937-05-31,1937,1930,1) Up to 1945,Handley Page HP.42E,Imperial Airways,Civil / Other,Pakistan,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+1579,1937-06-02,1937,1930,1) Up to 1945,Sikorsky S-43,Chilean AF,Military,Chile,Accident,Hull loss,9,NULL,9,0,NULL,NULL,NULL,NULL
+12308,1937-06-16,1937,1930,1) Up to 1945,Junkers Ju-52/3msai,South African Airways,Civil / Other,South Africa,Accident,Hull loss,1,NULL,1,0,NULL,NULL,NULL,NULL
+19926,1937-07-26,1937,1930,1) Up to 1945,Junkers Ju-52/3m,HISMA,Civil / Other,Spain,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+21555,1937-07-28,1937,1930,1) Up to 1945,Douglas DC-2-115L,KLM,Civil / Other,Belgium,Accident,Hull loss,15,NULL,15,1,Amsterdam - Paris,15,The aircraft crashed into a potato field after possibly being struck by lightning and after an in-flight fire.,Weather
+553,1937-08-01,1937,1930,1) Up to 1945,Junkers Ju-52/3m,Eurasia,Civil / Other,China,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+1247,1937-08-02,1937,1930,1) Up to 1945,Savoia-Marchetti S.73,Ala Littoria,Civil / Other,Sudan,Accident,Hull loss,9,NULL,9,1,"Rome, Italy - Kartoum",9,"Crashed into a building on takeoff. The accident happened after the crew abandoned the approach and attempt an overshoot maneuver,",Unclassified
+1248,1937-08-02,1937,1930,1) Up to 1945,Sikorsky S-43B,Panagra,Civil / Other,Panama,Accident,Hull loss,14,NULL,14,1,"Santiago, Chili - Cristobal, Panama",14,The flying boat plunged into the ocean 20 miles off of Cristobal. The plane probably struck the water at high speed and was destroyed by an immediate explosion and fire.,Mechanical / Technical
+4203,1937-08-06,1937,1930,1) Up to 1945,Douglas DC-2-152,"Aeroflot, International",Civil / Other,Romania,Accident,Hull loss,6,NULL,6,0,NULL,NULL,NULL,NULL
+5739,1937-08-08,1937,1930,1) Up to 1945,Sikorsky S-43W,CNAC,Civil / Other,China,Accident,Hull loss,3,NULL,3,1,Canton - Shanghi,11,Forced to ditch into the sea due to bad weather. One wing broke off due to high waves and 8 passengers hung on to the remaining wing until rescued. The aircraft was named Chekiang.,Weather
+7256,1937-08-10,1937,1930,1) Up to 1945,Douglas DC-2-112,Eastern Air Lines,Civil / Other,USA,Accident,Hull loss,4,NULL,4,1,Chicago - Daytona,9,The plane struck a power pole while taking off from Daytona and crashed to the ground 600 feet from the first point of impact. The absence of reasonable notice to those operating and navigating the aircraft that an object had been erected which constituted a hazard to the aircraft taking off.,Unclassified
+10433,1937-08-14,1937,1930,1) Up to 1945,Junkers Ju-52/3m,HISMA,Civil / Other,Spain,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+15817,1937-08-21,1937,1930,1) Up to 1945,Ford 5-AT-C Tri-Motor,Republic Oil Co.,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+17342,1937-08-23,1937,1930,1) Up to 1945,Douglas DC-2-118A,Panagra,Civil / Other,Argentina,Accident,Hull loss,3,NULL,3,1,Mendosa - Cordoba,3,The cargo plane crashed and burned in a field while en route after entering dense fog.,Weather
+11033,1937-09-14,1937,1930,1) Up to 1945,Junkers Ju-52/3m,HISMA,Civil / Other,Spain,Criminal occurrence,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+21137,1937-09-27,1937,1930,1) Up to 1945,Curtiss T-32C Condor II,Private,Private,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+21135,1937-09-27,1937,1930,1) Up to 1945,Curtiss AT-32B Condor II,American Airlines,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+21136,1937-09-27,1937,1930,1) Up to 1945,Curtiss AT-32D Condor II,American Airlines,Civil / Other,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+21901,1937-09-28,1937,1930,1) Up to 1945,Ford 5-AT-B Tri-Motor,TACA Guatemala,Civil / Other,Nicaragua,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+1081,1937-10-01,1937,1930,1) Up to 1945,Short S.23 Empire Flying Boat Mk I,Imperial Airways,Civil / Other,Greece,Accident,Hull loss,3,NULL,3,1,"Alexandria, Egypt - Athens, Greece",14,Crashed as it landed in Phaleron Bay. Two passengers drowned. Poor visibility was blamed for the accident.,Weather
+4797,1937-10-06,1937,1930,1) Up to 1945,Douglas DC-3-194B,KLM,Civil / Other,Indonesia,Accident,Hull loss,4,NULL,4,1,Palembang - Singapore,11,"While in initial climb, the left engine failed. The crew decided to return for a safe landing but the aircraft hit tree tops, stalled and crashed. Bronislaw Hubermann, celibrated Polish violinist was sightly injured. The aircraft was named ""Specht"".",Mechanical / Technical
+11801,1937-10-15,1937,1930,1) Up to 1945,Junkers Ju-52/3m,HISMA,Civil / Other,Spain,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+13323,1937-10-17,1937,1930,1) Up to 1945,Douglas DC-3A-197,United Airlines,Civil / Other,USA,Accident,Hull loss,19,NULL,19,1,Newark - Chicago - Cheyenne - Salt Lake City - Los Angeles,19,"The plane crashed into the side of a mountain (Humpy Ridge) in level flight at 10,000 ft. under adverse weather conditions. Static conditions encountered in the last portion of the flight which rendered the reception of radio range signals unintelligible. The continuation of the flight into mountainous country at an altitude below of higher mountains without the aid of ground visibility or radio signals to definitely identify position. A change in the weather caused by the approach of an unpredicted cold front.",Terrain / Obstacle
+19516,1937-10-25,1937,1930,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Germany,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+21077,1937-10-27,1937,1930,1) Up to 1945,Dewoitine D.333,Air France,Civil / Other,Morocco,Accident,Hull loss,6,NULL,6,0,NULL,NULL,NULL,NULL
+12496,1937-11-16,1937,1930,1) Up to 1945,Junkers Ju-52/3mge,Sabena,Civil / Other,Belgium,Accident,Hull loss,11,NULL,11,1,Cologne - Brussels - London,11,"The aircraft was flying from Cologne to London and should have made a scheduled stop at Brussel's Haren airport. However, Brussels was shrouded in fog and the pilot was advised to fly on to Ostend. Weather conditions were poor in Ostend as well and the aircraft hit a factory chimney while flying on approach to Ostend Stene airport. All on board were killed including the Grand Duke and Duchess of Hesse who were traveling to London for a minor royal wedding. An airport employee was blamed for not guiding the pilot down in conditions of poor visibility.",Weather
+17894,1937-11-23,1937,1930,1) Up to 1945,Douglas DC-2-115D,LOT,Civil / Other,Bulgaria,Accident,Hull loss,6,NULL,6,0,NULL,NULL,NULL,NULL
+20188,1937-11-26,1937,1930,1) Up to 1945,Junkers Ju-52/3mfe,Deutsche Lufthansa,Civil / Other,U.K.,Accident,Hull loss,3,NULL,3,1,NULL,3,Engine failure on takeoff caused the cargo plane to stall and crash into a hanger.,Mechanical / Technical
+2046,1937-12-03,1937,1930,1) Up to 1945,Junkers Ju-52/3mte,Deutsche Lufthansa,Civil / Other,Germany,Accident,Hull loss,1,NULL,1,0,NULL,NULL,NULL,NULL
+3520,1937-12-05,1937,1930,1) Up to 1945,Short S.23 Empire Flying Boat Mk I,Imperial Airways,Civil / Other,Italy,Accident,Hull loss,2,NULL,2,1,NULL,8,"Stalled during takeoff and crashed into the sea. Wrong flap setting for takeoff, causing the aircraft to stall.",Human factors / Operations
+5791,1937-12-08,1937,1930,1) Up to 1945,Potez 621,Air France,Civil / Other,France,Accident,Hull loss,2,NULL,2,1,Marseille - Lyon - Paris,7,Crashed in poor weather conditions while flying too low hitting Pas de la Motte peak.,Weather
+11242,1937-12-15,1937,1930,1) Up to 1945,Junkers Ju-52/3mce,LAB,Civil / Other,Bolivia,Accident,Hull loss,8,NULL,8,0,NULL,NULL,NULL,NULL
+2926,1938-01-04,1938,1930,1) Up to 1945,Junkers Ju-52/3mte,Deutsche Lufthansa,Civil / Other,Germany,Accident,Hull loss,6,NULL,6,1,Milan - Frankfurt,6,Crashed short of the runway while attempting to land in snow and icing conditions.,Weather
+7433,1938-01-10,1938,1930,1) Up to 1945,Lockheed 14-H Super Electra,Northwest Airlines,Civil / Other,USA,Accident,Hull loss,10,NULL,10,1,Seattle - Spokane - Butte - Billings - Chicago,10,"The aircraft crashed 12 miles northeast of Bozeman after experiencing structural failure of the tail. There was severe turbulence reported in the area at the time of the accident. The structural failure of the upper vertical fins and rudders due to flutter ""natural resonance, or period of vibration"" which resulted in the separation of the rudder and fins and loss of control of the aircraft.",Weather
+8263,1938-01-11,1938,1930,1) Up to 1945,Sikorsky S-42B,Pan Am,Civil / Other,Pacific Ocean,Accident,Hull loss,7,NULL,7,1,Oakland - Honolulu - Kingman Reef - Pago Pago - Auckland,7,"The aircraft exploded in mid-air as the crew attempted to dump fuel for an emergency landing at Pago Pago. Neither the plane or seven crew members were ever found. The aircraft was named ""Samoan Clipper."" Pan American's first and chief pilot, Captain Edwin C. Musick, killed.",Mechanical / Technical
+9832,1938-01-13,1938,1930,1) Up to 1945,Junkers Ju-52/3m,AviaciÃ³n Nacional,Civil / Other,Spain,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+1366,1938-02-02,1938,1930,1) Up to 1945,Consolidated PBY-2 Catalina,US Navy,Military,USA,Accident,Hull loss,7,NULL,7,0,NULL,NULL,NULL,NULL
+1367,1938-02-02,1938,1930,1) Up to 1945,Consolidated PBY-2 Catalina,US Navy,Military,USA,Accident,Hull loss,3,NULL,3,0,NULL,NULL,NULL,NULL
+5137,1938-02-07,1938,1930,1) Up to 1945,Junkers Ju-90V1,Junkers,Civil / Other,Germany,Accident,Hull loss,1,NULL,1,0,NULL,NULL,NULL,NULL
+6604,1938-02-09,1938,1930,1) Up to 1945,LiorÃ©-et-Olivier H.242/1,Air France,Civil / Other,France,Accident,Hull loss,7,NULL,7,1,"Marseille, France - Ajaccio, Corsica",12,The flying boat struck the breakwater in fog at 60 miles an hour and burst into flames while attempting to take off.,Weather
+9774,1938-02-13,1938,1930,1) Up to 1945,CANT Z.506,Ala Littoria,Civil / Other,Mediterranean Sea,Accident,Hull loss,14,NULL,14,1,Cadiz - Pollença -Alghero - Rome,14,Disappeared over the Mediterranean Sea while flying in a storm.,Weather
+16699,1938-02-22,1938,1930,1) Up to 1945,Junkers Ju-52/3mge,Deutsche Lufthansa,Civil / Other,France,Accident,Hull loss,3,NULL,3,1,"Berlin, Germany - Paris, France",3,The mail plane crashed in fog within a few miles of it's destination near Bourget Airport.,Weather
+893,1938-03-01,1938,1930,1) Up to 1945,Douglas DC-2-112,TWA,Civil / Other,USA,Accident,Hull loss,9,NULL,9,1,"San Francisco - Winslow, AZ, Burbank, CA",9,Crashed into the high Sierra after encountering a severe weather front while en route. The pilot radioed that ice was forming on the DC-2's wings as it neared the Tehachapi Mountains near Bakersfield and that he was turning back towards the north to land at Fresno. The aircraft sheared off the tops of pine trees and crashed 200 feet below a summit. The wreckage was not found until 6/12/38.,Terrain / Obstacle
+5379,1938-03-07,1938,1930,1) Up to 1945,Potez 62,Air France,Civil / Other,India,Accident,Hull loss,7,NULL,7,1,"Hanoi, Vietnam - Paris, France",7,Crashed and burst into flames shortly after taking off from Dum Dum.,Unclassified
+13133,1938-03-17,1938,1930,1) Up to 1945,Tupolev G-2,Polyarnaya Aviatsiya,Civil / Other,Russia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+17765,1938-03-23,1938,1930,1) Up to 1945,Dewoitine D.338,Air France,Civil / Other,France,Accident,Hull loss,8,NULL,8,1,Dakar - Casablanca - Oran - Toulouse - Paris,8,The mail plane crashed into Cinq Croix peak in the Pyrenees mountains while en route.,Terrain / Obstacle
+21679,1938-03-28,1938,1930,1) Up to 1945,WM Fokker F.VIIIb,Malert,Civil / Other,Hungary,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+23061,1938-03-30,1938,1930,1) Up to 1945,Junkers Ju-52/3m,Ala Littoria,Civil / Other,Italy,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+18902,1938-04-25,1938,1930,1) Up to 1945,Sikorsky S-43B,Pan Am,Civil / Other,Jamaica,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+22650,1938-04-30,1938,1930,1) Up to 1945,Savoia-Marchetti S.73,Ala Littoria,Civil / Other,Italy,Accident,Hull loss,19,NULL,19,0,NULL,NULL,NULL,NULL
+7684,1938-05-10,1938,1930,1) Up to 1945,Ford 5-AT-C Tri-Motor,LAN Chile,Civil / Other,Chile,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+10104,1938-05-13,1938,1930,1) Up to 1945,Ford 5-AT-DS Tri-Motor,SCADTA,Civil / Other,Colombia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+12437,1938-05-16,1938,1930,1) Up to 1945,Lockheed 14-H2 Super Electra,Northwest Airlines,Civil / Other,USA,Accident,Hull loss,9,NULL,9,1,"Burbank,- St. Paul",9,"Struck Stroh peak at 3,300 feet in Mint Canyon, 27 minutes after taking off from Burbank Airport. The aircraft struck a ridge, bounded over a ravine and struck a second ridge, broke up and burst into flames. The crew did not follow the prescribed procedures and was cruising at an unsafe altitude to overfly the mountainous region.",Terrain / Obstacle
+17009,1938-05-22,1938,1930,1) Up to 1945,Curtiss T-32C Condor II,LAN Chile,Civil / Other,Chile,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+17010,1938-05-22,1938,1930,1) Up to 1945,Junkers Ju-52/3mge,Syndicato Condor,Civil / Other,Brazil,Accident,Hull loss,6,NULL,6,1,Santos - Sao Paulo - Rio de Janeiro - Natal,17,Shortly after taking the plane stalled and crashed into Santos estuary.,Human factors / Operations
+18643,1938-05-24,1938,1930,1) Up to 1945,Douglas DST-A-207A (DC-3),United Airlines,Civil / Other,USA,Accident,Hull loss,10,NULL,10,1,Newark - Cleveland - Chicago,10,An uncontrollable fire developed in the right engine and the pilot decided to make an emergency landing rather than try to reach Cleveland Airport. The plane struck trees in level flight 8.5 miles east of Cleveland Airport. A fire in the right engine accessory section which resulted from the failure of a cylinder barrel and was fed from the right engine oil supply.,Terrain / Obstacle
+14625,1938-06-19,1938,1930,1) Up to 1945,Douglas DC-2-118A,Panagra,Civil / Other,Chile,Accident,Hull loss,4,NULL,4,1,NULL,4,"An hour after leaving Santiago, radio contact with the flight was lost, as it had crashed in the high Andes. It was not found until February 1941, by indians, who plundered the aircraft and the dead passengers looking for valuables.",Unclassified
+19989,1938-06-26,1938,1930,1) Up to 1945,Junkers Ju-52/3mge,Deutsche Lufthansa Sucursal PerÃº,Civil / Other,Peru,Accident,Hull loss,7,NULL,7,0,NULL,NULL,NULL,NULL
+1513,1938-07-02,1938,1930,1) Up to 1945,Curtiss YC-30 Condor II,USAAC,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+6002,1938-07-08,1938,1930,1) Up to 1945,Lockheed 14-H Super Electra,Northwest Airlines,Civil / Other,USA,Accident,Hull loss,1,NULL,1,1,Seattle - Spokane - Helena - Billings - Fargo,10,"While taking off from Billings, the airplane left the ground in a stalled condition from which the pilot attempted to recover by use of full emergency power. Emergency power was not available because of improper adjustment of the stop which had been placed on the quadrant of the propeller pitch control levers, preventing the levers from going to the full low pitch position. As a result of the stalled condition, the airplane fell off on the right wing and crashed at a point 1,100 feet beyond the NE runway, the pilot having cut the switch just prior to the impact.",Human factors / Operations
+10691,1938-07-14,1938,1930,1) Up to 1945,Savoia-Marchetti S-66,Ala Littoria,Civil / Other,Mediterranean Sea,Accident,Hull loss,20,NULL,20,1,Cagliari - Rome,20,The flying boat crashed into the Tyrrhenian Sea after the collapse of a wing.,Unclassified
+11461,1938-07-15,1938,1930,1) Up to 1945,Douglas DC-3-228,Pan Am,Civil / Other,Argentina,Accident,Hull loss,0,1,1,0,NULL,NULL,NULL,NULL
+12240,1938-07-16,1938,1930,1) Up to 1945,Junkers Ju-52/3mge,Eurasia,Civil / Other,China,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+16830,1938-07-22,1938,1930,1) Up to 1945,Lockheed 14-H Super Electra,LOT,Civil / Other,Romania,Accident,Hull loss,14,NULL,14,1,"Warsaw, Poland - Bucharest, Romania",14,Crashed in strong turbulence and after being struck by lightning .,Weather
+20742,1938-07-27,1938,1930,1) Up to 1945,A.W. AW.15 Atalanta,Imperial Airways,Civil / Other,Kenya,Accident,Hull loss,4,NULL,4,1,London - Kisumu - Cape Town,4,"Flew into a hillside soon after takeoff from Kisumu. The ship was named ""Amalthea.""",Terrain / Obstacle
+21556,1938-07-28,1938,1930,1) Up to 1945,Martin M-130,Pan Am,Civil / Other,Pacific Ocean,Accident,Hull loss,15,NULL,15,0,NULL,NULL,NULL,NULL
+7257,1938-08-10,1938,1930,1) Up to 1945,WM Fokker F.VIIIb,Malert,Civil / Other,Hungary,Accident,Hull loss,12,NULL,12,1,NULL,12,Crashed in a field after penetrating a thunderstorm. The plane was carrying Hungarian journalists.,Weather
+8096,1938-08-11,1938,1930,1) Up to 1945,Ford 5-AT-C Tri-Motor,Private,Private,USA,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+9650,1938-08-13,1938,1930,1) Up to 1945,Savoia-Marchetti S.73,CSA,Civil / Other,Germany,Accident,Hull loss,17,NULL,17,1,Prague - Strasbourg - Paris,17,Crashed into the Black Forest mountains in poor weather conditions. One stewardess survived but died a day later..,Terrain / Obstacle
+11179,1938-08-15,1938,1930,1) Up to 1945,Junkers Ju-52/3mfe,Syndicato Condor,Civil / Other,Brazil,Accident,Hull loss,9,NULL,9,1,Guanabara - Victoria,9,"Flew into a mountain wave after taking off, went into a dive and crashed into Guanabara Bay.",Terrain / Obstacle
+13544,1938-08-18,1938,1930,1) Up to 1945,Macchi M.C.94-II,Macchi,Civil / Other,Italy,Accident,Hull loss,13,NULL,13,1,Test flight,15,The sea plane crashed shortly after taking off on a test flight and sank.,Unclassified
+13543,1938-08-18,1938,1930,1) Up to 1945,Lockheed 14-H Super Electra,LOT,Civil / Other,Romania,Accident,Hull loss,0,NULL,0,1,NULL,7,Caught fire after a ground looping.,Mechanical / Technical
+15110,1938-08-20,1938,1930,1) Up to 1945,Junkers Ju-52/3m,AviaciÃ³n Nacional,Civil / Other,Spain,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+18138,1938-08-24,1938,1930,1) Up to 1945,Douglas DC-2-221,CNAC,Civil / Other,China,Criminal occurrence,Repairable damage,14,NULL,14,1,Hong Kong - Chungking,17,"While en route from Hong Kong to Chungking, the aircraft was shot down by Japanese military fighters. The aircraft was named Kweilin. The plane was rebuilt to fly again only to be shot down again by Japanese military.",Hostile / Criminal
+2592,1938-09-03,1938,1930,1) Up to 1945,Ford 5-AT-D Tri-Motor,Johnson Flying Service,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+5617,1938-09-07,1938,1930,1) Up to 1945,CANT Z.506C,Ala Littoria,Civil / Other,Spain,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+15686,1938-09-20,1938,1930,1) Up to 1945,Short Sunderland I,RAF,Military,U.K.,Accident,Hull loss,2,NULL,2,0,NULL,NULL,NULL,NULL
+22578,1938-09-29,1938,1930,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Germany,Accident,Hull loss,1,NULL,1,0,NULL,NULL,NULL,NULL
+1083,1938-10-01,1938,1930,1) Up to 1945,Junkers Ju-52/3mte,Deutsche Lufthansa,Civil / Other,Switzerland,Accident,Hull loss,13,NULL,13,1,"Frankfurt, Germany - Milan, Italy",13,"While flying over the Alps, the aircraft disappeared. A search was unsuccessful and no trace of the aircraft nor the occupant was found. A mountain guide found debris 14 years later, on the slope of the Pizzo Cengalo on the border with Switzerland. Some mail bags were recovered and sent to the local post office.",Terrain / Obstacle
+1082,1938-10-01,1938,1930,1) Up to 1945,Junkers G.24,Syndicato Condor,Civil / Other,Brazil,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+7901,1938-10-10,1938,1930,1) Up to 1945,Sabca Savoia-Marchetti S.73P,Sabena,Civil / Other,Germany,Accident,Hull loss,20,NULL,20,1,Brussels - Düsseldorf - Berlin,20,"The aircraft broke-up in midair and crashed to the ground. A propeller may have broken, tearing loose an engine.",Mechanical / Technical
+14096,1938-10-18,1938,1930,1) Up to 1945,Douglas DC-2-112,Eastern Air Lines,Civil / Other,USA,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+15631,1938-10-20,1938,1930,1) Up to 1945,Ford 4-AT-B Tri-Motor,Private,Private,USA,Accident,Hull loss,1,NULL,1,0,NULL,NULL,NULL,NULL
+19517,1938-10-25,1938,1930,1) Up to 1945,Douglas DC-2-210,ANA,Civil / Other,Australia,Accident,Hull loss,18,NULL,18,1,Adelaide - Melbourne,18,Crashed into Mt. Daodenong in heavy fog while en route. Procedural errors by the pilot.,Weather
+3226,1938-11-04,1938,1930,1) Up to 1945,DH.86 Express,Jersey Airways,Civil / Other,U.K.,Accident,Hull loss,13,1,14,1,Jersey - Southhampton,14,Caught fire and crashed into a field two minutes after taking off. A farm worker was crushed to death when the wreckage landed on him. The pilot allowed the plane to fall into a side-slip while climbing through a low overcast and at an insufficient altitude for him to regain contol.,Mechanical / Technical
+7835,1938-11-10,1938,1930,1) Up to 1945,Douglas DC-3,Japan Air Transport,Civil / Other,Japan,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+10932,1938-11-14,1938,1930,1) Up to 1945,Douglas DC-3-194D,KLM,Civil / Other,Netherlands,Accident,Hull loss,6,NULL,6,1,Berlin - Amsterdam,19,The aircraft flew into the ground during approach in poor visibility. The first officer was commander of the military flying school Soesterberg. Pilot descended below a safe height during the approach.,Weather
+14031,1938-11-18,1938,1930,1) Up to 1945,Consolidated PBY-2 Catalina,US Navy,Military,USA,Accident,Hull loss,2,NULL,2,0,NULL,NULL,NULL,NULL
+14032,1938-11-18,1938,1930,1) Up to 1945,Lockheed 14-H2 Super Electra,TCAL,Civil / Other,Canada,Accident,Hull loss,2,NULL,2,1,Winnipeg - Regina - Vancouver,2,The mail plane crashed several minutes after taking off from Regina,Unclassified
+17065,1938-11-22,1938,1930,1) Up to 1945,Lockheed 14-WF62 Super Electra,British Airways,Civil / Other,U.K.,Accident,Hull loss,2,NULL,2,0,NULL,NULL,NULL,NULL
+17066,1938-11-22,1938,1930,1) Up to 1945,Savoia-Marchetti SM-75C,Ala Littoria,Civil / Other,Austria,Accident,Hull loss,4,NULL,4,0,NULL,NULL,NULL,NULL
+19458,1938-11-25,1938,1930,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Germany,Accident,Hull loss,4,NULL,4,0,NULL,NULL,NULL,NULL
+20189,1938-11-26,1938,1930,1) Up to 1945,Junkers Ju-90V2,Deutsche Lufthansa,Civil / Other,Gambia,Accident,Hull loss,12,NULL,12,1,NULL,15,During takeoff the aircraft hit a palm tree and burst into flames due to double engine failure.,Mechanical / Technical
+21007,1938-11-27,1938,1930,1) Up to 1945,Short S.23 Empire Flying Boat Mk I,Imperial Airways,Civil / Other,Iraq,Accident,Hull loss,4,NULL,4,1,Southampton - Sydney,6,The flying boat crashed on Lake Ramadi at night in a sandstorm.,Weather
+22448,1938-11-29,1938,1930,1) Up to 1945,Douglas DC-3A-191,United Airlines,Civil / Other,USA,Accident,Hull loss,5,NULL,5,1,"Seattle, WA - Medford, OR - Oakland,CA",7,"The aircraft ran out of fuel and ditched into the ocean a little less than a mile offshore. Failure of the pilot to definitely establish the position of the aircraft through standard orientation procedures within a reasonable time after intersecting a leg of the Oakland radio range and of Company flight dispatchers, charged with the responsibilities of directing the operation of the trip, to properly safeguard the flight, resulting in forced landing of the aircraft at sea due to exhausted fuel supply.",Mechanical / Technical
+1310,1938-12-02,1938,1930,1) Up to 1945,Junkers Ju-52/3mte,Deutsche Lufthansa,Civil / Other,Austria,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+2047,1938-12-03,1938,1930,1) Up to 1945,DH.86 Express,Imperial Airways,Civil / Other,Thailand,Unknown,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+4251,1938-12-06,1938,1930,1) Up to 1945,Focke-Wulf Fw 200,Deutsche Lufthansa,Civil / Other,Philippines,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+5792,1938-12-08,1938,1930,1) Up to 1945,Nakajima/Douglas DC-2,Imperial Japanese Airways,Civil / Other,Japan,Accident,Hull loss,10,NULL,10,0,NULL,NULL,NULL,NULL
+6530,1938-12-09,1938,1930,1) Up to 1945,Lockheed 14-WF62 Super Electra,KLM,Civil / Other,Netherlands,Accident,Hull loss,4,NULL,4,1,Instructional Flight,4,Whle taking off the aircraft stalled and struck a dyke near Schiphol Airport and caught fire.,Mechanical / Technical
+7315,1938-12-10,1938,1930,1) Up to 1945,Lockheed 14-WG3B Super Electra,Imperial Japanese Airways,Civil / Other,China,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+8147,1938-12-11,1938,1930,1) Up to 1945,Junkers Ju-52/3mge,SEDTA,Civil / Other,Ecuador,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+5199,1939-01-07,1939,1930,1) Up to 1945,Douglas DC-2-115B,Swissair,Civil / Other,France,Accident,Hull loss,5,NULL,5,1,Zurich - Geneva - Paris,17,The aircraft crashed onto a field losing both wings while attempting to land in low overcast.,Unclassified
+9835,1939-01-13,1939,1930,1) Up to 1945,Lockheed 14-H Super Electra,Northwest Airlines,Civil / Other,USA,Accident,Hull loss,4,NULL,4,1,Chicago - Seattle,4,"The aircraft crashed 2,650 feet past the runway boundry after taking off. A fire of considerable intensity developed, prior to the crash, in the cockpit of the aircraft, in the immediate vicinity of the gasoline cross-feed valve. It was not possible to determine the exact origin and source of the fire.",Mechanical / Technical
+9834,1939-01-13,1939,1930,1) Up to 1945,Junkers Ju-52/3mge,Syndicato Condor,Civil / Other,Brazil,Accident,Hull loss,10,NULL,10,1,Vitoria - Rio de Janeiro,10,"In reduced visibility and strong winds, the seaplane crashed into the side of Mt. Chambe while attempting to land at Rio de Janerio.",Weather
+9833,1939-01-13,1939,1930,1) Up to 1945,Fokker F.XVIII,Commercial Aviation Company,Civil / Other,Israel,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+12942,1939-01-17,1939,1930,1) Up to 1945,Ford 5-AT-.  Tri-Motor,SCADTA,Civil / Other,Colombia,Accident,Hull loss,4,NULL,4,0,NULL,NULL,NULL,NULL
+13715,1939-01-18,1939,1930,1) Up to 1945,Lockheed 14-H Super Electra,Guinea Airways,Civil / Other,Australia,Accident,Hull loss,4,NULL,4,1,Katherine - Adelaide,4,"The mail plane failed to gain height after taking off, stalled and crashed into the Katherine River during a storm.",Weather
+16013,1939-01-21,1939,1930,1) Up to 1945,Short S.23 Empire Flying Boat Mk II,Imperial Airways,Civil / Other,Atlantic Ocean,Accident,Hull loss,3,NULL,3,1,New York City - Bermuda,13,"While en route, the aircraft ditched, broke in two and sank in the Atlantic Ocean, 285 miles SE of Long Island New York. Complete loss of power to the two inner engines and partial loss of power to the two outer engines due to carburetor icing. The aircraft was named ""Cavalier.""",Weather
+18349,1939-01-24,1939,1930,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,France,Accident,Hull loss,5,NULL,5,0,NULL,NULL,NULL,NULL
+20673,1939-01-27,1939,1930,1) Up to 1945,Potez 62,Air France,Civil / Other,Germany,Accident,Hull loss,6,NULL,6,0,NULL,NULL,NULL,NULL
+4312,1939-02-06,1939,1930,1) Up to 1945,Fokker F.XVIII,Spanish Republican AF,Military,Spain,Other,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+9775,1939-02-13,1939,1930,1) Up to 1945,Junkers Ju-52/3m,AviaciÃ³n Nacional,Civil / Other,Spain,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+14436,1939-02-19,1939,1930,1) Up to 1945,Sikorsky S-42A,Pan Am,Civil / Other,Puerto Rico,Accident,Repairable damage,0,NULL,0,0,NULL,NULL,NULL,NULL
+18281,1939-02-24,1939,1930,1) Up to 1945,Junkers Ju-52/3mge,Reichsluftfahrtministerium,Civil / Other,France,Accident,Hull loss,12,NULL,12,1,"Barcelona, Spain - Rome, Italy",10,"While cruising in bad weather conditions, aircraft hit a mountain near Roubion, in the National Park of Mercantour, 50 km north of Nice. Engine trouble may have factored in the accident, which occurred in adverse weather conditions, with fog and falling snow in the area.",Terrain / Obstacle
+1640,1939-03-02,1939,1930,1) Up to 1945,Ford 6-AT-AS Tri-Motor,Yukon Southern Air Transport,Civil / Other,Canada,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+3813,1939-03-05,1939,1930,1) Up to 1945,Junkers Ju-52/3m,AviaciÃ³n Nacional,Civil / Other,Spain,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+9235,1939-03-12,1939,1930,1) Up to 1945,Short S.23 Empire Flying Boat Mk I,"Imperial Airways, op.for Qantas Empire Airways",Civil / Other,Indonesia,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+9234,1939-03-12,1939,1930,1) Up to 1945,Junkers Ju-52/3mge,Eurasia,Civil / Other,China,Accident,Hull loss,4,NULL,4,0,NULL,NULL,NULL,NULL
+10809,1939-03-14,1939,1930,1) Up to 1945,Junkers Ju-52/3mge,Sabena,Civil / Other,Belgium,Accident,Hull loss,3,NULL,3,1,London - Brussels,3,The cargo plane stalled and crashed into a field short of the runway.,Human factors / Operations
+13914,1939-03-18,1939,1930,1) Up to 1945,Boeing S.307 Stratoliner,Boeing,Civil / Other,USA,Accident,Hull loss,10,NULL,10,1,Test flight,10,"The aircraft crashed after the tail broke off. Dutch engineer A.G. von Baumhauer among those killed. He was a famous helicopter pioneer who first came up with the tail rotor/main rotor configuration which is in use today. Strructural failure of the wings and horizontal tail surfaces due t o the imposition of loads thereon in excess of those for which they were designed, the failure occurring in an abrupt pull-out from a dive following recovery from an inadvertent spin.",Mechanical / Technical
+20064,1939-03-26,1939,1930,1) Up to 1945,Douglas DC-2-112,Braniff Airways,Civil / Other,USA,Accident,Hull loss,8,NULL,8,1,Chicago - Kansas City - Wichita - Oklahoma City - Dallas,12,"An explosion in an engine, just after takeoff blew the two halves of the cowl open creating excessive drag and causing the left wing to drop. The captain tried to circle back, but the wing impacted an embankment along a section line road and crashed about 100 yards inside the boundary. Either the hot metal of the engines or some other source ignited the fuel spilling out of the ruptured tank and the cabin was quickly engulfed in flames. The initial cause of the explosion was a cylinder blow out which was a problem with that particular engine and had caused problems in two other aircraft, a TWA and United DC-2, both of which landed safely.",Mechanical / Technical
+22317,1939-03-29,1939,1930,1) Up to 1945,Junkers Ju-52/3mge,Iberia,Civil / Other,Spain,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+11112,1939-04-15,1939,1930,1) Up to 1945,Ford 5-AT-C Tri-Motor,South American Gulf Oil Co.,Civil / Other,Colombia,Accident,Hull loss,2,NULL,2,0,NULL,NULL,NULL,NULL
+18079,1939-04-24,1939,1930,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Germany,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+21959,1939-04-29,1939,1930,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Germany,Accident,Hull loss,5,NULL,5,0,NULL,NULL,NULL,NULL
+955,1939-05-01,1939,1930,1) Up to 1945,Short S.23 Empire Flying Boat Mk I,Imperial Airways,Civil / Other,Mozambique,Accident,Hull loss,2,NULL,2,1,London - Cairo- Mombasa - Dar es-Salaam - Lumbo - Maputo,4,After an aborted landing the plane hit the water and came to rest off Ilha de Mocambique island.,Unclassified
+1696,1939-05-02,1939,1930,1) Up to 1945,Dewoitine D.338,Air France,Civil / Other,Morocco,Accident,Hull loss,9,NULL,9,1,"Casablanca, Morocco - Dakar, Senegal",9,Crashed and burned in a mountainous area due to icing.,Terrain / Obstacle
+2426,1939-05-03,1939,1930,1) Up to 1945,Consolidated PBY-4 Catalina,US Navy,Military,USA,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+4658,1939-05-06,1939,1930,1) Up to 1945,Junkers Ju-52/3m,Eurasia,Civil / Other,China,Criminal occurrence,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+13204,1939-05-17,1939,1930,1) Up to 1945,Lockheed 14-WG3B Super Electra,Imperial Japanese Airways,Civil / Other,Japan,Accident,Hull loss,6,NULL,6,0,NULL,NULL,NULL,NULL
+847,1939-06-01,1939,1930,1) Up to 1945,A.W. AW.15 Atalanta,Imperial Airways,Civil / Other,Egypt,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+3754,1939-06-05,1939,1930,1) Up to 1945,Short Sunderland I,RAF,Military,Singapore,Accident,Hull loss,4,NULL,4,0,NULL,NULL,NULL,NULL
+4510,1939-06-06,1939,1930,1) Up to 1945,Douglas DC-2-115E,KLM,Civil / Other,Netherlands,Accident,Repairable damage,0,1,1,1,Training,4,"During a training flight with one engine out, the crew hit an obstacle and then a sentry-box with 9 soldiers inside. One soldier died and 3 others were wounded. The aircraft was repaired.",Mechanical / Technical
+9172,1939-06-12,1939,1930,1) Up to 1945,Short S.23 Empire Flying Boat Mk I,Imperial Airways,Civil / Other,India,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+14626,1939-06-19,1939,1930,1) Up to 1945,Short S.30 Empire Flying Boat,Imperial Airways,Civil / Other,Atlantic Ocean,Other,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+22208,1939-07-29,1939,1930,1) Up to 1945,DH.86A Express,RAF,Military,U.K.,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+1983,1939-08-03,1939,1930,1) Up to 1945,Junkers Ju-52/3mte,Deutsche Lufthansa,Civil / Other,Myanmar,Unknown,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+2722,1939-08-04,1939,1930,1) Up to 1945,Junkers Ju-52/3mte,Deutsche Lufthansa,Civil / Other,Spain,Accident,Hull loss,7,NULL,7,1,Cologne - Toulouse - Barcelona - Casablanca,7,Crashed in the Llaveria mountains in heavy fog and caught fire. The plane hit the highest peak of the mountains.,Terrain / Obstacle
+8097,1939-08-11,1939,1930,1) Up to 1945,Lockheed 14-WF62 Super Electra,Imperial Airways,Civil / Other,France,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+9651,1939-08-13,1939,1930,1) Up to 1945,Sikorsky S-43B,Pan Am,Civil / Other,Brazil,Accident,Hull loss,14,NULL,14,1,Miami - Rio de Janerio,16,"The plane lost power from the left engine, yawed to the left, and started a descending turn in the same direction. The plane continued to lose altitude and turn at a sharper and steeper angle until it struck a caisson anchored at right angles to a small island in the harbor immediately adjacent to its landing approach path. Loss of power from the left engine during the landing approach, necessitating an attempted landing under extremely hazardous conditions.",Mechanical / Technical
+18139,1939-08-24,1939,1930,1) Up to 1945,Junkers F.24kay (G.24),Deutsche Lufthansa,Civil / Other,Germany,Accident,Hull loss,2,NULL,2,0,NULL,NULL,NULL,NULL
+18140,1939-08-24,1939,1930,1) Up to 1945,Savoia-Marchetti SM-75,Ala Littoria,Civil / Other,Italy,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+22724,1939-08-30,1939,1930,1) Up to 1945,Junkers Ju-52/3mte,Deutsche Lufthansa,Civil / Other,Germany,Accident,Hull loss,7,NULL,7,1,Berlin - Hanover - Cologne - London,7,The aircraft crashed while taking off from Hanover. Visibility was poor because of low fog covering the runway. The pilot was searching for the proper flight path when the plane veered towards a building while still 40 meters above the ground. The pilot tried to raise the plane while trying to turn left at the same time but lost control and crashed and the plane caught fire.The passengers were pilots of Lufthansa.,Weather
+23374,1939-08-31,1939,1930,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Germany,Accident,Hull loss,4,NULL,4,0,NULL,NULL,NULL,NULL
+4075,1939-09-05,1939,1930,1) Up to 1945,Vickers Valentia,RAF,Military,U.K.,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+4074,1939-09-05,1939,1930,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Germany,Criminal occurrence,Hull loss,9,NULL,9,0,NULL,NULL,NULL,NULL
+7971,1939-09-10,1939,1930,1) Up to 1945,Short Sunderland I,RAF,Military,U.K.,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+10293,1939-09-13,1939,1930,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Germany,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+14139,1939-09-18,1939,1930,1) Up to 1945,Short Sunderland I,RAF,Military,U.K.,Accident,Hull loss,10,NULL,10,0,NULL,NULL,NULL,NULL
+17210,1939-09-22,1939,1930,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Germany,Accident,Hull loss,13,NULL,13,0,NULL,NULL,NULL,NULL
+19584,1939-09-25,1939,1930,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Poland,Criminal occurrence,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+21902,1939-09-28,1939,1930,1) Up to 1945,Douglas DC-2-210,ANA,Civil / Other,Australia,Accident,Repairable damage,0,NULL,0,0,NULL,NULL,NULL,NULL
+7062,1939-10-09,1939,1930,1) Up to 1945,Junkers Ju-52/3mg4c,German AF,Military,Germany,Accident,Hull loss,7,NULL,7,0,NULL,NULL,NULL,NULL
+7902,1939-10-10,1939,1930,1) Up to 1945,Junkers Ju-52/3m,German AF,Military,Germany,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+10222,1939-10-13,1939,1930,1) Up to 1945,Caproni Ca.133,Ala Littoria,Civil / Other,Djibouti,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+10223,1939-10-13,1939,1930,1) Up to 1945,Short Sunderland I,RAF,Military,U.K.,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+11802,1939-10-15,1939,1930,1) Up to 1945,Short Sunderland I,RAF,Military,U.K.,Accident,Hull loss,4,NULL,4,0,NULL,NULL,NULL,NULL
+13324,1939-10-17,1939,1930,1) Up to 1945,Savoia-Marchetti S.73,Ala Littoria,Civil / Other,Spain,Accident,Hull loss,15,NULL,15,0,NULL,NULL,NULL,NULL
+5499,1939-11-07,1939,1930,1) Up to 1945,Handley Page HP.42W,Imperial Airways,Civil / Other,U.K.,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+7836,1939-11-10,1939,1930,1) Up to 1945,Junkers Ju-52/3m,Spanish AF,Military,Spain,Accident,Hull loss,7,NULL,7,0,NULL,NULL,NULL,NULL
+11727,1939-11-15,1939,1930,1) Up to 1945,Junkers Ju-52/3mge,Argentine AF,Military,Argentina,Accident,Repairable damage,0,NULL,0,0,NULL,NULL,NULL,NULL
+13263,1939-11-17,1939,1930,1) Up to 1945,Junkers Ju-52/3m,Spanish AF,Military,Morocco,Accident,Hull loss,10,NULL,10,0,NULL,NULL,NULL,NULL
+2791,1939-12-04,1939,1930,1) Up to 1945,Junkers Ju-52/3mlu,Ala Littoria,Civil / Other,Germany,Accident,Hull loss,5,NULL,5,0,NULL,NULL,NULL,NULL
+13597,1939-12-18,1939,1930,1) Up to 1945,Junkers Ju-52/3m,Iberia,Civil / Other,Gibraltar,Accident,Hull loss,10,NULL,10,1,Tetouan- Seville - Alicante,9,Shot down by a British RAF fighter. Crashed 6 miles south of Europa Point.,Hostile / Criminal
+15869,1939-12-21,1939,1930,1) Up to 1945,Lockheed 14-WF62 Super Electra,British Airways,Civil / Other,Mediterranean Sea,Accident,Hull loss,5,NULL,5,1,Egypt - England,8,"Ditched into the sea, 300 miles NW of Alexandria, Egypt. A ship rescued six survivers.",Unclassified
+11381,1940-01-15,1940,1940,1) Up to 1945,Lockheed 14-WF62 Super Electra,British Airways,Civil / Other,U.K.,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+16754,1940-01-22,1940,1940,1) Up to 1945,Lockheed 14-WF62 Super Electra,KNILM,Civil / Other,Indonesia,Accident,Hull loss,8,NULL,8,1,Batavia - Denpasar - Kupang - Darwin - Sydney,9,Crashed into the sea shortly after take-off. Cause unknown,Unclassified
+22847,1940-01-30,1940,1940,1) Up to 1945,Ford 4-AT-E Tri-Motor,White Pass Airways,Civil / Other,Canada,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+3578,1940-02-05,1940,1940,1) Up to 1945,Nakajima/Douglas DC-2,Imperial Japanese Airways,Civil / Other,Japan,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+7381,1940-02-10,1940,1940,1) Up to 1945,Savoia-Marchetti SM-75,Ala Littoria,Civil / Other,Italy,Accident,Hull loss,10,NULL,10,1,Catania - Brindisi - Rome,10,Crashed and burned on a hill side in fog. Prior to crashing the crew reported ice on the wings.,Weather
+15236,1940-02-20,1940,1940,1) Up to 1945,Ford 5-AT-.  Tri-Motor,TACA de Nicaragua,Civil / Other,Nicaragua,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+19085,1940-02-25,1940,1940,1) Up to 1945,Ford 5-AT-C Tri-Motor,TACA,Civil / Other,Costa Rica,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+894,1940-03-01,1940,1940,1) Up to 1945,Handley Page HP.42E,Imperial Airways,Civil / Other,Indian Ocean,Accident,Hull loss,8,NULL,8,1,Calcutta - Jask - Sharjah - Alexandria - London,8,"Crashed in the Persian Gulf while en route with out a trace. The aircraft was named ""Hannibal.""",Unclassified
+2334,1940-03-03,1940,1940,1) Up to 1945,Bloch 220,Air France,Civil / Other,France,Accident,Hull loss,3,NULL,3,0,NULL,NULL,NULL,NULL
+3814,1940-03-05,1940,1940,1) Up to 1945,Ford 5-AT-B Tri-Motor,Mexicana,Civil / Other,Mexico,Accident,Hull loss,0,NULL,0,0,NULL,NULL,NULL,NULL
+11587,1940-03-15,1940,1940,1) Up to 1945,DH.86B Express,private,Private,P.N. Guinea,Accident,Hull loss,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL
+12380,1940-03-16,1940,1940,1) Up to 1945,Savoia-Marchetti S.73,ALI,Civil / Other,Italy,Accident,Hull loss,14,NULL,14,0,NULL,NULL,NULL,NULL
