@@ -4,7 +4,7 @@ An end-to-end analytics project on real, web scraped aviation accident data from
 
 > **Role played:** safety and risk analyst advising an insurer or regulator. Where does aviation risk concentrate, has it changed over time, and how far can the data be trusted?
 
-![Executivesummary](Preview%20Images/Executivesummary.png)
+![Executive summary](Preview%20Images/Executivesummary.png)
 
 ## Key findings
 
@@ -29,11 +29,11 @@ All figures cover **civil accidents, 1946-2022**, unless stated.
 
 | Page | Question | Preview |
 |---|---|---|
-| 1. Executive summary | Is civil aviation getting safer? | ![Executivesummary](Preview%20Images/Executivesummary.png)  |
-| 2. Where it happens | Which operators and countries have the most fatalities? | ![Whereithappens](Preview%20Images/Whereithappens.png) |
-| 3. Airline risk | Who is riskier per unit of flying? | ![Airlinerisk](Preview%20Images/Airlinerisk.png) |
+| 1. Executive summary | Is civil aviation getting safer? | ![Executive summary](Preview%20Images/Executivesummary.png)  |
+| 2. Where it happens | Which operators and countries have the most fatalities? | ![Where it happens](Preview%20Images/Whereithappens.png) |
+| 3. Airline risk | Who is riskier per unit of flying? | ![Airline risk](Preview%20Images/Airlinerisk.png) |
 | 4. Causes | What causes civil accidents? | ![Causes](Preview%20Images/Causes.png)|
-| 5. Data limits | How far can we trust the data? | ![Datalimits](Preview%20Images/Datalimits.png) |
+| 5. Data limits | How far can we trust the data? | ![Data limits](Preview%20Images/Datalimits.png) |
 
 ## Data sources
 
