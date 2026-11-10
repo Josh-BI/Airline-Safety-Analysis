@@ -54,13 +54,14 @@ All figures cover **civil accidents, 1946-2022**, unless stated.
 ```
 .
 ├── Data raw               
-├── Data clean
-├── powerbi/
+├── Power BI/
 │   └── Aviation Safety Risk Analysis.pbix
-├── sql/
+├── Preview Images
+├── Sql/
 │   ├── cleaning.sql       
 │   ├── model.sql         
 │   └── analysis.sql
+├── data clean
 └── README.md
 ```
 
