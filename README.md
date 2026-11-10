@@ -1,6 +1,6 @@
 # Aviation Safety Risk Analysis: Is Civil Aviation Getting Safer?
 
-An end-to-end analytics project on real, publicly scraped aviation accident data from 1908 to 2023, obtained via Kaggle: SQL Server for cleaning and modelling, Power BI for a five-page dashboard.
+An end-to-end analytics project on real, publicly scraped aviation accident data from 1908 to 2023: SQL Server for cleaning and modelling, Power BI for a five-page dashboard.
 
 > **Role played:** safety and risk analyst advising an insurer or regulator. Where does aviation risk concentrate, has it changed over time, and how far can the data be trusted?
 
@@ -23,7 +23,7 @@ All figures cover **civil accidents, 1946-2022**, unless stated.
 
 1. **Track severity, not just frequency.** Fatal share and fatalities per accident show the improvement that accident counts hide.
 2. **Always normalize by exposure** (seat-km or flights) before ranking operators or countries.
-3. **Improve cause coding.** Only about 15% of events have a narrative and human factors are under recorded, so structured cause fields would make this analysis far more stronger.
+3. **Improve cause coding.** Only about 15% of events have a narrative and human factors are under recorded, so structured cause fields would make this analysis much stronger.
 
 ## Dashboard
 
