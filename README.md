@@ -4,7 +4,7 @@ An end-to-end analytics project on real, web scraped aviation accident data from
 
 > **Role played:** safety and risk analyst advising an insurer or regulator. Where does aviation risk concentrate, has it changed over time, and how far can the data be trusted?
 
-![alt text](<Executive summary.png>)
+![Executive summary](Preview%20Images/Executive%20summary.png)
 
 ## Key findings
 
@@ -14,26 +14,26 @@ All figures cover **civil accidents, 1946-2022**, unless stated.
 |---|---|
 | 1 | **Fatalities fell sharply while accident counts stayed flat.** Deaths peaked at 17,793 in the 1970s and fell to 4,840 in the 2010s (**-73%**). Accidents barely moved (1,764 to 1,698). The share of events with known fatalities that were fatal fell from 53.0% to 22.6%. |
 | 2 | **About 34% of the raw data is military.** It was 78% in the 1940s and 8% in the 2010s. Without filtering it out, "crash trends" mostly describe WWII(World War 2). |
-| 3 | **Raw counts mislead.** The top operators by deaths are the largest and oldest carriers (Air France 1,465; Pan Am 1,208; American 1,137), so risk is normalised by flying done (seat-km). |
-| 4 | **Normalised risk (2000-14):** Kenya Airways (1.31 deaths per billion seat-km), Malaysia Airlines (0.66), Gulf Air (0.61). 32 of 56 airlines had zero fatalities. Fatal accidents across all 56 fell from 122 to 37. Rankings are driven by one or two events (Malaysia's 537 deaths are MH17 and MH370). |
+| 3 | **Raw counts mislead.** The top operators by deaths are the largest and oldest carriers (Air France 1,465; Pan Am 1,208; American 1,137), so risk is normalized by flying done (seat-km). |
+| 4 | **Normalized risk (2000-14):** Kenya Airways (1.31 deaths per billion seat-km), Malaysia Airlines (0.66), Gulf Air (0.61). 32 of 56 airlines had zero fatalities. Fatal accidents across all 56 fell from 122 to 37. Rankings are driven by one or two events (Malaysia's 537 deaths are MH17 and MH370). |
 | 5 | **After 2014, the trend continues.** The 17 airlines mapped to ASN averaged 1.07 fatal accidents per year in 2000-14 and 0.38 in 2015-22 (16 vs 3 events). The counts are small, so this is consistent with improvement, not proof. |
 | 6 | **Causes are stable across eras.** Mechanical, terrain and weather each explain roughly 20 to 25% of accidents. 25.7% are unclassified and human factors show only 7.5%, so the keyword method undercounts pilot-related causes. Indicative only. |
 
 ### Recommendations
 
 1. **Track severity, not just frequency.** Fatal share and fatalities per accident show the improvement that accident counts hide.
-2. **Always normalise by exposure** (seat-km or flights) before ranking operators or countries.
+2. **Always normalize by exposure** (seat-km or flights) before ranking operators or countries.
 3. **Improve cause coding.** Only about 15% of events have a narrative and human factors are under recorded, so structured cause fields would make this analysis far more stronger.
 
 ## Dashboard
 
 | Page | Question | Preview |
 |---|---|---|
-| 1. Executive summary | Is civil aviation getting safer? | ![alt text](<Executive summary.png>)  |
-| 2. Where it happens | Which operators and countries have the most fatalities? | ![alt text](<Where it happens.png>) |
-| 3. Airline risk | Who is riskier per unit of flying? | ![alt text](<Airline risk.png>) |
-| 4. Causes | What causes civil accidents? | ![alt text](Causes.png) |
-| 5. Data limits | How far can we trust the data? | ![alt text](<Data limits.png>) |
+| 1. Executive summary | Is civil aviation getting safer? | ![Executive summary](Preview%20Images/Executive%20summary.png) |
+| 2. Where it happens | Which operators and countries have the most fatalities? | ![Where it happens](Preview%20Images/Where%20it%20happens.png) |
+| 3. Airline risk | Who is riskier per unit of flying? | ![Airline risk](Preview%20Images/Airline%20risk.png) |
+| 4. Causes | What causes civil accidents? | ![Causes](Preview%20Images/Causes.png)|
+| 5. Data limits | How far can we trust the data? | ![Data limits](Preview%20Images/Data%20limits.png) |
 
 ## Data sources
 
